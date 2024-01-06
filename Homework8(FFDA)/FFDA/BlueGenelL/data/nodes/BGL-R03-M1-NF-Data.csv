@@ -1,0 +1,961 @@
+,Timestamp,ID-Node,Rack,Midplane,Node,Card,Card type,Message,Tuple
+0,1132841269,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check interrupt (bit=0x10): L2 dcache unit read return parity error,0
+1,1132841269,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address: 0x002a2560,0
+2,1132841269,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine Check Status Register: 0xa0000000,0
+3,1132841269,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check summary.............1,0
+4,1132841270,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction plb error.............0,0
+5,1132841270,R03-M1-NF,R03,M1,NF,J07-U01,computation,data read plb error...............1,0
+6,1132841270,R03-M1-NF,R03,M1,NF,J07-U01,computation,data write plb error..............0,0
+7,1132841270,R03-M1-NF,R03,M1,NF,J07-U01,computation,tlb error.........................0,0
+8,1132841270,R03-M1-NF,R03,M1,NF,J07-U01,computation,i-cache parity error..............0,0
+9,1132841270,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache search parity error.......0,0
+10,1132841270,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache flush parity error........0,0
+11,1132841271,R03-M1-NF,R03,M1,NF,J07-U01,computation,imprecise machine check...........0,0
+12,1132841271,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine State Register: 0x0002f900,0
+13,1132841271,R03-M1-NF,R03,M1,NF,J07-U01,computation,wait state enable.................0,0
+14,1132841271,R03-M1-NF,R03,M1,NF,J07-U01,computation,critical input interrupt enable...1,0
+15,1132841271,R03-M1-NF,R03,M1,NF,J07-U01,computation,external input interrupt enable...1,0
+16,1132841271,R03-M1-NF,R03,M1,NF,J07-U01,computation,problem state (0=sup,0
+17,1132841272,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating point instr. enabled.....1,0
+18,1132841272,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check enable..............1,0
+19,1132841272,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 0 enable......1,0
+20,1132841272,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug wait enable.................0,0
+21,1132841272,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug interrupt enable............0,0
+22,1132841272,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 1 enable......1,0
+23,1132841272,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address space.........0,0
+24,1132841273,R03-M1-NF,R03,M1,NF,J07-U01,computation,data address space................0,0
+25,1132841273,R03-M1-NF,R03,M1,NF,J07-U01,computation,Core Configuration Register 0: 0x40002000,0
+26,1132841273,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable store gathering..................0,0
+27,1132841273,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable apu instruction broadcast........0,0
+28,1132841273,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable trace broadcast..................0,0
+29,1132841273,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed instruction cache block touch.0,0
+30,1132841273,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed data cache block touch........1,0
+31,1132841274,R03-M1-NF,R03,M1,NF,J07-U01,computation,force load/store alignment...............0,0
+32,1132841274,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch depth....................0,0
+33,1132841274,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch threshold................0,0
+34,1132841274,R03-M1-NF,R03,M1,NF,J07-U01,computation,General Purpose Registers:,0
+35,1132841274,R03-M1-NF,R03,M1,NF,J07-U01,computation,r00=0x00000000 r01=0x0ffe82b0 r02=0x1eeeeeee r03=0x0ffea4c8,0
+36,1132841274,R03-M1-NF,R03,M1,NF,J07-U01,computation,r04=0x00000000 r05=0x24404244 r06=0x0029fcac r07=0x00003710,0
+37,1132841274,R03-M1-NF,R03,M1,NF,J07-U01,computation,r08=0x00ed4920 r09=0x00000000 r10=0x003b0000 r11=0x00ed4920,0
+38,1132841275,R03-M1-NF,R03,M1,NF,J07-U01,computation,r12=0x00398958 r13=0x1eeeeeee r14=0x00000000 r15=0x0000006c,0
+39,1132841275,R03-M1-NF,R03,M1,NF,J07-U01,computation,r16=0x000000b1 r17=0x00000013 r18=0x0000006b r19=0x00ed4920,0
+40,1132841275,R03-M1-NF,R03,M1,NF,J07-U01,computation,r20=0x40000000 r21=0x40000000 r22=0xffffd000 r23=0x0ffea5c8,0
+41,1132841275,R03-M1-NF,R03,M1,NF,J07-U01,computation,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,0
+42,1132841275,R03-M1-NF,R03,M1,NF,J07-U01,computation,r28=0x004c9870 r29=0xd0001080 r30=0x00000078 r31=0x00000000,0
+43,1132841275,R03-M1-NF,R03,M1,NF,J07-U01,computation,Special Purpose Registers:,0
+44,1132841276,R03-M1-NF,R03,M1,NF,J07-U01,computation,lr=0x0029fcac cr=0x24424242 xer=0x20000002 ctr=0x002701f8,0
+45,1132841276,R03-M1-NF,R03,M1,NF,J07-U01,computation,msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x86004000,0
+46,1132841276,R03-M1-NF,R03,M1,NF,J07-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000,0
+47,1132841276,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Status and Control Register: 0x86004000,0
+48,1132841276,R03-M1-NF,R03,M1,NF,J07-U01,computation,exception summary........................1,0
+49,1132841276,R03-M1-NF,R03,M1,NF,J07-U01,computation,enabled exception summary................0,0
+50,1132841277,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception summary......0,0
+51,1132841277,R03-M1-NF,R03,M1,NF,J07-U01,computation,overflow exception.......................0,0
+52,1132841277,R03-M1-NF,R03,M1,NF,J07-U01,computation,underflow exception......................0,0
+53,1132841277,R03-M1-NF,R03,M1,NF,J07-U01,computation,divide-by-zero exception.................1,0
+54,1132841277,R03-M1-NF,R03,M1,NF,J07-U01,computation,inexact exception........................1,0
+55,1132841277,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (SNAN)...........................0,0
+56,1132841277,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf-Inf)........................0,0
+57,1132841278,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Inf)........................0,0
+58,1132841278,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Zero/Zero)......................0,0
+59,1132841278,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Zero).......................0,0
+60,1132841278,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (compare)........................0,0
+61,1132841278,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction rounded.........................0,0
+62,1132841278,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction inexact.........................0,0
+63,1132841278,R03-M1-NF,R03,M1,NF,J07-U01,computation,quiet NaN................................0,0
+64,1132841279,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus inf................................0,0
+65,1132841279,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus normalized number..................0,0
+66,1132841279,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus denormalized number................0,0
+67,1132841279,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus zero...............................0,0
+68,1132841279,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus zero................................0,0
+69,1132841279,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus denormalized number.................0,0
+70,1132841280,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus normalized number...................1,0
+71,1132841280,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus infinity............................0,0
+72,1132841280,R03-M1-NF,R03,M1,NF,J07-U01,computation,reserved.................................0,0
+73,1132841280,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (software)...0,0
+74,1132841280,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (sqrt).......0,0
+75,1132841280,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (int cnvt)...0,0
+76,1132841280,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable invalid operation exceptions......0,0
+77,1132841281,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable overflow exceptions...............0,0
+78,1132841281,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable underflow exceptions..............0,0
+79,1132841281,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable divide-by-zero exceptions.........0,0
+80,1132841281,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable inexact exceptions................0,0
+81,1132841281,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable non-IEEE mode.....................0,0
+82,1132841281,R03-M1-NF,R03,M1,NF,J07-U01,computation,round nearest............................0,0
+83,1132841281,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward zero........................0,0
+84,1132841282,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward +infinity...................0,0
+85,1132841282,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward -infinity...................0,0
+86,1132841282,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Registers:,0
+87,1132841282,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr0=0x8d63692c c02280f9 00000000 40cb7f00,0
+88,1132841282,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr1=0x00000000 00000000 6de2d769 40768044,0
+89,1132841282,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr2=0x00000000 00000000 83e742ae c09a0207,0
+90,1132841282,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr3=0x00000000 00000000 cb250ef8 4061cf8c,0
+91,1132841283,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr4=0x00000000 00000000 0ffaa000 bfd98f2f,0
+92,1132841283,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr5=0x1e29b995 40465fd1 28ec6124 3fd15277,0
+93,1132841283,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr6=0x56fae58a 4050ed36 798582f4 bf92e6d9,0
+94,1132841283,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr7=0x6aa4f635 400c9dd0 c245a32f c070b279,0
+95,1132841283,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr8=0xe72ef64a bf93c286 e063712e 3fc004d2,0
+96,1132841283,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr9=0xf3d13f6c c0456c7d 00000000 c01c0000,0
+97,1132841283,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr10=0xac584f3a bffac6de 00000000 401c0000,0
+98,1132841284,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr11=0xab4c8d38 bffcf2e2 0ffaa000 bfd98f2f,0
+99,1132841284,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr12=0x1c8919e6 c08f58dd b022b757 3fc7afbd,0
+100,1132841284,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr13=0x00000000 08f07178 8aa2d785 bf836735,0
+101,1132841284,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr14=0xffffffff ffffffff c200fd1c 3f5fd606,0
+102,1132841284,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr15=0xffffffff ffffffff f91cb30a bf5e09bb,0
+103,1132841284,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr16=0xffffffff ffffffff cda452a3 3f8fdc10,0
+104,1132841285,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr17=0xffffffff ffffffff b9c5f097 3feff9db,0
+105,1132841285,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr18=0xffffffff ffffffff 80000000 c3300000,0
+106,1132841285,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr19=0xffffffff ffffffff d6ab5368 3f553959,0
+107,1132841285,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr20=0xffffffff ffffffff 00000000 3fd80000,0
+108,1132841285,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr21=0xffffffff ffffffff 00000000 bfd40000,0
+109,1132841285,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr22=0xffffffff ffffffff 00000000 bff00000,0
+110,1132841285,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,0
+111,1132841286,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr24=0xffffffff ffffffff bc6a7efa bf489374,0
+112,1132841286,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr25=0xffffffff ffffffff aa82f4e3 3f36fdae,0
+113,1132841286,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr26=0xffffffff ffffffff 00000000 bfe00000,0
+114,1132841286,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr27=0xffffffff ffffffff 211a6973 3eda90b7,0
+115,1132841286,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr28=0xffffffff ffffffff d6ab5368 3f653959,0
+116,1132841286,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr29=0xffffffff ffffffff 00000000 408f4000,0
+117,1132841286,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr30=0xffffffff ffffffff 00000000 3ff00000,0
+118,1132841286,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr31=0xffffffff ffffffff 00000000 00000000,0
+119,1132841287,R03-M1-NF,R03,M1,NF,J07-U01,computation,rts panic! - stopping execution,0
+120,1132853786,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check interrupt (bit=0x10): L2 dcache unit read return parity error,1
+121,1132853786,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address: 0x002a2560,1
+122,1132853786,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine Check Status Register: 0xa0000000,1
+123,1132853786,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check summary.............1,1
+124,1132853786,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction plb error.............0,1
+125,1132853787,R03-M1-NF,R03,M1,NF,J07-U01,computation,data read plb error...............1,1
+126,1132853787,R03-M1-NF,R03,M1,NF,J07-U01,computation,data write plb error..............0,1
+127,1132853787,R03-M1-NF,R03,M1,NF,J07-U01,computation,tlb error.........................0,1
+128,1132853787,R03-M1-NF,R03,M1,NF,J07-U01,computation,i-cache parity error..............0,1
+129,1132853787,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache search parity error.......0,1
+130,1132853787,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache flush parity error........0,1
+131,1132853787,R03-M1-NF,R03,M1,NF,J07-U01,computation,imprecise machine check...........0,1
+132,1132853787,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine State Register: 0x0002f900,1
+133,1132853788,R03-M1-NF,R03,M1,NF,J07-U01,computation,wait state enable.................0,1
+134,1132853788,R03-M1-NF,R03,M1,NF,J07-U01,computation,critical input interrupt enable...1,1
+135,1132853788,R03-M1-NF,R03,M1,NF,J07-U01,computation,external input interrupt enable...1,1
+136,1132853788,R03-M1-NF,R03,M1,NF,J07-U01,computation,problem state (0=sup,1
+137,1132853788,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating point instr. enabled.....1,1
+138,1132853788,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check enable..............1,1
+139,1132853788,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 0 enable......1,1
+140,1132853789,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug wait enable.................0,1
+141,1132853789,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug interrupt enable............0,1
+142,1132853789,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 1 enable......1,1
+143,1132853789,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address space.........0,1
+144,1132853789,R03-M1-NF,R03,M1,NF,J07-U01,computation,data address space................0,1
+145,1132853789,R03-M1-NF,R03,M1,NF,J07-U01,computation,Core Configuration Register 0: 0x40002000,1
+146,1132853789,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable store gathering..................0,1
+147,1132853789,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable apu instruction broadcast........0,1
+148,1132853790,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable trace broadcast..................0,1
+149,1132853790,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed instruction cache block touch.0,1
+150,1132853790,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed data cache block touch........1,1
+151,1132853790,R03-M1-NF,R03,M1,NF,J07-U01,computation,force load/store alignment...............0,1
+152,1132853790,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch depth....................0,1
+153,1132853790,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch threshold................0,1
+154,1132853790,R03-M1-NF,R03,M1,NF,J07-U01,computation,General Purpose Registers:,1
+155,1132853791,R03-M1-NF,R03,M1,NF,J07-U01,computation,r00=0x00000000 r01=0x0ffe82b0 r02=0x1eeeeeee r03=0x0ffea4c8,1
+156,1132853791,R03-M1-NF,R03,M1,NF,J07-U01,computation,r04=0x00000000 r05=0x24404244 r06=0x0029fcac r07=0x0005d4f0,1
+157,1132853791,R03-M1-NF,R03,M1,NF,J07-U01,computation,r08=0x00ed4920 r09=0x00000000 r10=0x003b0000 r11=0x00ed4920,1
+158,1132853791,R03-M1-NF,R03,M1,NF,J07-U01,computation,r12=0x00398958 r13=0x1eeeeeee r14=0x00000000 r15=0x00000058,1
+159,1132853791,R03-M1-NF,R03,M1,NF,J07-U01,computation,r16=0x000000a9 r17=0x0000007e r18=0x000000d6 r19=0x00ed4920,1
+160,1132853791,R03-M1-NF,R03,M1,NF,J07-U01,computation,r20=0x40000000 r21=0x40000000 r22=0xffffd000 r23=0x0ffea5c8,1
+161,1132853791,R03-M1-NF,R03,M1,NF,J07-U01,computation,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,1
+162,1132853792,R03-M1-NF,R03,M1,NF,J07-U01,computation,r28=0x004c9870 r29=0xd0001080 r30=0x00000078 r31=0x00000000,1
+163,1132853792,R03-M1-NF,R03,M1,NF,J07-U01,computation,Special Purpose Registers:,1
+164,1132853792,R03-M1-NF,R03,M1,NF,J07-U01,computation,lr=0x0029fcac cr=0x24424242 xer=0x20000002 ctr=0x002701f8,1
+165,1132853792,R03-M1-NF,R03,M1,NF,J07-U01,computation,msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x86004000,1
+166,1132853792,R03-M1-NF,R03,M1,NF,J07-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000,1
+167,1132853792,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Status and Control Register: 0x86004000,1
+168,1132853793,R03-M1-NF,R03,M1,NF,J07-U01,computation,exception summary........................1,1
+169,1132853793,R03-M1-NF,R03,M1,NF,J07-U01,computation,enabled exception summary................0,1
+170,1132853793,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception summary......0,1
+171,1132853793,R03-M1-NF,R03,M1,NF,J07-U01,computation,overflow exception.......................0,1
+172,1132853793,R03-M1-NF,R03,M1,NF,J07-U01,computation,underflow exception......................0,1
+173,1132853793,R03-M1-NF,R03,M1,NF,J07-U01,computation,divide-by-zero exception.................1,1
+174,1132853793,R03-M1-NF,R03,M1,NF,J07-U01,computation,inexact exception........................1,1
+175,1132853794,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (SNAN)...........................0,1
+176,1132853794,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf-Inf)........................0,1
+177,1132853794,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Inf)........................0,1
+178,1132853794,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Zero/Zero)......................0,1
+179,1132853794,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Zero).......................0,1
+180,1132853794,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (compare)........................0,1
+181,1132853794,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction rounded.........................0,1
+182,1132853795,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction inexact.........................0,1
+183,1132853795,R03-M1-NF,R03,M1,NF,J07-U01,computation,quiet NaN................................0,1
+184,1132853795,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus inf................................0,1
+185,1132853795,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus normalized number..................0,1
+186,1132853795,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus denormalized number................0,1
+187,1132853795,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus zero...............................0,1
+188,1132853795,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus zero................................0,1
+189,1132853795,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus denormalized number.................0,1
+190,1132853796,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus normalized number...................1,1
+191,1132853796,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus infinity............................0,1
+192,1132853796,R03-M1-NF,R03,M1,NF,J07-U01,computation,reserved.................................0,1
+193,1132853796,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (software)...0,1
+194,1132853796,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (sqrt).......0,1
+195,1132853796,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (int cnvt)...0,1
+196,1132853797,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable invalid operation exceptions......0,1
+197,1132853797,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable overflow exceptions...............0,1
+198,1132853797,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable underflow exceptions..............0,1
+199,1132853797,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable divide-by-zero exceptions.........0,1
+200,1132853797,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable inexact exceptions................0,1
+201,1132853797,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable non-IEEE mode.....................0,1
+202,1132853797,R03-M1-NF,R03,M1,NF,J07-U01,computation,round nearest............................0,1
+203,1132853797,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward zero........................0,1
+204,1132853798,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward +infinity...................0,1
+205,1132853798,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward -infinity...................0,1
+206,1132853798,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Registers:,1
+207,1132853798,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr0=0x86969d4b 40141f81 00000000 40cb5480,1
+208,1132853798,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr1=0x00000000 00000000 dd8c2f90 407949f7,1
+209,1132853798,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr2=0x00000000 00000000 88b002f3 c09966d9,1
+210,1132853798,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr3=0x00000000 00000000 a053eb13 4064f401,1
+211,1132853799,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr4=0x00000000 00000000 724b8988 bfdea458,1
+212,1132853799,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr5=0x1d510b54 c0252d92 dc69a17b 3fa38ba0,1
+213,1132853799,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr6=0x7465cb32 401eddf7 ae4ee1be bfaf15cf,1
+214,1132853799,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr7=0xe508d3f8 bfe0ae17 d4864bce c073268b,1
+215,1132853799,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr8=0x69a6bc29 bff1b01d 399b8aa9 3f961734,1
+216,1132853799,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr9=0xe43d6222 c056491e 00000000 c01c0000,1
+217,1132853799,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr10=0x95da9e49 3fc8c65b 00000000 401c0000,1
+218,1132853799,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr11=0x86ee5e54 3fdd6b5e 724b8988 bfdea458,1
+219,1132853800,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr12=0xa3205913 c08fbc1d 93697062 3fd219f0,1
+220,1132853800,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr13=0x00000000 08f01338 a05ee3ee bf99fa89,1
+221,1132853800,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr14=0xffffffff ffffffff c200fd1c 3f5fd606,1
+222,1132853800,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr15=0xffffffff ffffffff b0582b4a bf7fc32d,1
+223,1132853800,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr16=0xffffffff ffffffff 34fa971c bf6b4ecc,1
+224,1132853800,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr17=0xffffffff ffffffff b9c5f097 3feff9db,1
+225,1132853800,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr18=0xffffffff ffffffff 80000000 c3300000,1
+226,1132853800,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr19=0xffffffff ffffffff d6ab5368 3f553959,1
+227,1132853801,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr20=0xffffffff ffffffff 00000000 3fd80000,1
+228,1132853801,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr21=0xffffffff ffffffff 00000000 bfd40000,1
+229,1132853801,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr22=0xffffffff ffffffff 00000000 bff00000,1
+230,1132853801,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,1
+231,1132853801,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr24=0xffffffff ffffffff bc6a7efa bf489374,1
+232,1132853801,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr25=0xffffffff ffffffff aa82f4e3 3f36fdae,1
+233,1132853801,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr26=0xffffffff ffffffff 00000000 bfe00000,1
+234,1132853802,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr27=0xffffffff ffffffff 211a6973 3eda90b7,1
+235,1132853802,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr28=0xffffffff ffffffff d6ab5368 3f653959,1
+236,1132853802,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr29=0xffffffff ffffffff 00000000 408f4000,1
+237,1132853802,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr30=0xffffffff ffffffff 00000000 3ff00000,1
+238,1132853802,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr31=0xffffffff ffffffff 00000000 00000000,1
+239,1132853802,R03-M1-NF,R03,M1,NF,J07-U01,computation,rts panic! - stopping execution,1
+240,1133051990,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check interrupt (bit=0x10): L2 dcache unit read return parity error,2
+241,1133051990,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address: 0x002a2560,2
+242,1133051990,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine Check Status Register: 0xa0000000,2
+243,1133051991,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check summary.............1,2
+244,1133051991,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction plb error.............0,2
+245,1133051991,R03-M1-NF,R03,M1,NF,J07-U01,computation,data read plb error...............1,2
+246,1133051991,R03-M1-NF,R03,M1,NF,J07-U01,computation,data write plb error..............0,2
+247,1133051991,R03-M1-NF,R03,M1,NF,J07-U01,computation,tlb error.........................0,2
+248,1133051991,R03-M1-NF,R03,M1,NF,J07-U01,computation,i-cache parity error..............0,2
+249,1133051991,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache search parity error.......0,2
+250,1133051991,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache flush parity error........0,2
+251,1133051992,R03-M1-NF,R03,M1,NF,J07-U01,computation,imprecise machine check...........0,2
+252,1133051992,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine State Register: 0x0002f900,2
+253,1133051992,R03-M1-NF,R03,M1,NF,J07-U01,computation,wait state enable.................0,2
+254,1133051992,R03-M1-NF,R03,M1,NF,J07-U01,computation,critical input interrupt enable...1,2
+255,1133051992,R03-M1-NF,R03,M1,NF,J07-U01,computation,external input interrupt enable...1,2
+256,1133051992,R03-M1-NF,R03,M1,NF,J07-U01,computation,problem state (0=sup,2
+257,1133051992,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating point instr. enabled.....1,2
+258,1133051992,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check enable..............1,2
+259,1133051993,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 0 enable......1,2
+260,1133051993,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug wait enable.................0,2
+261,1133051993,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug interrupt enable............0,2
+262,1133051993,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 1 enable......1,2
+263,1133051993,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address space.........0,2
+264,1133051993,R03-M1-NF,R03,M1,NF,J07-U01,computation,data address space................0,2
+265,1133051993,R03-M1-NF,R03,M1,NF,J07-U01,computation,Core Configuration Register 0: 0x00002000,2
+266,1133051994,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable store gathering..................0,2
+267,1133051994,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable apu instruction broadcast........0,2
+268,1133051994,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable trace broadcast..................0,2
+269,1133051994,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed instruction cache block touch.0,2
+270,1133051994,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed data cache block touch........1,2
+271,1133051994,R03-M1-NF,R03,M1,NF,J07-U01,computation,force load/store alignment...............0,2
+272,1133051994,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch depth....................0,2
+273,1133051995,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch threshold................0,2
+274,1133051995,R03-M1-NF,R03,M1,NF,J07-U01,computation,General Purpose Registers:,2
+275,1133051995,R03-M1-NF,R03,M1,NF,J07-U01,computation,r00=0x00000000 r01=0x0ffe82b0 r02=0x1eeeeeee r03=0x0ffea4c8,2
+276,1133051995,R03-M1-NF,R03,M1,NF,J07-U01,computation,r04=0x00000000 r05=0x24404844 r06=0x0029fcac r07=0x00003620,2
+277,1133051995,R03-M1-NF,R03,M1,NF,J07-U01,computation,r08=0x00ed4920 r09=0x00000000 r10=0x003b0000 r11=0x00ed4920,2
+278,1133051995,R03-M1-NF,R03,M1,NF,J07-U01,computation,r12=0x00398958 r13=0x1eeeeeee r14=0x00000000 r15=0x0000000f,2
+279,1133051996,R03-M1-NF,R03,M1,NF,J07-U01,computation,r16=0x00000058 r17=0x00000042 r18=0x0000001a r19=0x00ed4920,2
+280,1133051996,R03-M1-NF,R03,M1,NF,J07-U01,computation,r20=0x40000000 r21=0x40000000 r22=0xffffd000 r23=0x0ffea5c8,2
+281,1133051996,R03-M1-NF,R03,M1,NF,J07-U01,computation,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,2
+282,1133051996,R03-M1-NF,R03,M1,NF,J07-U01,computation,r28=0x004c9870 r29=0xd0001080 r30=0x00000078 r31=0x00000000,2
+283,1133051996,R03-M1-NF,R03,M1,NF,J07-U01,computation,Special Purpose Registers:,2
+284,1133051996,R03-M1-NF,R03,M1,NF,J07-U01,computation,lr=0x0029fcac cr=0x24424842 xer=0x20000002 ctr=0x002701f8,2
+285,1133051996,R03-M1-NF,R03,M1,NF,J07-U01,computation,msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x86004000,2
+286,1133051997,R03-M1-NF,R03,M1,NF,J07-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,2
+287,1133051997,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Status and Control Register: 0x86004000,2
+288,1133051997,R03-M1-NF,R03,M1,NF,J07-U01,computation,exception summary........................1,2
+289,1133051997,R03-M1-NF,R03,M1,NF,J07-U01,computation,enabled exception summary................0,2
+290,1133051997,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception summary......0,2
+291,1133051997,R03-M1-NF,R03,M1,NF,J07-U01,computation,overflow exception.......................0,2
+292,1133051997,R03-M1-NF,R03,M1,NF,J07-U01,computation,underflow exception......................0,2
+293,1133051998,R03-M1-NF,R03,M1,NF,J07-U01,computation,divide-by-zero exception.................1,2
+294,1133051998,R03-M1-NF,R03,M1,NF,J07-U01,computation,inexact exception........................1,2
+295,1133051998,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (SNAN)...........................0,2
+296,1133051998,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf-Inf)........................0,2
+297,1133051998,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Inf)........................0,2
+298,1133051998,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Zero/Zero)......................0,2
+299,1133051999,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Zero).......................0,2
+300,1133051999,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (compare)........................0,2
+301,1133051999,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction rounded.........................0,2
+302,1133051999,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction inexact.........................0,2
+303,1133051999,R03-M1-NF,R03,M1,NF,J07-U01,computation,quiet NaN................................0,2
+304,1133051999,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus inf................................0,2
+305,1133051999,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus normalized number..................0,2
+306,1133052000,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus denormalized number................0,2
+307,1133052000,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus zero...............................0,2
+308,1133052000,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus zero................................0,2
+309,1133052000,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus denormalized number.................0,2
+310,1133052000,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus normalized number...................1,2
+311,1133052000,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus infinity............................0,2
+312,1133052000,R03-M1-NF,R03,M1,NF,J07-U01,computation,reserved.................................0,2
+313,1133052000,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (software)...0,2
+314,1133052001,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (sqrt).......0,2
+315,1133052001,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (int cnvt)...0,2
+316,1133052001,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable invalid operation exceptions......0,2
+317,1133052001,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable overflow exceptions...............0,2
+318,1133052001,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable underflow exceptions..............0,2
+319,1133052001,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable divide-by-zero exceptions.........0,2
+320,1133052001,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable inexact exceptions................0,2
+321,1133052002,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable non-IEEE mode.....................0,2
+322,1133052002,R03-M1-NF,R03,M1,NF,J07-U01,computation,round nearest............................0,2
+323,1133052002,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward zero........................0,2
+324,1133052002,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward +infinity...................0,2
+325,1133052002,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward -infinity...................0,2
+326,1133052002,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Registers:,2
+327,1133052002,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr0=0xa860d7ad 402ec7d7 00000000 40cb4e00,2
+328,1133052003,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr1=0x00000000 00000000 f17a2c2e 40760b0d,2
+329,1133052003,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr2=0x00000000 00000000 0ba3ec1e c0994bb2,2
+330,1133052003,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr3=0x00000000 00000000 5aa3724a 40616f7a,2
+331,1133052003,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr4=0x00000000 00000000 48b0e5c1 bfd7fac0,2
+332,1133052003,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr5=0x341e3d42 c041d767 98ccf536 3fd1ec70,2
+333,1133052003,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr6=0x7f9cc4ba 402e4ca6 d06a9c52 bfb51f5e,2
+334,1133052003,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr7=0xc06a9c27 4006d1dc 4159854d c07033f7,2
+335,1133052004,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr8=0x2636a402 bffe7d56 d3a1c84c 3fbd6d43,2
+336,1133052004,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr9=0xabb59cc8 40153e7d 00000000 c01c0000,2
+337,1133052004,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr10=0x62699398 bff07a25 00000000 401c0000,2
+338,1133052004,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr11=0x7c740ad7 bff9d122 48b0e5c1 bfd7fac0,2
+339,1133052004,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr12=0x00000000 00000068 df4abd99 3fc4b539,2
+340,1133052004,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr13=0x00000000 0600c742 194784d2 bfa4a99d,2
+341,1133052005,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr14=0xffffffff ffffffff c200fd1c 3f5fd606,2
+342,1133052005,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr15=0xffffffff ffffffff 9690f998 bf772274,2
+343,1133052005,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr16=0xffffffff ffffffff 14f22fd6 3f7ecc34,2
+344,1133052005,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr17=0xffffffff ffffffff b9c5f097 3feff9db,2
+345,1133052005,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr18=0xffffffff ffffffff 80000000 c3300000,2
+346,1133052005,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr19=0xffffffff ffffffff d6ab5368 3f553959,2
+347,1133052005,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr20=0xffffffff ffffffff 00000000 3fd80000,2
+348,1133052006,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr21=0xffffffff ffffffff 00000000 bfd40000,2
+349,1133052006,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr22=0xffffffff ffffffff 00000000 bff00000,2
+350,1133052006,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,2
+351,1133052006,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr24=0xffffffff ffffffff bc6a7efa bf489374,2
+352,1133052006,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr25=0xffffffff ffffffff aa82f4e3 3f36fdae,2
+353,1133052006,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr26=0xffffffff ffffffff 00000000 bfe00000,2
+354,1133052006,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr27=0xffffffff ffffffff 211a6973 3eda90b7,2
+355,1133052007,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr28=0xffffffff ffffffff d6ab5368 3f653959,2
+356,1133052007,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr29=0xffffffff ffffffff 00000000 408f4000,2
+357,1133052007,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr30=0xffffffff ffffffff 00000000 3ff00000,2
+358,1133052007,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr31=0xffffffff ffffffff 00000000 00000000,2
+359,1133052007,R03-M1-NF,R03,M1,NF,J07-U01,computation,rts panic! - stopping execution,2
+360,1133059825,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check interrupt (bit=0x10): L2 dcache unit read return parity error,3
+361,1133059825,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address: 0x002a2560,3
+362,1133059825,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine Check Status Register: 0xa0000000,3
+363,1133059825,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check summary.............1,3
+364,1133059825,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction plb error.............0,3
+365,1133059825,R03-M1-NF,R03,M1,NF,J07-U01,computation,data read plb error...............1,3
+366,1133059825,R03-M1-NF,R03,M1,NF,J07-U01,computation,data write plb error..............0,3
+367,1133059826,R03-M1-NF,R03,M1,NF,J07-U01,computation,tlb error.........................0,3
+368,1133059826,R03-M1-NF,R03,M1,NF,J07-U01,computation,i-cache parity error..............0,3
+369,1133059826,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache search parity error.......0,3
+370,1133059826,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache flush parity error........0,3
+371,1133059826,R03-M1-NF,R03,M1,NF,J07-U01,computation,imprecise machine check...........0,3
+372,1133059826,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine State Register: 0x0002f900,3
+373,1133059826,R03-M1-NF,R03,M1,NF,J07-U01,computation,wait state enable.................0,3
+374,1133059827,R03-M1-NF,R03,M1,NF,J07-U01,computation,critical input interrupt enable...1,3
+375,1133059827,R03-M1-NF,R03,M1,NF,J07-U01,computation,external input interrupt enable...1,3
+376,1133059827,R03-M1-NF,R03,M1,NF,J07-U01,computation,problem state (0=sup,3
+377,1133059827,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating point instr. enabled.....1,3
+378,1133059827,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check enable..............1,3
+379,1133059827,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 0 enable......1,3
+380,1133059827,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug wait enable.................0,3
+381,1133059828,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug interrupt enable............0,3
+382,1133059828,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 1 enable......1,3
+383,1133059828,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address space.........0,3
+384,1133059828,R03-M1-NF,R03,M1,NF,J07-U01,computation,data address space................0,3
+385,1133059828,R03-M1-NF,R03,M1,NF,J07-U01,computation,Core Configuration Register 0: 0x00002000,3
+386,1133059828,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable store gathering..................0,3
+387,1133059828,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable apu instruction broadcast........0,3
+388,1133059829,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable trace broadcast..................0,3
+389,1133059829,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed instruction cache block touch.0,3
+390,1133059829,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed data cache block touch........1,3
+391,1133059829,R03-M1-NF,R03,M1,NF,J07-U01,computation,force load/store alignment...............0,3
+392,1133059829,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch depth....................0,3
+393,1133059829,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch threshold................0,3
+394,1133059829,R03-M1-NF,R03,M1,NF,J07-U01,computation,General Purpose Registers:,3
+395,1133059830,R03-M1-NF,R03,M1,NF,J07-U01,computation,r00=0x00000000 r01=0x0ffe82b0 r02=0x1eeeeeee r03=0x0ffea4c8,3
+396,1133059830,R03-M1-NF,R03,M1,NF,J07-U01,computation,r04=0x00000000 r05=0x24404844 r06=0x0029fcac r07=0x000545f0,3
+397,1133059830,R03-M1-NF,R03,M1,NF,J07-U01,computation,r08=0x00ed4920 r09=0x00000000 r10=0x003b0000 r11=0x00ed4920,3
+398,1133059830,R03-M1-NF,R03,M1,NF,J07-U01,computation,r12=0x00398958 r13=0x1eeeeeee r14=0x00000000 r15=0x000000fc,3
+399,1133059830,R03-M1-NF,R03,M1,NF,J07-U01,computation,r16=0x000000cc r17=0x0000002b r18=0x00000065 r19=0x00ed4920,3
+400,1133059830,R03-M1-NF,R03,M1,NF,J07-U01,computation,r20=0x40000000 r21=0x40000000 r22=0xffffd000 r23=0x0ffea5c8,3
+401,1133059830,R03-M1-NF,R03,M1,NF,J07-U01,computation,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,3
+402,1133059831,R03-M1-NF,R03,M1,NF,J07-U01,computation,r28=0x004c9870 r29=0xd0001080 r30=0x00000078 r31=0x00000000,3
+403,1133059831,R03-M1-NF,R03,M1,NF,J07-U01,computation,Special Purpose Registers:,3
+404,1133059831,R03-M1-NF,R03,M1,NF,J07-U01,computation,lr=0x0029fcac cr=0x24424842 xer=0x20000002 ctr=0x002701f8,3
+405,1133059831,R03-M1-NF,R03,M1,NF,J07-U01,computation,msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x86004000,3
+406,1133059831,R03-M1-NF,R03,M1,NF,J07-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,3
+407,1133059831,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Status and Control Register: 0x86004000,3
+408,1133059831,R03-M1-NF,R03,M1,NF,J07-U01,computation,exception summary........................1,3
+409,1133059832,R03-M1-NF,R03,M1,NF,J07-U01,computation,enabled exception summary................0,3
+410,1133059832,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception summary......0,3
+411,1133059832,R03-M1-NF,R03,M1,NF,J07-U01,computation,overflow exception.......................0,3
+412,1133059832,R03-M1-NF,R03,M1,NF,J07-U01,computation,underflow exception......................0,3
+413,1133059832,R03-M1-NF,R03,M1,NF,J07-U01,computation,divide-by-zero exception.................1,3
+414,1133059832,R03-M1-NF,R03,M1,NF,J07-U01,computation,inexact exception........................1,3
+415,1133059832,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (SNAN)...........................0,3
+416,1133059833,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf-Inf)........................0,3
+417,1133059833,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Inf)........................0,3
+418,1133059833,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Zero/Zero)......................0,3
+419,1133059833,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Zero).......................0,3
+420,1133059833,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (compare)........................0,3
+421,1133059833,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction rounded.........................0,3
+422,1133059833,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction inexact.........................0,3
+423,1133059834,R03-M1-NF,R03,M1,NF,J07-U01,computation,quiet NaN................................0,3
+424,1133059834,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus inf................................0,3
+425,1133059834,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus normalized number..................0,3
+426,1133059834,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus denormalized number................0,3
+427,1133059834,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus zero...............................0,3
+428,1133059834,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus zero................................0,3
+429,1133059834,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus denormalized number.................0,3
+430,1133059834,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus normalized number...................1,3
+431,1133059835,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus infinity............................0,3
+432,1133059835,R03-M1-NF,R03,M1,NF,J07-U01,computation,reserved.................................0,3
+433,1133059835,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (software)...0,3
+434,1133059835,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (sqrt).......0,3
+435,1133059835,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (int cnvt)...0,3
+436,1133059835,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable invalid operation exceptions......0,3
+437,1133059835,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable overflow exceptions...............0,3
+438,1133059836,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable underflow exceptions..............0,3
+439,1133059836,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable divide-by-zero exceptions.........0,3
+440,1133059836,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable inexact exceptions................0,3
+441,1133059836,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable non-IEEE mode.....................0,3
+442,1133059836,R03-M1-NF,R03,M1,NF,J07-U01,computation,round nearest............................0,3
+443,1133059836,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward zero........................0,3
+444,1133059836,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward +infinity...................0,3
+445,1133059837,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward -infinity...................0,3
+446,1133059837,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Registers:,3
+447,1133059837,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr0=0xf675eecb 4035ac82 00000000 40cb8100,3
+448,1133059837,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr1=0x00000000 00000000 d24f1d9b 40766444,3
+449,1133059837,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr2=0x00000000 00000000 64f0244c c099c2cf,3
+450,1133059837,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr3=0x00000000 00000000 cd7d3b36 4065d1b2,3
+451,1133059837,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr4=0x00000000 00000000 3689c9ed bfd7fba9,3
+452,1133059838,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr5=0xb050813b c0400eed 5069bc5b 3fd16986,3
+453,1133059838,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr6=0x60f54b16 c0270fba 667a10b9 bfb879ba,3
+454,1133059838,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr7=0xa4cdf4d7 3fe38584 9bbab824 c0713f53,3
+455,1133059838,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr8=0x4f497a3c bff1ab84 43957dee 3fbbe027,3
+456,1133059838,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr9=0xfee21844 c04f03f0 00000000 c01c0000,3
+457,1133059838,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr10=0x7d8e9fc3 3fe76761 00000000 401c0000,3
+458,1133059838,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr11=0x8345b35d 3fefab3a 3689c9ed bfd7fba9,3
+459,1133059839,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr12=0xcb9bdb1b c09099f7 f4afcb3f 3fc48629,3
+460,1133059839,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr13=0x00000000 004c8328 ba67e29d bfa72dcc,3
+461,1133059839,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr14=0xffffffff ffffffff c200fd1c 3f5fd606,3
+462,1133059839,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr15=0xffffffff ffffffff 17444a84 3f86359e,3
+463,1133059839,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr16=0xffffffff ffffffff 0d73f467 bf8e1ab1,3
+464,1133059839,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr17=0xffffffff ffffffff b9c5f097 3feff9db,3
+465,1133059839,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr18=0xffffffff ffffffff 80000000 c3300000,3
+466,1133059840,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr19=0xffffffff ffffffff d6ab5368 3f553959,3
+467,1133059840,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr20=0xffffffff ffffffff 00000000 3fd80000,3
+468,1133059840,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr21=0xffffffff ffffffff 00000000 bfd40000,3
+469,1133059840,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr22=0xffffffff ffffffff 00000000 bff00000,3
+470,1133059840,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,3
+471,1133059840,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr24=0xffffffff ffffffff bc6a7efa bf489374,3
+472,1133059840,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr25=0xffffffff ffffffff aa82f4e3 3f36fdae,3
+473,1133059840,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr26=0xffffffff ffffffff 00000000 bfe00000,3
+474,1133059841,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr27=0xffffffff ffffffff 211a6973 3eda90b7,3
+475,1133059841,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr28=0xffffffff ffffffff d6ab5368 3f653959,3
+476,1133059841,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr29=0xffffffff ffffffff 00000000 408f4000,3
+477,1133059841,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr30=0xffffffff ffffffff 00000000 3ff00000,3
+478,1133059841,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr31=0xffffffff ffffffff 00000000 00000000,3
+479,1133059841,R03-M1-NF,R03,M1,NF,J07-U01,computation,rts panic! - stopping execution,3
+480,1133062682,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check interrupt (bit=0x10): L2 dcache unit read return parity error,4
+481,1133062683,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address: 0x002a2560,4
+482,1133062683,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine Check Status Register: 0xa0000000,4
+483,1133062683,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check summary.............1,4
+484,1133062683,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction plb error.............0,4
+485,1133062683,R03-M1-NF,R03,M1,NF,J07-U01,computation,data read plb error...............1,4
+486,1133062683,R03-M1-NF,R03,M1,NF,J07-U01,computation,data write plb error..............0,4
+487,1133062683,R03-M1-NF,R03,M1,NF,J07-U01,computation,tlb error.........................0,4
+488,1133062684,R03-M1-NF,R03,M1,NF,J07-U01,computation,i-cache parity error..............0,4
+489,1133062684,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache search parity error.......0,4
+490,1133062684,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache flush parity error........0,4
+491,1133062684,R03-M1-NF,R03,M1,NF,J07-U01,computation,imprecise machine check...........0,4
+492,1133062684,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine State Register: 0x0002f900,4
+493,1133062684,R03-M1-NF,R03,M1,NF,J07-U01,computation,wait state enable.................0,4
+494,1133062684,R03-M1-NF,R03,M1,NF,J07-U01,computation,critical input interrupt enable...1,4
+495,1133062685,R03-M1-NF,R03,M1,NF,J07-U01,computation,external input interrupt enable...1,4
+496,1133062685,R03-M1-NF,R03,M1,NF,J07-U01,computation,problem state (0=sup,4
+497,1133062685,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating point instr. enabled.....1,4
+498,1133062685,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check enable..............1,4
+499,1133062685,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 0 enable......1,4
+500,1133062685,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug wait enable.................0,4
+501,1133062685,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug interrupt enable............0,4
+502,1133062686,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 1 enable......1,4
+503,1133062686,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address space.........0,4
+504,1133062686,R03-M1-NF,R03,M1,NF,J07-U01,computation,data address space................0,4
+505,1133062686,R03-M1-NF,R03,M1,NF,J07-U01,computation,Core Configuration Register 0: 0x00002000,4
+506,1133062686,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable store gathering..................0,4
+507,1133062686,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable apu instruction broadcast........0,4
+508,1133062687,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable trace broadcast..................0,4
+509,1133062687,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed instruction cache block touch.0,4
+510,1133062687,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed data cache block touch........1,4
+511,1133062687,R03-M1-NF,R03,M1,NF,J07-U01,computation,force load/store alignment...............0,4
+512,1133062687,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch depth....................0,4
+513,1133062687,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch threshold................0,4
+514,1133062688,R03-M1-NF,R03,M1,NF,J07-U01,computation,General Purpose Registers:,4
+515,1133062688,R03-M1-NF,R03,M1,NF,J07-U01,computation,r00=0x00000000 r01=0x0ffe82b0 r02=0x1eeeeeee r03=0x0ffea4c8,4
+516,1133062688,R03-M1-NF,R03,M1,NF,J07-U01,computation,r04=0x00000000 r05=0x24404844 r06=0x0029fcac r07=0x000161c0,4
+517,1133062688,R03-M1-NF,R03,M1,NF,J07-U01,computation,r08=0x00ed4920 r09=0x00000000 r10=0x003b0000 r11=0x00ed4920,4
+518,1133062688,R03-M1-NF,R03,M1,NF,J07-U01,computation,r12=0x00398958 r13=0x1eeeeeee r14=0x00000000 r15=0x00000008,4
+519,1133062688,R03-M1-NF,R03,M1,NF,J07-U01,computation,r16=0x00000063 r17=0x000000bb r18=0x00000018 r19=0x00ed4920,4
+520,1133062688,R03-M1-NF,R03,M1,NF,J07-U01,computation,r20=0x40000000 r21=0x40000000 r22=0xffffd000 r23=0x0ffea5c8,4
+521,1133062689,R03-M1-NF,R03,M1,NF,J07-U01,computation,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,4
+522,1133062689,R03-M1-NF,R03,M1,NF,J07-U01,computation,r28=0x004c9870 r29=0xd0001080 r30=0x00000078 r31=0x00000000,4
+523,1133062689,R03-M1-NF,R03,M1,NF,J07-U01,computation,Special Purpose Registers:,4
+524,1133062689,R03-M1-NF,R03,M1,NF,J07-U01,computation,lr=0x0029fcac cr=0x24424842 xer=0x20000002 ctr=0x002701f8,4
+525,1133062689,R03-M1-NF,R03,M1,NF,J07-U01,computation,msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x86004000,4
+526,1133062689,R03-M1-NF,R03,M1,NF,J07-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,4
+527,1133062689,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Status and Control Register: 0x86004000,4
+528,1133062690,R03-M1-NF,R03,M1,NF,J07-U01,computation,exception summary........................1,4
+529,1133062690,R03-M1-NF,R03,M1,NF,J07-U01,computation,enabled exception summary................0,4
+530,1133062690,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception summary......0,4
+531,1133062690,R03-M1-NF,R03,M1,NF,J07-U01,computation,overflow exception.......................0,4
+532,1133062690,R03-M1-NF,R03,M1,NF,J07-U01,computation,underflow exception......................0,4
+533,1133062690,R03-M1-NF,R03,M1,NF,J07-U01,computation,divide-by-zero exception.................1,4
+534,1133062690,R03-M1-NF,R03,M1,NF,J07-U01,computation,inexact exception........................1,4
+535,1133062691,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (SNAN)...........................0,4
+536,1133062691,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf-Inf)........................0,4
+537,1133062691,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Inf)........................0,4
+538,1133062691,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Zero/Zero)......................0,4
+539,1133062691,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Zero).......................0,4
+540,1133062691,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (compare)........................0,4
+541,1133062692,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction rounded.........................0,4
+542,1133062692,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction inexact.........................0,4
+543,1133062692,R03-M1-NF,R03,M1,NF,J07-U01,computation,quiet NaN................................0,4
+544,1133062692,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus inf................................0,4
+545,1133062692,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus normalized number..................0,4
+546,1133062692,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus denormalized number................0,4
+547,1133062692,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus zero...............................0,4
+548,1133062692,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus zero................................0,4
+549,1133062693,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus denormalized number.................0,4
+550,1133062693,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus normalized number...................1,4
+551,1133062693,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus infinity............................0,4
+552,1133062693,R03-M1-NF,R03,M1,NF,J07-U01,computation,reserved.................................0,4
+553,1133062693,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (software)...0,4
+554,1133062693,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (sqrt).......0,4
+555,1133062693,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (int cnvt)...0,4
+556,1133062694,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable invalid operation exceptions......0,4
+557,1133062694,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable overflow exceptions...............0,4
+558,1133062694,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable underflow exceptions..............0,4
+559,1133062694,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable divide-by-zero exceptions.........0,4
+560,1133062694,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable inexact exceptions................0,4
+561,1133062694,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable non-IEEE mode.....................0,4
+562,1133062694,R03-M1-NF,R03,M1,NF,J07-U01,computation,round nearest............................0,4
+563,1133062695,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward zero........................0,4
+564,1133062695,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward +infinity...................0,4
+565,1133062695,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward -infinity...................0,4
+566,1133062695,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Registers:,4
+567,1133062695,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr0=0x66f90991 c037cc19 00000000 40cb7680,4
+568,1133062695,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr1=0x00000000 00000000 523be06a 4075edf1,4
+569,1133062695,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr2=0x00000000 00000000 a8105b94 c09984eb,4
+570,1133062696,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr3=0x00000000 00000000 2b131d41 4061db2d,4
+571,1133062696,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr4=0x00000000 00000000 b6976eae bfdc2100,4
+572,1133062696,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr5=0x9d0483d0 40394205 8b053787 3fc2ea5c,4
+573,1133062696,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr6=0xf68ae2d6 c048e028 7ad46c19 bfc0e6fa,4
+574,1133062696,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr7=0x4a2c869f bff1d32e 1623e4b0 c0708b4d,4
+575,1133062696,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr8=0x3bb78a50 3fb7c30c 0a92e01c 3fb0b354,4
+576,1133062696,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr9=0xde679f24 c01f68b9 00000000 c01c0000,4
+577,1133062697,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr10=0xdc2ca9d1 bfed5eb3 00000000 401c0000,4
+578,1133062697,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr11=0x7111213b c02aba4c b6976eae bfdc2100,4
+579,1133062697,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr12=0xd3901919 408c4060 a69e902e 3fcb38fd,4
+580,1133062697,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr13=0x02ddca24 00060001 7eb7ee0c bfab96a5,4
+581,1133062697,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr14=0xffffffff ffffffff c200fd1c 3f5fd606,4
+582,1133062697,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr15=0xffffffff ffffffff b352efda 3f817534,4
+583,1133062697,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr16=0xffffffff ffffffff ffb7410d 3f79ba04,4
+584,1133062698,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr17=0xffffffff ffffffff b9c5f097 3feff9db,4
+585,1133062698,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr18=0xffffffff ffffffff 80000000 c3300000,4
+586,1133062698,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr19=0xffffffff ffffffff d6ab5368 3f553959,4
+587,1133062698,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr20=0xffffffff ffffffff 00000000 3fd80000,4
+588,1133062698,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr21=0xffffffff ffffffff 00000000 bfd40000,4
+589,1133062698,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr22=0xffffffff ffffffff 00000000 bff00000,4
+590,1133062698,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,4
+591,1133062699,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr24=0xffffffff ffffffff bc6a7efa bf489374,4
+592,1133062699,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr25=0xffffffff ffffffff aa82f4e3 3f36fdae,4
+593,1133062699,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr26=0xffffffff ffffffff 00000000 bfe00000,4
+594,1133062699,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr27=0xffffffff ffffffff 211a6973 3eda90b7,4
+595,1133062699,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr28=0xffffffff ffffffff d6ab5368 3f653959,4
+596,1133062699,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr29=0xffffffff ffffffff 00000000 408f4000,4
+597,1133062699,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr30=0xffffffff ffffffff 00000000 3ff00000,4
+598,1133062700,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr31=0xffffffff ffffffff 00000000 00000000,4
+599,1133062700,R03-M1-NF,R03,M1,NF,J07-U01,computation,rts panic! - stopping execution,4
+600,1133066060,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check interrupt (bit=0x10): L2 dcache unit read return parity error,5
+601,1133066060,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address: 0x002a2560,5
+602,1133066060,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine Check Status Register: 0xa0000000,5
+603,1133066061,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check summary.............1,5
+604,1133066061,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction plb error.............0,5
+605,1133066061,R03-M1-NF,R03,M1,NF,J07-U01,computation,data read plb error...............1,5
+606,1133066061,R03-M1-NF,R03,M1,NF,J07-U01,computation,data write plb error..............0,5
+607,1133066061,R03-M1-NF,R03,M1,NF,J07-U01,computation,tlb error.........................0,5
+608,1133066061,R03-M1-NF,R03,M1,NF,J07-U01,computation,i-cache parity error..............0,5
+609,1133066061,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache search parity error.......0,5
+610,1133066062,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache flush parity error........0,5
+611,1133066062,R03-M1-NF,R03,M1,NF,J07-U01,computation,imprecise machine check...........0,5
+612,1133066062,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine State Register: 0x0002f900,5
+613,1133066062,R03-M1-NF,R03,M1,NF,J07-U01,computation,wait state enable.................0,5
+614,1133066062,R03-M1-NF,R03,M1,NF,J07-U01,computation,critical input interrupt enable...1,5
+615,1133066062,R03-M1-NF,R03,M1,NF,J07-U01,computation,external input interrupt enable...1,5
+616,1133066062,R03-M1-NF,R03,M1,NF,J07-U01,computation,problem state (0=sup,5
+617,1133066063,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating point instr. enabled.....1,5
+618,1133066063,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check enable..............1,5
+619,1133066063,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 0 enable......1,5
+620,1133066063,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug wait enable.................0,5
+621,1133066063,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug interrupt enable............0,5
+622,1133066063,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 1 enable......1,5
+623,1133066063,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address space.........0,5
+624,1133066064,R03-M1-NF,R03,M1,NF,J07-U01,computation,data address space................0,5
+625,1133066064,R03-M1-NF,R03,M1,NF,J07-U01,computation,Core Configuration Register 0: 0x40002000,5
+626,1133066064,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable store gathering..................0,5
+627,1133066064,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable apu instruction broadcast........0,5
+628,1133066064,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable trace broadcast..................0,5
+629,1133066064,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed instruction cache block touch.0,5
+630,1133066064,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed data cache block touch........1,5
+631,1133066065,R03-M1-NF,R03,M1,NF,J07-U01,computation,force load/store alignment...............0,5
+632,1133066065,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch depth....................0,5
+633,1133066065,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch threshold................0,5
+634,1133066065,R03-M1-NF,R03,M1,NF,J07-U01,computation,General Purpose Registers:,5
+635,1133066065,R03-M1-NF,R03,M1,NF,J07-U01,computation,r00=0x00000000 r01=0x0ffe82b0 r02=0x1eeeeeee r03=0x0ffea4c8,5
+636,1133066065,R03-M1-NF,R03,M1,NF,J07-U01,computation,r04=0x00000000 r05=0x24404244 r06=0x0029fcac r07=0x0000a960,5
+637,1133066066,R03-M1-NF,R03,M1,NF,J07-U01,computation,r08=0x00ed4920 r09=0x00000000 r10=0x003b0000 r11=0x00ed4920,5
+638,1133066066,R03-M1-NF,R03,M1,NF,J07-U01,computation,r12=0x00398958 r13=0x1eeeeeee r14=0x00000000 r15=0x00000063,5
+639,1133066066,R03-M1-NF,R03,M1,NF,J07-U01,computation,r16=0x00000047 r17=0x00000085 r18=0x000000f9 r19=0x00ed4920,5
+640,1133066066,R03-M1-NF,R03,M1,NF,J07-U01,computation,r20=0x40000000 r21=0x40000000 r22=0xffffd000 r23=0x0ffea5c8,5
+641,1133066066,R03-M1-NF,R03,M1,NF,J07-U01,computation,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,5
+642,1133066066,R03-M1-NF,R03,M1,NF,J07-U01,computation,r28=0x004c9870 r29=0xd0001080 r30=0x00000078 r31=0x00000000,5
+643,1133066066,R03-M1-NF,R03,M1,NF,J07-U01,computation,Special Purpose Registers:,5
+644,1133066067,R03-M1-NF,R03,M1,NF,J07-U01,computation,lr=0x0029fcac cr=0x24424242 xer=0x20000002 ctr=0x002701f8,5
+645,1133066067,R03-M1-NF,R03,M1,NF,J07-U01,computation,msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x86004000,5
+646,1133066067,R03-M1-NF,R03,M1,NF,J07-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000,5
+647,1133066067,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Status and Control Register: 0x86004000,5
+648,1133066067,R03-M1-NF,R03,M1,NF,J07-U01,computation,exception summary........................1,5
+649,1133066067,R03-M1-NF,R03,M1,NF,J07-U01,computation,enabled exception summary................0,5
+650,1133066068,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception summary......0,5
+651,1133066068,R03-M1-NF,R03,M1,NF,J07-U01,computation,overflow exception.......................0,5
+652,1133066068,R03-M1-NF,R03,M1,NF,J07-U01,computation,underflow exception......................0,5
+653,1133066068,R03-M1-NF,R03,M1,NF,J07-U01,computation,divide-by-zero exception.................1,5
+654,1133066068,R03-M1-NF,R03,M1,NF,J07-U01,computation,inexact exception........................1,5
+655,1133066068,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (SNAN)...........................0,5
+656,1133066068,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf-Inf)........................0,5
+657,1133066069,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Inf)........................0,5
+658,1133066069,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Zero/Zero)......................0,5
+659,1133066069,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Zero).......................0,5
+660,1133066069,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (compare)........................0,5
+661,1133066069,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction rounded.........................0,5
+662,1133066069,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction inexact.........................0,5
+663,1133066069,R03-M1-NF,R03,M1,NF,J07-U01,computation,quiet NaN................................0,5
+664,1133066070,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus inf................................0,5
+665,1133066070,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus normalized number..................0,5
+666,1133066070,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus denormalized number................0,5
+667,1133066070,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus zero...............................0,5
+668,1133066070,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus zero................................0,5
+669,1133066070,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus denormalized number.................0,5
+670,1133066071,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus normalized number...................1,5
+671,1133066071,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus infinity............................0,5
+672,1133066071,R03-M1-NF,R03,M1,NF,J07-U01,computation,reserved.................................0,5
+673,1133066071,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (software)...0,5
+674,1133066071,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (sqrt).......0,5
+675,1133066071,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (int cnvt)...0,5
+676,1133066071,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable invalid operation exceptions......0,5
+677,1133066072,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable overflow exceptions...............0,5
+678,1133066072,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable underflow exceptions..............0,5
+679,1133066072,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable divide-by-zero exceptions.........0,5
+680,1133066072,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable inexact exceptions................0,5
+681,1133066072,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable non-IEEE mode.....................0,5
+682,1133066072,R03-M1-NF,R03,M1,NF,J07-U01,computation,round nearest............................0,5
+683,1133066072,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward zero........................0,5
+684,1133066073,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward +infinity...................0,5
+685,1133066073,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward -infinity...................0,5
+686,1133066073,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Registers:,5
+687,1133066073,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr0=0x9da6d7a9 bfb97649 00000000 40cb7380,5
+688,1133066073,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr1=0x00000000 00000000 a32c70cf 40769dc8,5
+689,1133066073,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr2=0x00000000 00000000 49564fcd c099a86a,5
+690,1133066073,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr3=0x00000000 00000000 f0c559bd 406247ba,5
+691,1133066074,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr4=0x00000000 00000000 19cd9b6c bfb870b9,5
+692,1133066074,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr5=0x9983cc65 3faf2d97 e4f577ad 3fdcc0ca,5
+693,1133066074,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr6=0xfd58f880 bf52895d df8d76aa 3f928227,5
+694,1133066074,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr7=0xe76073a2 3f62ea8c 1cc24a7c c0706e16,5
+695,1133066074,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr8=0xd891a6b5 bff4781b eca2b489 3fc2b54d,5
+696,1133066074,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr9=0x1fb1ca10 3f883a09 00000000 c01c0000,5
+697,1133066074,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr10=0x5e20961c 3f578708 00000000 401c0000,5
+698,1133066075,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr11=0x04304bdd 3fb09c91 19cd9b6c bfb870b9,5
+699,1133066075,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr12=0xa714a565 408e2ee4 94608dcf 3fa438c4,5
+700,1133066075,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr13=0x027c9302 00060001 f8b6c8fd bf8c32b8,5
+701,1133066075,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr14=0xffffffff ffffffff c200fd1c 3f5fd606,5
+702,1133066075,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr15=0xffffffff ffffffff 3764d16d 3f89bbdc,5
+703,1133066075,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr16=0xffffffff ffffffff 67d75bd9 bf8a444a,5
+704,1133066075,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr17=0xffffffff ffffffff b9c5f097 3feff9db,5
+705,1133066076,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr18=0xffffffff ffffffff 80000000 c3300000,5
+706,1133066076,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr19=0xffffffff ffffffff d6ab5368 3f553959,5
+707,1133066076,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr20=0xffffffff ffffffff 00000000 3fd80000,5
+708,1133066076,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr21=0xffffffff ffffffff 00000000 bfd40000,5
+709,1133066076,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr22=0xffffffff ffffffff 00000000 bff00000,5
+710,1133066076,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,5
+711,1133066076,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr24=0xffffffff ffffffff bc6a7efa bf489374,5
+712,1133066077,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr25=0xffffffff ffffffff aa82f4e3 3f36fdae,5
+713,1133066077,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr26=0xffffffff ffffffff 00000000 bfe00000,5
+714,1133066077,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr27=0xffffffff ffffffff 211a6973 3eda90b7,5
+715,1133066077,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr28=0xffffffff ffffffff d6ab5368 3f653959,5
+716,1133066077,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr29=0xffffffff ffffffff 00000000 408f4000,5
+717,1133066077,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr30=0xffffffff ffffffff 00000000 3ff00000,5
+718,1133066077,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr31=0xffffffff ffffffff 00000000 00000000,5
+719,1133066078,R03-M1-NF,R03,M1,NF,J07-U01,computation,rts panic! - stopping execution,5
+720,1133135170,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check interrupt (bit=0x10): L2 dcache unit read return parity error,6
+721,1133135170,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address: 0x002a2560,6
+722,1133135170,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine Check Status Register: 0xa0000000,6
+723,1133135170,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check summary.............1,6
+724,1133135170,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction plb error.............0,6
+725,1133135171,R03-M1-NF,R03,M1,NF,J07-U01,computation,data read plb error...............1,6
+726,1133135171,R03-M1-NF,R03,M1,NF,J07-U01,computation,data write plb error..............0,6
+727,1133135171,R03-M1-NF,R03,M1,NF,J07-U01,computation,tlb error.........................0,6
+728,1133135171,R03-M1-NF,R03,M1,NF,J07-U01,computation,i-cache parity error..............0,6
+729,1133135171,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache search parity error.......0,6
+730,1133135171,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache flush parity error........0,6
+731,1133135172,R03-M1-NF,R03,M1,NF,J07-U01,computation,imprecise machine check...........0,6
+732,1133135172,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine State Register: 0x0002f900,6
+733,1133135172,R03-M1-NF,R03,M1,NF,J07-U01,computation,wait state enable.................0,6
+734,1133135172,R03-M1-NF,R03,M1,NF,J07-U01,computation,critical input interrupt enable...1,6
+735,1133135172,R03-M1-NF,R03,M1,NF,J07-U01,computation,external input interrupt enable...1,6
+736,1133135172,R03-M1-NF,R03,M1,NF,J07-U01,computation,problem state (0=sup,6
+737,1133135173,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating point instr. enabled.....1,6
+738,1133135173,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check enable..............1,6
+739,1133135173,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 0 enable......1,6
+740,1133135173,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug wait enable.................0,6
+741,1133135173,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug interrupt enable............0,6
+742,1133135173,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 1 enable......1,6
+743,1133135173,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address space.........0,6
+744,1133135174,R03-M1-NF,R03,M1,NF,J07-U01,computation,data address space................0,6
+745,1133135174,R03-M1-NF,R03,M1,NF,J07-U01,computation,Core Configuration Register 0: 0x00002000,6
+746,1133135174,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable store gathering..................0,6
+747,1133135174,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable apu instruction broadcast........0,6
+748,1133135174,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable trace broadcast..................0,6
+749,1133135174,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed instruction cache block touch.0,6
+750,1133135174,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed data cache block touch........1,6
+751,1133135175,R03-M1-NF,R03,M1,NF,J07-U01,computation,force load/store alignment...............0,6
+752,1133135175,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch depth....................0,6
+753,1133135175,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch threshold................0,6
+754,1133135175,R03-M1-NF,R03,M1,NF,J07-U01,computation,General Purpose Registers:,6
+755,1133135175,R03-M1-NF,R03,M1,NF,J07-U01,computation,r00=0x00000000 r01=0x0ffe82b0 r02=0x1eeeeeee r03=0x0ffea4c8,6
+756,1133135175,R03-M1-NF,R03,M1,NF,J07-U01,computation,r04=0x00000000 r05=0x24404844 r06=0x0029fcac r07=0x000000d0,6
+757,1133135175,R03-M1-NF,R03,M1,NF,J07-U01,computation,r08=0x00ed4920 r09=0x00000000 r10=0x003b0000 r11=0x00ed4920,6
+758,1133135176,R03-M1-NF,R03,M1,NF,J07-U01,computation,r12=0x00398958 r13=0x1eeeeeee r14=0x00000000 r15=0x00000088,6
+759,1133135176,R03-M1-NF,R03,M1,NF,J07-U01,computation,r16=0x00000055 r17=0x00000058 r18=0x00000047 r19=0x00ed4920,6
+760,1133135176,R03-M1-NF,R03,M1,NF,J07-U01,computation,r20=0x40000000 r21=0x40000000 r22=0xffffd000 r23=0x0ffea5c8,6
+761,1133135176,R03-M1-NF,R03,M1,NF,J07-U01,computation,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,6
+762,1133135176,R03-M1-NF,R03,M1,NF,J07-U01,computation,r28=0x004c9870 r29=0xd0001080 r30=0x00000078 r31=0x00000000,6
+763,1133135176,R03-M1-NF,R03,M1,NF,J07-U01,computation,Special Purpose Registers:,6
+764,1133135177,R03-M1-NF,R03,M1,NF,J07-U01,computation,lr=0x0029fcac cr=0x24424842 xer=0x00000002 ctr=0x002701f8,6
+765,1133135177,R03-M1-NF,R03,M1,NF,J07-U01,computation,msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x86004000,6
+766,1133135177,R03-M1-NF,R03,M1,NF,J07-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,6
+767,1133135177,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Status and Control Register: 0x86004000,6
+768,1133135177,R03-M1-NF,R03,M1,NF,J07-U01,computation,exception summary........................1,6
+769,1133135177,R03-M1-NF,R03,M1,NF,J07-U01,computation,enabled exception summary................0,6
+770,1133135177,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception summary......0,6
+771,1133135178,R03-M1-NF,R03,M1,NF,J07-U01,computation,overflow exception.......................0,6
+772,1133135178,R03-M1-NF,R03,M1,NF,J07-U01,computation,underflow exception......................0,6
+773,1133135178,R03-M1-NF,R03,M1,NF,J07-U01,computation,divide-by-zero exception.................1,6
+774,1133135178,R03-M1-NF,R03,M1,NF,J07-U01,computation,inexact exception........................1,6
+775,1133135178,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (SNAN)...........................0,6
+776,1133135178,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf-Inf)........................0,6
+777,1133135178,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Inf)........................0,6
+778,1133135179,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Zero/Zero)......................0,6
+779,1133135179,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Zero).......................0,6
+780,1133135179,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (compare)........................0,6
+781,1133135179,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction rounded.........................0,6
+782,1133135179,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction inexact.........................0,6
+783,1133135179,R03-M1-NF,R03,M1,NF,J07-U01,computation,quiet NaN................................0,6
+784,1133135180,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus inf................................0,6
+785,1133135180,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus normalized number..................0,6
+786,1133135180,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus denormalized number................0,6
+787,1133135180,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus zero...............................0,6
+788,1133135180,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus zero................................0,6
+789,1133135180,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus denormalized number.................0,6
+790,1133135180,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus normalized number...................1,6
+791,1133135181,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus infinity............................0,6
+792,1133135181,R03-M1-NF,R03,M1,NF,J07-U01,computation,reserved.................................0,6
+793,1133135181,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (software)...0,6
+794,1133135181,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (sqrt).......0,6
+795,1133135181,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (int cnvt)...0,6
+796,1133135181,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable invalid operation exceptions......0,6
+797,1133135181,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable overflow exceptions...............0,6
+798,1133135182,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable underflow exceptions..............0,6
+799,1133135182,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable divide-by-zero exceptions.........0,6
+800,1133135182,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable inexact exceptions................0,6
+801,1133135182,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable non-IEEE mode.....................0,6
+802,1133135182,R03-M1-NF,R03,M1,NF,J07-U01,computation,round nearest............................0,6
+803,1133135182,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward zero........................0,6
+804,1133135182,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward +infinity...................0,6
+805,1133135183,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward -infinity...................0,6
+806,1133135183,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Registers:,6
+807,1133135183,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr0=0x03b304c3 40459fb2 00000000 408b7000,6
+808,1133135183,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr1=0x00000000 00000000 5a3c7939 40217dfe,6
+809,1133135183,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr2=0x00000000 00000000 caeeb4b5 3ff67963,6
+810,1133135183,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr3=0x00000000 00000000 ce430a19 3ff78987,6
+811,1133135183,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr4=0x00000000 00000000 98ea8be4 3f5e6e65,6
+812,1133135184,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr5=0xef67cb49 c02c2f8c 1c22e9ce bf732a29,6
+813,1133135184,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr6=0x5de6be3a 404f5793 594d4931 bf8ea01b,6
+814,1133135184,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr7=0x1eec0496 bfe0bbc0 6fc1328a c0255f17,6
+815,1133135184,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr8=0x9d744186 3ff0e303 006296a7 bf75cb0b,6
+816,1133135184,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr9=0x5a88ab5c c04bbccf 00000000 c01c0000,6
+817,1133135184,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr10=0x573a32a8 bf8004ac 00000000 401c0000,6
+818,1133135184,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr11=0x18021af9 400ff715 98ea8be4 3f5e6e65,6
+819,1133135184,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr12=0x00000000 00000000 2d21ac5c bf8048e3,6
+820,1133135185,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr13=0x08ea8b50 08ea4ee8 1174aee6 3f5a3b49,6
+821,1133135185,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr14=0xffffffff ffffffff c200fd1c 3f5fd606,6
+822,1133135185,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr15=0xffffffff ffffffff ef1b5045 bf583bdf,6
+823,1133135185,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr16=0xffffffff ffffffff 27ef75bb bf57fdd8,6
+824,1133135185,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr17=0xffffffff ffffffff b9c5f097 3feff9db,6
+825,1133135185,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr18=0xffffffff ffffffff 80000000 c3300000,6
+826,1133135185,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr19=0xffffffff ffffffff d6ab5368 3f553959,6
+827,1133135186,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr20=0xffffffff ffffffff 00000000 3fd80000,6
+828,1133135186,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr21=0xffffffff ffffffff 00000000 bfd40000,6
+829,1133135186,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr22=0xffffffff ffffffff 00000000 bff00000,6
+830,1133135186,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,6
+831,1133135186,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr24=0xffffffff ffffffff bc6a7efa bf489374,6
+832,1133135186,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr25=0xffffffff ffffffff aa82f4e3 3f36fdae,6
+833,1133135186,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr26=0xffffffff ffffffff 00000000 bfe00000,6
+834,1133135187,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr27=0xffffffff ffffffff 211a6973 3eda90b7,6
+835,1133135187,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr28=0xffffffff ffffffff d6ab5368 3f653959,6
+836,1133135187,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr29=0xffffffff ffffffff 00000000 408f4000,6
+837,1133135187,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr30=0xffffffff ffffffff 00000000 3ff00000,6
+838,1133135187,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr31=0xffffffff ffffffff 00000000 00000000,6
+839,1133135187,R03-M1-NF,R03,M1,NF,J07-U01,computation,rts panic! - stopping execution,6
+840,1133150615,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check interrupt (bit=0x10): L2 dcache unit read return parity error,7
+841,1133150615,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address: 0x002a2560,7
+842,1133150615,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine Check Status Register: 0xa0000000,7
+843,1133150615,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check summary.............1,7
+844,1133150615,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction plb error.............0,7
+845,1133150615,R03-M1-NF,R03,M1,NF,J07-U01,computation,data read plb error...............1,7
+846,1133150615,R03-M1-NF,R03,M1,NF,J07-U01,computation,data write plb error..............0,7
+847,1133150616,R03-M1-NF,R03,M1,NF,J07-U01,computation,tlb error.........................0,7
+848,1133150616,R03-M1-NF,R03,M1,NF,J07-U01,computation,i-cache parity error..............0,7
+849,1133150616,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache search parity error.......0,7
+850,1133150616,R03-M1-NF,R03,M1,NF,J07-U01,computation,d-cache flush parity error........0,7
+851,1133150616,R03-M1-NF,R03,M1,NF,J07-U01,computation,imprecise machine check...........0,7
+852,1133150616,R03-M1-NF,R03,M1,NF,J07-U01,computation,Machine State Register: 0x0002f900,7
+853,1133150617,R03-M1-NF,R03,M1,NF,J07-U01,computation,wait state enable.................0,7
+854,1133150617,R03-M1-NF,R03,M1,NF,J07-U01,computation,critical input interrupt enable...1,7
+855,1133150617,R03-M1-NF,R03,M1,NF,J07-U01,computation,external input interrupt enable...1,7
+856,1133150617,R03-M1-NF,R03,M1,NF,J07-U01,computation,problem state (0=sup,7
+857,1133150617,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating point instr. enabled.....1,7
+858,1133150617,R03-M1-NF,R03,M1,NF,J07-U01,computation,machine check enable..............1,7
+859,1133150617,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 0 enable......1,7
+860,1133150618,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug wait enable.................0,7
+861,1133150618,R03-M1-NF,R03,M1,NF,J07-U01,computation,debug interrupt enable............0,7
+862,1133150618,R03-M1-NF,R03,M1,NF,J07-U01,computation,floating pt ex mode 1 enable......1,7
+863,1133150618,R03-M1-NF,R03,M1,NF,J07-U01,computation,instruction address space.........0,7
+864,1133150618,R03-M1-NF,R03,M1,NF,J07-U01,computation,data address space................0,7
+865,1133150618,R03-M1-NF,R03,M1,NF,J07-U01,computation,Core Configuration Register 0: 0x00002000,7
+866,1133150618,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable store gathering..................0,7
+867,1133150619,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable apu instruction broadcast........0,7
+868,1133150619,R03-M1-NF,R03,M1,NF,J07-U01,computation,disable trace broadcast..................0,7
+869,1133150619,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed instruction cache block touch.0,7
+870,1133150619,R03-M1-NF,R03,M1,NF,J07-U01,computation,guaranteed data cache block touch........1,7
+871,1133150619,R03-M1-NF,R03,M1,NF,J07-U01,computation,force load/store alignment...............0,7
+872,1133150619,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch depth....................0,7
+873,1133150619,R03-M1-NF,R03,M1,NF,J07-U01,computation,icache prefetch threshold................0,7
+874,1133150619,R03-M1-NF,R03,M1,NF,J07-U01,computation,General Purpose Registers:,7
+875,1133150620,R03-M1-NF,R03,M1,NF,J07-U01,computation,r00=0x00000000 r01=0x0ffe82b0 r02=0x1eeeeeee r03=0x0ffea4c8,7
+876,1133150620,R03-M1-NF,R03,M1,NF,J07-U01,computation,r04=0x00000000 r05=0x24404244 r06=0x0029fcac r07=0x00000120,7
+877,1133150620,R03-M1-NF,R03,M1,NF,J07-U01,computation,r08=0x00ed4920 r09=0x00000000 r10=0x003b0000 r11=0x00ed4920,7
+878,1133150620,R03-M1-NF,R03,M1,NF,J07-U01,computation,r12=0x00398958 r13=0x1eeeeeee r14=0x00000000 r15=0x000000f3,7
+879,1133150620,R03-M1-NF,R03,M1,NF,J07-U01,computation,r16=0x00000038 r17=0x000000de r18=0x00000044 r19=0x00ed4920,7
+880,1133150620,R03-M1-NF,R03,M1,NF,J07-U01,computation,r20=0x40000000 r21=0x40000000 r22=0xffffd000 r23=0x0ffea5c8,7
+881,1133150621,R03-M1-NF,R03,M1,NF,J07-U01,computation,r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,7
+882,1133150621,R03-M1-NF,R03,M1,NF,J07-U01,computation,r28=0x004c9870 r29=0xd0001080 r30=0x00000078 r31=0x00000000,7
+883,1133150621,R03-M1-NF,R03,M1,NF,J07-U01,computation,Special Purpose Registers:,7
+884,1133150621,R03-M1-NF,R03,M1,NF,J07-U01,computation,lr=0x0029fcac cr=0x24424242 xer=0x00000002 ctr=0x002701f8,7
+885,1133150621,R03-M1-NF,R03,M1,NF,J07-U01,computation,msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x86004000,7
+886,1133150621,R03-M1-NF,R03,M1,NF,J07-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,7
+887,1133150622,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Status and Control Register: 0x86004000,7
+888,1133150622,R03-M1-NF,R03,M1,NF,J07-U01,computation,exception summary........................1,7
+889,1133150622,R03-M1-NF,R03,M1,NF,J07-U01,computation,enabled exception summary................0,7
+890,1133150622,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception summary......0,7
+891,1133150622,R03-M1-NF,R03,M1,NF,J07-U01,computation,overflow exception.......................0,7
+892,1133150622,R03-M1-NF,R03,M1,NF,J07-U01,computation,underflow exception......................0,7
+893,1133150622,R03-M1-NF,R03,M1,NF,J07-U01,computation,divide-by-zero exception.................1,7
+894,1133150623,R03-M1-NF,R03,M1,NF,J07-U01,computation,inexact exception........................1,7
+895,1133150623,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (SNAN)...........................0,7
+896,1133150623,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf-Inf)........................0,7
+897,1133150623,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Inf)........................0,7
+898,1133150623,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Zero/Zero)......................0,7
+899,1133150623,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (Inf/Zero).......................0,7
+900,1133150623,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid (compare)........................0,7
+901,1133150624,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction rounded.........................0,7
+902,1133150624,R03-M1-NF,R03,M1,NF,J07-U01,computation,fraction inexact.........................0,7
+903,1133150624,R03-M1-NF,R03,M1,NF,J07-U01,computation,quiet NaN................................0,7
+904,1133150624,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus inf................................0,7
+905,1133150624,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus normalized number..................0,7
+906,1133150624,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus denormalized number................0,7
+907,1133150624,R03-M1-NF,R03,M1,NF,J07-U01,computation,minus zero...............................0,7
+908,1133150625,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus zero................................0,7
+909,1133150625,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus denormalized number.................0,7
+910,1133150625,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus normalized number...................1,7
+911,1133150625,R03-M1-NF,R03,M1,NF,J07-U01,computation,plus infinity............................0,7
+912,1133150625,R03-M1-NF,R03,M1,NF,J07-U01,computation,reserved.................................0,7
+913,1133150625,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (software)...0,7
+914,1133150625,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (sqrt).......0,7
+915,1133150625,R03-M1-NF,R03,M1,NF,J07-U01,computation,invalid operation exception (int cnvt)...0,7
+916,1133150626,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable invalid operation exceptions......0,7
+917,1133150626,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable overflow exceptions...............0,7
+918,1133150626,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable underflow exceptions..............0,7
+919,1133150626,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable divide-by-zero exceptions.........0,7
+920,1133150626,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable inexact exceptions................0,7
+921,1133150626,R03-M1-NF,R03,M1,NF,J07-U01,computation,enable non-IEEE mode.....................0,7
+922,1133150627,R03-M1-NF,R03,M1,NF,J07-U01,computation,round nearest............................0,7
+923,1133150627,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward zero........................0,7
+924,1133150627,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward +infinity...................0,7
+925,1133150627,R03-M1-NF,R03,M1,NF,J07-U01,computation,round toward -infinity...................0,7
+926,1133150627,R03-M1-NF,R03,M1,NF,J07-U01,computation,Floating Point Registers:,7
+927,1133150627,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr0=0xf119ef02 bff38ab0 00000000 408c1800,7
+928,1133150627,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr1=0x00000000 00000000 b1a0a46c 401ee8f2,7
+929,1133150628,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr2=0x00000000 00000000 f62f7a6a 401d9f8b,7
+930,1133150628,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr3=0x00000000 00000000 564e09c3 c0317512,7
+931,1133150628,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr4=0x00000000 00000000 c1d36c4c 3f627cf5,7
+932,1133150628,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr5=0x06baa278 c01fbab1 72ffae7b 3f6276d1,7
+933,1133150628,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr6=0xc65ab5cd c028c3ec 7787f21a bf687c08,7
+934,1133150628,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr7=0x9a9eac35 bfe2e13e 6723211a c025f045,7
+935,1133150628,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr8=0x400f56b3 c0009a39 002233d1 3f5c7ae7,7
+936,1133150628,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr9=0xbf8ec1ee c03ed1c3 00000000 c01c0000,7
+937,1133150629,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr10=0x34552f91 3fc0d3a3 00000000 401c0000,7
+938,1133150629,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr11=0xe7501094 3fb91744 c1d36c4c 3f627cf5,7
+939,1133150629,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr12=0x00000000 00000000 ea6dfa9e bf7ec427,7
+940,1133150629,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr13=0x08eb9f90 004c8328 5a2c1ba2 bf62a945,7
+941,1133150629,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr14=0xffffffff ffffffff c200fd1c 3f5fd606,7
+942,1133150629,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr15=0xffffffff ffffffff ea74c555 3f842d62,7
+943,1133150629,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr16=0xffffffff ffffffff 744fab69 bf5c1f8d,7
+944,1133150630,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr17=0xffffffff ffffffff b9c5f097 3feff9db,7
+945,1133150630,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr18=0xffffffff ffffffff 80000000 c3300000,7
+946,1133150630,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr19=0xffffffff ffffffff d6ab5368 3f553959,7
+947,1133150630,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr20=0xffffffff ffffffff 00000000 3fd80000,7
+948,1133150630,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr21=0xffffffff ffffffff 00000000 bfd40000,7
+949,1133150630,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr22=0xffffffff ffffffff 00000000 bff00000,7
+950,1133150630,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,7
+951,1133150631,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr24=0xffffffff ffffffff bc6a7efa bf489374,7
+952,1133150631,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr25=0xffffffff ffffffff aa82f4e3 3f36fdae,7
+953,1133150631,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr26=0xffffffff ffffffff 00000000 bfe00000,7
+954,1133150631,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr27=0xffffffff ffffffff 211a6973 3eda90b7,7
+955,1133150631,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr28=0xffffffff ffffffff d6ab5368 3f653959,7
+956,1133150631,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr29=0xffffffff ffffffff 00000000 408f4000,7
+957,1133150631,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr30=0xffffffff ffffffff 00000000 3ff00000,7
+958,1133150632,R03-M1-NF,R03,M1,NF,J07-U01,computation,fpr31=0xffffffff ffffffff 00000000 00000000,7
+959,1133150632,R03-M1-NF,R03,M1,NF,J07-U01,computation,rts panic! - stopping execution,7

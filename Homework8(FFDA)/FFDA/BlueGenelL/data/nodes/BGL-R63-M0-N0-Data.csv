@@ -1,0 +1,792 @@
+,Timestamp,ID-Node,Rack,Midplane,Node,Card,Card type,Message,Tuple
+0,1128641312,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40149: Link has been severed,0
+1,1128641312,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40150: Link has been severed,0
+2,1128970727,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:58101: Link has been severed,1
+3,1128970727,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:58102: Link has been severed,1
+4,1129165864,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image,2
+5,1129165864,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image,2
+6,1129166633,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image,3
+7,1129166633,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image,3
+8,1129204897,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image,4
+9,1129204897,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image,4
+10,1129208255,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image,5
+11,1129208255,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image,5
+12,1129208313,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image,5
+13,1129208314,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image,5
+14,1129289553,R63-M0-N0,R63,M0,N0,J18-U11,I-O,Lustre mount FAILED : bglio817 : block_id : location,6
+15,1129289553,R63-M0-N0,R63,M0,N0,J18-U01,I-O,Lustre mount FAILED : bglio818 : block_id : location,6
+16,1129291951,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/raptor.254.noprint: invalid or missing program image,7
+17,1129291951,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/raptor.254.noprint: invalid or missing program image,7
+18,1129391850,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image,8
+19,1129391850,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image,8
+20,1129391938,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image,8
+21,1129391938,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image,8
+22,1129501495,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:47895: Link has been severed,9
+23,1129501537,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:47896: Link has been severed,9
+24,1129547414,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/current_brian.rts: invalid or missing program image,10
+25,1129547414,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/current_brian.rts: invalid or missing program image,10
+26,1129750346,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/cabot/miranova/bgl/bin_lukei?/miranda_newhack: invalid or missing program image,11
+27,1129750346,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/cabot/miranova/bgl/bin_lukei?/miranda_newhack: invalid or missing program image,11
+28,1129820546,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image,12
+29,1129820547,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image,12
+30,1129895983,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bwallen/oldcode_newkernel.rts: invalid or missing program image,13
+31,1129895983,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bwallen/oldcode_newkernel.rts: invalid or missing program image,13
+32,1129903363,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/bcastV1R1.rts: invalid or missing program image,14
+33,1129903363,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/bcastV1R1.rts: invalid or missing program image,14
+34,1129922423,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/rfisher/sodscaling/flash2.noio: program image too big,15
+35,1129922423,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/rfisher/sodscaling/flash2.noio: program image too big,15
+36,1129979315,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image,16
+37,1129979315,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image,16
+38,1129979385,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image,16
+39,1129979385,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image,16
+40,1129979455,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image,16
+41,1129979455,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddMDv1.1.17/bin/ddcMDbglV: invalid or missing program image,16
+42,1129979960,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddMD1.1.17/bin/ddcMDbglV: invalid or missing program image,17
+43,1129979960,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddMD1.1.17/bin/ddcMDbglV: invalid or missing program image,17
+44,1130058537,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image,18
+45,1130058537,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image,18
+46,1130058608,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image,18
+47,1130058608,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image,18
+48,1130078152,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image,19
+49,1130078152,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image,19
+50,1130078301,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image,19
+51,1130078301,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image,19
+52,1130157492,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bwallen/brian_12point3.rts: invalid or missing program image,20
+53,1130157492,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bwallen/brian_12point3.rts: invalid or missing program image,20
+54,1130251384,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading allreduce_double_V1R1.rts: invalid or missing program image,21
+55,1130251384,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading allreduce_double_V1R1.rts: invalid or missing program image,21
+56,1130251488,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image,21
+57,1130251488,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image,21
+58,1130443799,R63-M0-N0,R63,M0,N0,J18-U11,I-O,Lustre mount FAILED : bglio817 : block_id : location,22
+59,1130443842,R63-M0-N0,R63,M0,N0,J18-U01,I-O,Lustre mount FAILED : bglio818 : block_id : location,22
+60,1130688044,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image,23
+61,1130688044,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image,23
+62,1130695745,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image,24
+63,1130695745,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image,24
+64,1131021282,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_vnm: invalid or missing program image,25
+65,1131021282,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_vnm: invalid or missing program image,25
+66,1131030130,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64R.rts: invalid or missing program image,26
+67,1131030130,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64R.rts: invalid or missing program image,26
+68,1131030197,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image,26
+69,1131030197,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image,26
+70,1131045342,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/antypas1/bgl_F3/Sod3d64IO/flash3: invalid or missing program image,27
+71,1131045342,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/antypas1/bgl_F3/Sod3d64IO/flash3: invalid or missing program image,27
+72,1131045587,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/antypas1/bgl_F3/FLASH3/Sod3d64IO/flash3: invalid or missing program image,28
+73,1131045587,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/antypas1/bgl_F3/FLASH3/Sod3d64IO/flash3: invalid or missing program image,28
+74,1131048768,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,29
+75,1131048768,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,29
+76,1131049160,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,30
+77,1131049160,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,30
+78,1131056663,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g19/wray/mp_general_mpi_rfft: invalid or missing program image,31
+79,1131056663,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g19/wray/mp_general_mpi_rfft: invalid or missing program image,31
+80,1131060630,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/BGLcode/test/mdcask.opt: program image too big,32
+81,1131060630,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/BGLcode/test/mdcask.opt: program image too big,32
+82,1131147667,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big,33
+83,1131147667,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big,33
+84,1131148012,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big,34
+85,1131148012,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big,34
+86,1131148621,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big,35
+87,1131148621,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big,35
+88,1131148873,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big,36
+89,1131148874,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/Thunder_compare/mdcask.opt: program image too big,36
+90,1131366707,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image,37
+91,1131366707,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image,37
+92,1131366836,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image,37
+93,1131366836,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image,37
+94,1131407151,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,38
+95,1131407151,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,38
+96,1131407633,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory,39
+97,1131407633,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory,39
+98,1131407697,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory,39
+99,1131407697,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory,39
+100,1131407767,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory,39
+101,1131407767,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/home/baker59/batchfiles) failed: No such file or directory,39
+102,1131409491,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /home/ikuo/SOURCE/CPMD.310.3.bgl/cpmd.x: invalid or missing program image,40
+103,1131409491,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /home/ikuo/SOURCE/CPMD.310.3.bgl/cpmd.x: invalid or missing program image,40
+104,1131475802,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,41
+105,1131475802,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,41
+106,1131479752,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,42
+107,1131479752,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,42
+108,1131483551,R63-M0-N0,R63,M0,N0,J09-U11,computation,rts: kernel terminated for reason 1004,43
+109,1131483551,R63-M0-N0,R63,M0,N0,J15-U11,computation,rts: kernel terminated for reason 1004,43
+110,1131483551,R63-M0-N0,R63,M0,N0,J11-U11,computation,rts: kernel terminated for reason 1004,43
+111,1131483551,R63-M0-N0,R63,M0,N0,J13-U11,computation,rts: kernel terminated for reason 1004,43
+112,1131483551,R63-M0-N0,R63,M0,N0,J17-U11,computation,rts: kernel terminated for reason 1004,43
+113,1131483551,R63-M0-N0,R63,M0,N0,J05-U01,computation,rts: kernel terminated for reason 1004,43
+114,1131483551,R63-M0-N0,R63,M0,N0,J03-U01,computation,rts: kernel terminated for reason 1004,43
+115,1131483551,R63-M0-N0,R63,M0,N0,J05-U11,computation,rts: kernel terminated for reason 1004,43
+116,1131483551,R63-M0-N0,R63,M0,N0,J03-U11,computation,rts: kernel terminated for reason 1004,43
+117,1131483551,R63-M0-N0,R63,M0,N0,J07-U11,computation,rts: kernel terminated for reason 1004,43
+118,1131483551,R63-M0-N0,R63,M0,N0,J15-U01,computation,rts: kernel terminated for reason 1004,43
+119,1131483551,R63-M0-N0,R63,M0,N0,J17-U01,computation,rts: kernel terminated for reason 1004,43
+120,1131483551,R63-M0-N0,R63,M0,N0,J11-U01,computation,rts: kernel terminated for reason 1004,43
+121,1131483551,R63-M0-N0,R63,M0,N0,J07-U01,computation,rts: kernel terminated for reason 1004,43
+122,1131483551,R63-M0-N0,R63,M0,N0,J13-U01,computation,rts: kernel terminated for reason 1004,43
+123,1131483551,R63-M0-N0,R63,M0,N0,J09-U01,computation,rts: kernel terminated for reason 1004,43
+124,1131483551,R63-M0-N0,R63,M0,N0,J16-U11,computation,rts: kernel terminated for reason 1004,43
+125,1131483551,R63-M0-N0,R63,M0,N0,J08-U11,computation,rts: kernel terminated for reason 1004,43
+126,1131483552,R63-M0-N0,R63,M0,N0,J14-U11,computation,rts: kernel terminated for reason 1004,43
+127,1131483552,R63-M0-N0,R63,M0,N0,J10-U11,computation,rts: kernel terminated for reason 1004,43
+128,1131483552,R63-M0-N0,R63,M0,N0,J06-U11,computation,rts: kernel terminated for reason 1004,43
+129,1131483552,R63-M0-N0,R63,M0,N0,J12-U11,computation,rts: kernel terminated for reason 1004,43
+130,1131483552,R63-M0-N0,R63,M0,N0,J14-U01,computation,rts: kernel terminated for reason 1004,43
+131,1131483552,R63-M0-N0,R63,M0,N0,J16-U01,computation,rts: kernel terminated for reason 1004,43
+132,1131483552,R63-M0-N0,R63,M0,N0,J10-U01,computation,rts: kernel terminated for reason 1004,43
+133,1131483552,R63-M0-N0,R63,M0,N0,J12-U01,computation,rts: kernel terminated for reason 1004,43
+134,1131483552,R63-M0-N0,R63,M0,N0,J08-U01,computation,rts: kernel terminated for reason 1004,43
+135,1131483552,R63-M0-N0,R63,M0,N0,J04-U01,computation,rts: kernel terminated for reason 1004,43
+136,1131483552,R63-M0-N0,R63,M0,N0,J06-U01,computation,rts: kernel terminated for reason 1004,43
+137,1131483552,R63-M0-N0,R63,M0,N0,J04-U11,computation,rts: kernel terminated for reason 1004,43
+138,1131483552,R63-M0-N0,R63,M0,N0,J02-U01,computation,rts: kernel terminated for reason 1004,43
+139,1131483552,R63-M0-N0,R63,M0,N0,J02-U11,computation,rts: kernel terminated for reason 1004,43
+140,1131483563,R63-M0-N0,R63,M0,N0,J09-U11,computation,Error receiving packet on tree network,43
+141,1131483563,R63-M0-N0,R63,M0,N0,J15-U11,computation,Error receiving packet on tree network,43
+142,1131483563,R63-M0-N0,R63,M0,N0,J11-U11,computation,Error receiving packet on tree network,43
+143,1131483563,R63-M0-N0,R63,M0,N0,J13-U11,computation,Error receiving packet on tree network,43
+144,1131483563,R63-M0-N0,R63,M0,N0,J17-U11,computation,Error receiving packet on tree network,43
+145,1131483563,R63-M0-N0,R63,M0,N0,J05-U01,computation,Error receiving packet on tree network,43
+146,1131483563,R63-M0-N0,R63,M0,N0,J03-U01,computation,Error receiving packet on tree network,43
+147,1131483563,R63-M0-N0,R63,M0,N0,J05-U11,computation,Error receiving packet on tree network,43
+148,1131483563,R63-M0-N0,R63,M0,N0,J03-U11,computation,Error receiving packet on tree network,43
+149,1131483563,R63-M0-N0,R63,M0,N0,J07-U11,computation,Error receiving packet on tree network,43
+150,1131483563,R63-M0-N0,R63,M0,N0,J15-U01,computation,Error receiving packet on tree network,43
+151,1131483563,R63-M0-N0,R63,M0,N0,J17-U01,computation,Error receiving packet on tree network,43
+152,1131483563,R63-M0-N0,R63,M0,N0,J11-U01,computation,Error receiving packet on tree network,43
+153,1131483563,R63-M0-N0,R63,M0,N0,J07-U01,computation,Error receiving packet on tree network,43
+154,1131483563,R63-M0-N0,R63,M0,N0,J13-U01,computation,Error receiving packet on tree network,43
+155,1131483563,R63-M0-N0,R63,M0,N0,J09-U01,computation,Error receiving packet on tree network,43
+156,1131483564,R63-M0-N0,R63,M0,N0,J16-U11,computation,Error receiving packet on tree network,43
+157,1131483564,R63-M0-N0,R63,M0,N0,J08-U11,computation,Error receiving packet on tree network,43
+158,1131483564,R63-M0-N0,R63,M0,N0,J14-U11,computation,Error receiving packet on tree network,43
+159,1131483564,R63-M0-N0,R63,M0,N0,J10-U11,computation,Error receiving packet on tree network,43
+160,1131483564,R63-M0-N0,R63,M0,N0,J06-U11,computation,Error receiving packet on tree network,43
+161,1131483564,R63-M0-N0,R63,M0,N0,J12-U11,computation,Error receiving packet on tree network,43
+162,1131483564,R63-M0-N0,R63,M0,N0,J14-U01,computation,Error receiving packet on tree network,43
+163,1131483564,R63-M0-N0,R63,M0,N0,J16-U01,computation,Error receiving packet on tree network,43
+164,1131483564,R63-M0-N0,R63,M0,N0,J10-U01,computation,Error receiving packet on tree network,43
+165,1131483564,R63-M0-N0,R63,M0,N0,J12-U01,computation,Error receiving packet on tree network,43
+166,1131483564,R63-M0-N0,R63,M0,N0,J08-U01,computation,Error receiving packet on tree network,43
+167,1131483564,R63-M0-N0,R63,M0,N0,J04-U01,computation,Error receiving packet on tree network,43
+168,1131483564,R63-M0-N0,R63,M0,N0,J06-U01,computation,Error receiving packet on tree network,43
+169,1131483564,R63-M0-N0,R63,M0,N0,J04-U11,computation,Error receiving packet on tree network,43
+170,1131483564,R63-M0-N0,R63,M0,N0,J02-U01,computation,Error receiving packet on tree network,43
+171,1131483564,R63-M0-N0,R63,M0,N0,J02-U11,computation,Error receiving packet on tree network,43
+172,1131486133,R63-M0-N0,R63,M0,N0,J09-U11,computation,rts: kernel terminated for reason 1004,44
+173,1131486133,R63-M0-N0,R63,M0,N0,J15-U11,computation,rts: kernel terminated for reason 1004,44
+174,1131486133,R63-M0-N0,R63,M0,N0,J11-U11,computation,rts: kernel terminated for reason 1004,44
+175,1131486133,R63-M0-N0,R63,M0,N0,J13-U11,computation,rts: kernel terminated for reason 1004,44
+176,1131486133,R63-M0-N0,R63,M0,N0,J17-U11,computation,rts: kernel terminated for reason 1004,44
+177,1131486133,R63-M0-N0,R63,M0,N0,J05-U01,computation,rts: kernel terminated for reason 1004,44
+178,1131486133,R63-M0-N0,R63,M0,N0,J03-U01,computation,rts: kernel terminated for reason 1004,44
+179,1131486133,R63-M0-N0,R63,M0,N0,J05-U11,computation,rts: kernel terminated for reason 1004,44
+180,1131486133,R63-M0-N0,R63,M0,N0,J03-U11,computation,rts: kernel terminated for reason 1004,44
+181,1131486133,R63-M0-N0,R63,M0,N0,J07-U11,computation,rts: kernel terminated for reason 1004,44
+182,1131486133,R63-M0-N0,R63,M0,N0,J15-U01,computation,rts: kernel terminated for reason 1004,44
+183,1131486133,R63-M0-N0,R63,M0,N0,J17-U01,computation,rts: kernel terminated for reason 1004,44
+184,1131486133,R63-M0-N0,R63,M0,N0,J11-U01,computation,rts: kernel terminated for reason 1004,44
+185,1131486133,R63-M0-N0,R63,M0,N0,J07-U01,computation,rts: kernel terminated for reason 1004,44
+186,1131486134,R63-M0-N0,R63,M0,N0,J13-U01,computation,rts: kernel terminated for reason 1004,44
+187,1131486134,R63-M0-N0,R63,M0,N0,J09-U01,computation,rts: kernel terminated for reason 1004,44
+188,1131486134,R63-M0-N0,R63,M0,N0,J16-U11,computation,rts: kernel terminated for reason 1004,44
+189,1131486134,R63-M0-N0,R63,M0,N0,J08-U11,computation,rts: kernel terminated for reason 1004,44
+190,1131486134,R63-M0-N0,R63,M0,N0,J14-U11,computation,rts: kernel terminated for reason 1004,44
+191,1131486134,R63-M0-N0,R63,M0,N0,J10-U11,computation,rts: kernel terminated for reason 1004,44
+192,1131486134,R63-M0-N0,R63,M0,N0,J06-U11,computation,rts: kernel terminated for reason 1004,44
+193,1131486134,R63-M0-N0,R63,M0,N0,J12-U11,computation,rts: kernel terminated for reason 1004,44
+194,1131486134,R63-M0-N0,R63,M0,N0,J14-U01,computation,rts: kernel terminated for reason 1004,44
+195,1131486134,R63-M0-N0,R63,M0,N0,J16-U01,computation,rts: kernel terminated for reason 1004,44
+196,1131486134,R63-M0-N0,R63,M0,N0,J10-U01,computation,rts: kernel terminated for reason 1004,44
+197,1131486134,R63-M0-N0,R63,M0,N0,J12-U01,computation,rts: kernel terminated for reason 1004,44
+198,1131486134,R63-M0-N0,R63,M0,N0,J08-U01,computation,rts: kernel terminated for reason 1004,44
+199,1131486134,R63-M0-N0,R63,M0,N0,J04-U01,computation,rts: kernel terminated for reason 1004,44
+200,1131486134,R63-M0-N0,R63,M0,N0,J06-U01,computation,rts: kernel terminated for reason 1004,44
+201,1131486134,R63-M0-N0,R63,M0,N0,J04-U11,computation,rts: kernel terminated for reason 1004,44
+202,1131486134,R63-M0-N0,R63,M0,N0,J02-U01,computation,rts: kernel terminated for reason 1004,44
+203,1131486134,R63-M0-N0,R63,M0,N0,J02-U11,computation,rts: kernel terminated for reason 1004,44
+204,1131486150,R63-M0-N0,R63,M0,N0,J09-U11,computation,Error receiving packet on tree network,44
+205,1131486150,R63-M0-N0,R63,M0,N0,J15-U11,computation,Error receiving packet on tree network,44
+206,1131486150,R63-M0-N0,R63,M0,N0,J11-U11,computation,Error receiving packet on tree network,44
+207,1131486150,R63-M0-N0,R63,M0,N0,J13-U11,computation,Error receiving packet on tree network,44
+208,1131486151,R63-M0-N0,R63,M0,N0,J17-U11,computation,Error receiving packet on tree network,44
+209,1131486151,R63-M0-N0,R63,M0,N0,J05-U01,computation,Error receiving packet on tree network,44
+210,1131486151,R63-M0-N0,R63,M0,N0,J03-U01,computation,Error receiving packet on tree network,44
+211,1131486151,R63-M0-N0,R63,M0,N0,J05-U11,computation,Error receiving packet on tree network,44
+212,1131486151,R63-M0-N0,R63,M0,N0,J03-U11,computation,Error receiving packet on tree network,44
+213,1131486151,R63-M0-N0,R63,M0,N0,J07-U11,computation,Error receiving packet on tree network,44
+214,1131486151,R63-M0-N0,R63,M0,N0,J15-U01,computation,Error receiving packet on tree network,44
+215,1131486151,R63-M0-N0,R63,M0,N0,J17-U01,computation,Error receiving packet on tree network,44
+216,1131486151,R63-M0-N0,R63,M0,N0,J11-U01,computation,Error receiving packet on tree network,44
+217,1131486151,R63-M0-N0,R63,M0,N0,J07-U01,computation,Error receiving packet on tree network,44
+218,1131486151,R63-M0-N0,R63,M0,N0,J13-U01,computation,Error receiving packet on tree network,44
+219,1131486151,R63-M0-N0,R63,M0,N0,J09-U01,computation,Error receiving packet on tree network,44
+220,1131486151,R63-M0-N0,R63,M0,N0,J16-U11,computation,Error receiving packet on tree network,44
+221,1131486151,R63-M0-N0,R63,M0,N0,J08-U11,computation,Error receiving packet on tree network,44
+222,1131486151,R63-M0-N0,R63,M0,N0,J14-U11,computation,Error receiving packet on tree network,44
+223,1131486151,R63-M0-N0,R63,M0,N0,J10-U11,computation,Error receiving packet on tree network,44
+224,1131486151,R63-M0-N0,R63,M0,N0,J06-U11,computation,Error receiving packet on tree network,44
+225,1131486151,R63-M0-N0,R63,M0,N0,J12-U11,computation,Error receiving packet on tree network,44
+226,1131486151,R63-M0-N0,R63,M0,N0,J14-U01,computation,Error receiving packet on tree network,44
+227,1131486152,R63-M0-N0,R63,M0,N0,J16-U01,computation,Error receiving packet on tree network,44
+228,1131486152,R63-M0-N0,R63,M0,N0,J10-U01,computation,Error receiving packet on tree network,44
+229,1131486152,R63-M0-N0,R63,M0,N0,J12-U01,computation,Error receiving packet on tree network,44
+230,1131486152,R63-M0-N0,R63,M0,N0,J08-U01,computation,Error receiving packet on tree network,44
+231,1131486152,R63-M0-N0,R63,M0,N0,J04-U01,computation,Error receiving packet on tree network,44
+232,1131486152,R63-M0-N0,R63,M0,N0,J06-U01,computation,Error receiving packet on tree network,44
+233,1131486152,R63-M0-N0,R63,M0,N0,J04-U11,computation,Error receiving packet on tree network,44
+234,1131486152,R63-M0-N0,R63,M0,N0,J02-U01,computation,Error receiving packet on tree network,44
+235,1131486152,R63-M0-N0,R63,M0,N0,J02-U11,computation,Error receiving packet on tree network,44
+236,1131491322,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,45
+237,1131491322,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,45
+238,1131491644,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,46
+239,1131491644,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,46
+240,1131491994,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,47
+241,1131491994,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,47
+242,1131493052,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,48
+243,1131493052,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big,48
+244,1131679236,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g11/draeger/testqbox_devel/qb_devel_bgl: invalid or missing program image,49
+245,1131679236,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g11/draeger/testqbox_devel/qb_devel_bgl: invalid or missing program image,49
+246,1131680332,R63-M0-N0,R63,M0,N0,J09-U11,computation,rts: kernel terminated for reason 1004,50
+247,1131680332,R63-M0-N0,R63,M0,N0,J15-U11,computation,rts: kernel terminated for reason 1004,50
+248,1131680332,R63-M0-N0,R63,M0,N0,J11-U11,computation,rts: kernel terminated for reason 1004,50
+249,1131680332,R63-M0-N0,R63,M0,N0,J13-U11,computation,rts: kernel terminated for reason 1004,50
+250,1131680332,R63-M0-N0,R63,M0,N0,J17-U11,computation,rts: kernel terminated for reason 1004,50
+251,1131680332,R63-M0-N0,R63,M0,N0,J05-U01,computation,rts: kernel terminated for reason 1004,50
+252,1131680332,R63-M0-N0,R63,M0,N0,J03-U01,computation,rts: kernel terminated for reason 1004,50
+253,1131680332,R63-M0-N0,R63,M0,N0,J05-U11,computation,rts: kernel terminated for reason 1004,50
+254,1131680332,R63-M0-N0,R63,M0,N0,J03-U11,computation,rts: kernel terminated for reason 1004,50
+255,1131680333,R63-M0-N0,R63,M0,N0,J07-U11,computation,rts: kernel terminated for reason 1004,50
+256,1131680333,R63-M0-N0,R63,M0,N0,J15-U01,computation,rts: kernel terminated for reason 1004,50
+257,1131680333,R63-M0-N0,R63,M0,N0,J17-U01,computation,rts: kernel terminated for reason 1004,50
+258,1131680333,R63-M0-N0,R63,M0,N0,J11-U01,computation,rts: kernel terminated for reason 1004,50
+259,1131680333,R63-M0-N0,R63,M0,N0,J07-U01,computation,rts: kernel terminated for reason 1004,50
+260,1131680333,R63-M0-N0,R63,M0,N0,J13-U01,computation,rts: kernel terminated for reason 1004,50
+261,1131680333,R63-M0-N0,R63,M0,N0,J09-U01,computation,rts: kernel terminated for reason 1004,50
+262,1131680333,R63-M0-N0,R63,M0,N0,J16-U11,computation,rts: kernel terminated for reason 1004,50
+263,1131680333,R63-M0-N0,R63,M0,N0,J08-U11,computation,rts: kernel terminated for reason 1004,50
+264,1131680333,R63-M0-N0,R63,M0,N0,J14-U11,computation,rts: kernel terminated for reason 1004,50
+265,1131680333,R63-M0-N0,R63,M0,N0,J10-U11,computation,rts: kernel terminated for reason 1004,50
+266,1131680333,R63-M0-N0,R63,M0,N0,J06-U11,computation,rts: kernel terminated for reason 1004,50
+267,1131680333,R63-M0-N0,R63,M0,N0,J12-U11,computation,rts: kernel terminated for reason 1004,50
+268,1131680333,R63-M0-N0,R63,M0,N0,J14-U01,computation,rts: kernel terminated for reason 1004,50
+269,1131680333,R63-M0-N0,R63,M0,N0,J16-U01,computation,rts: kernel terminated for reason 1004,50
+270,1131680333,R63-M0-N0,R63,M0,N0,J10-U01,computation,rts: kernel terminated for reason 1004,50
+271,1131680333,R63-M0-N0,R63,M0,N0,J12-U01,computation,rts: kernel terminated for reason 1004,50
+272,1131680333,R63-M0-N0,R63,M0,N0,J08-U01,computation,rts: kernel terminated for reason 1004,50
+273,1131680333,R63-M0-N0,R63,M0,N0,J04-U01,computation,rts: kernel terminated for reason 1004,50
+274,1131680333,R63-M0-N0,R63,M0,N0,J06-U01,computation,rts: kernel terminated for reason 1004,50
+275,1131680333,R63-M0-N0,R63,M0,N0,J04-U11,computation,rts: kernel terminated for reason 1004,50
+276,1131680333,R63-M0-N0,R63,M0,N0,J02-U01,computation,rts: kernel terminated for reason 1004,50
+277,1131680333,R63-M0-N0,R63,M0,N0,J02-U11,computation,rts: kernel terminated for reason 1004,50
+278,1131680350,R63-M0-N0,R63,M0,N0,J09-U11,computation,Error receiving packet on tree network,50
+279,1131680350,R63-M0-N0,R63,M0,N0,J15-U11,computation,Error receiving packet on tree network,50
+280,1131680350,R63-M0-N0,R63,M0,N0,J11-U11,computation,Error receiving packet on tree network,50
+281,1131680350,R63-M0-N0,R63,M0,N0,J13-U11,computation,Error receiving packet on tree network,50
+282,1131680350,R63-M0-N0,R63,M0,N0,J17-U11,computation,Error receiving packet on tree network,50
+283,1131680350,R63-M0-N0,R63,M0,N0,J05-U01,computation,Error receiving packet on tree network,50
+284,1131680350,R63-M0-N0,R63,M0,N0,J03-U01,computation,Error receiving packet on tree network,50
+285,1131680350,R63-M0-N0,R63,M0,N0,J05-U11,computation,Error receiving packet on tree network,50
+286,1131680350,R63-M0-N0,R63,M0,N0,J03-U11,computation,Error receiving packet on tree network,50
+287,1131680350,R63-M0-N0,R63,M0,N0,J07-U11,computation,Error receiving packet on tree network,50
+288,1131680350,R63-M0-N0,R63,M0,N0,J15-U01,computation,Error receiving packet on tree network,50
+289,1131680350,R63-M0-N0,R63,M0,N0,J17-U01,computation,Error receiving packet on tree network,50
+290,1131680350,R63-M0-N0,R63,M0,N0,J11-U01,computation,Error receiving packet on tree network,50
+291,1131680350,R63-M0-N0,R63,M0,N0,J07-U01,computation,Error receiving packet on tree network,50
+292,1131680350,R63-M0-N0,R63,M0,N0,J13-U01,computation,Error receiving packet on tree network,50
+293,1131680350,R63-M0-N0,R63,M0,N0,J09-U01,computation,Error receiving packet on tree network,50
+294,1131680350,R63-M0-N0,R63,M0,N0,J16-U11,computation,Error receiving packet on tree network,50
+295,1131680350,R63-M0-N0,R63,M0,N0,J08-U11,computation,Error receiving packet on tree network,50
+296,1131680350,R63-M0-N0,R63,M0,N0,J14-U11,computation,Error receiving packet on tree network,50
+297,1131680350,R63-M0-N0,R63,M0,N0,J10-U11,computation,Error receiving packet on tree network,50
+298,1131680351,R63-M0-N0,R63,M0,N0,J06-U11,computation,Error receiving packet on tree network,50
+299,1131680351,R63-M0-N0,R63,M0,N0,J12-U11,computation,Error receiving packet on tree network,50
+300,1131680351,R63-M0-N0,R63,M0,N0,J14-U01,computation,Error receiving packet on tree network,50
+301,1131680351,R63-M0-N0,R63,M0,N0,J16-U01,computation,Error receiving packet on tree network,50
+302,1131680351,R63-M0-N0,R63,M0,N0,J10-U01,computation,Error receiving packet on tree network,50
+303,1131680351,R63-M0-N0,R63,M0,N0,J12-U01,computation,Error receiving packet on tree network,50
+304,1131680351,R63-M0-N0,R63,M0,N0,J08-U01,computation,Error receiving packet on tree network,50
+305,1131680351,R63-M0-N0,R63,M0,N0,J04-U01,computation,Error receiving packet on tree network,50
+306,1131680351,R63-M0-N0,R63,M0,N0,J06-U01,computation,Error receiving packet on tree network,50
+307,1131680351,R63-M0-N0,R63,M0,N0,J04-U11,computation,Error receiving packet on tree network,50
+308,1131680351,R63-M0-N0,R63,M0,N0,J02-U01,computation,Error receiving packet on tree network,50
+309,1131680351,R63-M0-N0,R63,M0,N0,J02-U11,computation,Error receiving packet on tree network,50
+310,1132066390,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image,51
+311,1132066390,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image,51
+312,1132234431,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43766,52
+313,1132234431,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43765,52
+314,1132236798,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45939,53
+315,1132236798,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45938,53
+316,1132317388,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image,54
+317,1132317452,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image,54
+318,1132320982,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58931,55
+319,1132320982,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58930,55
+320,1132341237,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading -mode VN: invalid or missing program image,56
+321,1132341237,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading -mode VN: invalid or missing program image,56
+322,1132583998,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:43824: Link has been severed,57
+323,1132583998,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:43823: Link has been severed,57
+324,1132600279,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41866,58
+325,1132600279,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41865,58
+326,1132609302,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:53165,59
+327,1132609302,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:53164,59
+328,1132613233,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41336,60
+329,1132613282,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41335,60
+330,1132613992,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43652,61
+331,1132613992,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43651,61
+332,1132694793,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:44265,62
+333,1132694793,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:44264,62
+334,1132712736,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading verbose: invalid or missing program image,63
+335,1132712736,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading verbose: invalid or missing program image,63
+336,1132712856,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading verbose: invalid or missing program image,63
+337,1132712856,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading verbose: invalid or missing program image,63
+338,1132717787,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41918,64
+339,1132720544,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49906,65
+340,1132720544,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49905,65
+341,1132898754,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54433,66
+342,1132898811,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54432,66
+343,1132912106,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54429,67
+344,1132912106,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54428,67
+345,1132940672,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40172,68
+346,1132940672,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40171,68
+347,1132969419,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bin/hostname: invalid or missing program image,69
+348,1132969419,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bin/hostname: invalid or missing program image,69
+349,1133009336,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:60085,70
+350,1133009406,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:60086,70
+351,1133199994,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading verbose: invalid or missing program image,71
+352,1133199994,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading verbose: invalid or missing program image,71
+353,1133200071,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading verbose: invalid or missing program image,71
+354,1133200071,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading verbose: invalid or missing program image,71
+355,1133200780,R63-M0-N0,R63,M0,N0,J11-U11,computation,data TLB error interrupt,72
+356,1133200780,R63-M0-N0,R63,M0,N0,J11-U11,computation,instruction address: 0x000093fc,72
+357,1133200780,R63-M0-N0,R63,M0,N0,J11-U11,computation,data address: 0x0012af3c,72
+358,1133200780,R63-M0-N0,R63,M0,N0,J11-U11,computation,Machine State Register: 0x00003000,72
+359,1133200780,R63-M0-N0,R63,M0,N0,J11-U11,computation,wait state enable.................0,72
+360,1133200780,R63-M0-N0,R63,M0,N0,J11-U11,computation,critical input interrupt enable...0,72
+361,1133200781,R63-M0-N0,R63,M0,N0,J11-U11,computation,external input interrupt enable...0,72
+362,1133200781,R63-M0-N0,R63,M0,N0,J11-U11,computation,problem state (0=sup,72
+363,1133200781,R63-M0-N0,R63,M0,N0,J11-U11,computation,floating point instr. enabled.....1,72
+364,1133200781,R63-M0-N0,R63,M0,N0,J11-U11,computation,machine check enable..............1,72
+365,1133200781,R63-M0-N0,R63,M0,N0,J11-U11,computation,floating pt ex mode 0 enable......0,72
+366,1133200781,R63-M0-N0,R63,M0,N0,J11-U11,computation,debug wait enable.................0,72
+367,1133200781,R63-M0-N0,R63,M0,N0,J11-U11,computation,debug interrupt enable............0,72
+368,1133200781,R63-M0-N0,R63,M0,N0,J11-U11,computation,floating pt ex mode 1 enable......0,72
+369,1133200782,R63-M0-N0,R63,M0,N0,J11-U11,computation,instruction address space.........0,72
+370,1133200782,R63-M0-N0,R63,M0,N0,J11-U11,computation,data address space................0,72
+371,1133200782,R63-M0-N0,R63,M0,N0,J11-U11,computation,Core Configuration Register 0: 0x00002000,72
+372,1133200782,R63-M0-N0,R63,M0,N0,J11-U11,computation,disable store gathering..................0,72
+373,1133200782,R63-M0-N0,R63,M0,N0,J11-U11,computation,disable apu instruction broadcast........0,72
+374,1133200782,R63-M0-N0,R63,M0,N0,J11-U11,computation,disable trace broadcast..................0,72
+375,1133200782,R63-M0-N0,R63,M0,N0,J11-U11,computation,guaranteed instruction cache block touch.0,72
+376,1133200783,R63-M0-N0,R63,M0,N0,J11-U11,computation,guaranteed data cache block touch........1,72
+377,1133200783,R63-M0-N0,R63,M0,N0,J11-U11,computation,force load/store alignment...............0,72
+378,1133200783,R63-M0-N0,R63,M0,N0,J11-U11,computation,icache prefetch depth....................0,72
+379,1133200783,R63-M0-N0,R63,M0,N0,J11-U11,computation,icache prefetch threshold................0,72
+380,1133200783,R63-M0-N0,R63,M0,N0,J11-U11,computation,General Purpose Registers:,72
+381,1133200783,R63-M0-N0,R63,M0,N0,J11-U11,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,72
+382,1133200783,R63-M0-N0,R63,M0,N0,J11-U11,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,72
+383,1133200783,R63-M0-N0,R63,M0,N0,J11-U11,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,72
+384,1133200784,R63-M0-N0,R63,M0,N0,J11-U11,computation,r12=0x48242488 r13=0x1eeeeeee r14=0x01c19768 r15=0x0000000c,72
+385,1133200784,R63-M0-N0,R63,M0,N0,J11-U11,computation,r16=0x00004610 r17=0x00008c20 r18=0x00000000 r19=0x00000003,72
+386,1133200784,R63-M0-N0,R63,M0,N0,J11-U11,computation,r20=0x022951b8 r21=0x000004a8 r22=0x1ff8a678 r23=0x1ffaa670,72
+387,1133200784,R63-M0-N0,R63,M0,N0,J11-U11,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,72
+388,1133200784,R63-M0-N0,R63,M0,N0,J11-U11,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,72
+389,1133200784,R63-M0-N0,R63,M0,N0,J11-U11,computation,Special Purpose Registers:,72
+390,1133200784,R63-M0-N0,R63,M0,N0,J11-U11,computation,lr=0x0000fa34 cr=0x48244488 xer=0x00000002 ctr=0x00021ecc,72
+391,1133200784,R63-M0-N0,R63,M0,N0,J11-U11,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,72
+392,1133200785,R63-M0-N0,R63,M0,N0,J11-U11,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,72
+393,1133200785,R63-M0-N0,R63,M0,N0,J11-U11,computation,Floating Point Status and Control Register: 0x82064000,72
+394,1133200785,R63-M0-N0,R63,M0,N0,J11-U11,computation,exception summary........................1,72
+395,1133200785,R63-M0-N0,R63,M0,N0,J11-U11,computation,enabled exception summary................0,72
+396,1133200785,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid operation exception summary......0,72
+397,1133200785,R63-M0-N0,R63,M0,N0,J11-U11,computation,overflow exception.......................0,72
+398,1133200785,R63-M0-N0,R63,M0,N0,J11-U11,computation,underflow exception......................0,72
+399,1133200786,R63-M0-N0,R63,M0,N0,J11-U11,computation,divide-by-zero exception.................0,72
+400,1133200786,R63-M0-N0,R63,M0,N0,J11-U11,computation,inexact exception........................1,72
+401,1133200786,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid (SNAN)...........................0,72
+402,1133200786,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid (Inf-Inf)........................0,72
+403,1133200786,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid (Inf/Inf)........................0,72
+404,1133200786,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid (Zero/Zero)......................0,72
+405,1133200787,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid (Inf/Zero).......................0,72
+406,1133200787,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid (compare)........................0,72
+407,1133200787,R63-M0-N0,R63,M0,N0,J11-U11,computation,fraction rounded.........................1,72
+408,1133200787,R63-M0-N0,R63,M0,N0,J11-U11,computation,fraction inexact.........................1,72
+409,1133200787,R63-M0-N0,R63,M0,N0,J11-U11,computation,quiet NaN................................0,72
+410,1133200787,R63-M0-N0,R63,M0,N0,J11-U11,computation,minus inf................................0,72
+411,1133200787,R63-M0-N0,R63,M0,N0,J11-U11,computation,minus normalized number..................0,72
+412,1133200787,R63-M0-N0,R63,M0,N0,J11-U11,computation,minus denormalized number................0,72
+413,1133200788,R63-M0-N0,R63,M0,N0,J11-U11,computation,minus zero...............................0,72
+414,1133200788,R63-M0-N0,R63,M0,N0,J11-U11,computation,plus zero................................0,72
+415,1133200788,R63-M0-N0,R63,M0,N0,J11-U11,computation,plus denormalized number.................0,72
+416,1133200788,R63-M0-N0,R63,M0,N0,J11-U11,computation,plus normalized number...................1,72
+417,1133200788,R63-M0-N0,R63,M0,N0,J11-U11,computation,plus infinity............................0,72
+418,1133200788,R63-M0-N0,R63,M0,N0,J11-U11,computation,reserved.................................0,72
+419,1133200788,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid operation exception (software)...0,72
+420,1133200788,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid operation exception (sqrt).......0,72
+421,1133200789,R63-M0-N0,R63,M0,N0,J11-U11,computation,invalid operation exception (int cnvt)...0,72
+422,1133200789,R63-M0-N0,R63,M0,N0,J11-U11,computation,enable invalid operation exceptions......0,72
+423,1133200789,R63-M0-N0,R63,M0,N0,J11-U11,computation,enable overflow exceptions...............0,72
+424,1133200789,R63-M0-N0,R63,M0,N0,J11-U11,computation,enable underflow exceptions..............0,72
+425,1133200789,R63-M0-N0,R63,M0,N0,J11-U11,computation,enable divide-by-zero exceptions.........0,72
+426,1133200789,R63-M0-N0,R63,M0,N0,J11-U11,computation,enable inexact exceptions................0,72
+427,1133200789,R63-M0-N0,R63,M0,N0,J11-U11,computation,enable non-IEEE mode.....................0,72
+428,1133200789,R63-M0-N0,R63,M0,N0,J11-U11,computation,round nearest............................0,72
+429,1133200790,R63-M0-N0,R63,M0,N0,J11-U11,computation,round toward zero........................0,72
+430,1133200790,R63-M0-N0,R63,M0,N0,J11-U11,computation,round toward +infinity...................0,72
+431,1133200790,R63-M0-N0,R63,M0,N0,J11-U11,computation,round toward -infinity...................0,72
+432,1133200790,R63-M0-N0,R63,M0,N0,J11-U11,computation,Floating Point Registers:,72
+433,1133200790,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr0=0x10055620 00000000 00094fa5 7ffff980,72
+434,1133200790,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr1=0x10055620 00000001 10045620 0800081d,72
+435,1133200790,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr2=0x00000000 00000001 00340000 002101e1,72
+436,1133200790,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,72
+437,1133200790,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr4=0x10055620 0000000d 10055620 10045620,72
+438,1133200791,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,72
+439,1133200791,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr6=0x00000000 00001001 10024348 7ffff930,72
+440,1133200791,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr7=0x00000000 00000000 00000000 00001000,72
+441,1133200791,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000004,72
+442,1133200791,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr9=0x00000000 00000000 7ffff940 00000000,72
+443,1133200791,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr10=0x10045620 7ffff940 00000001 00000000,72
+444,1133200791,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,72
+445,1133200792,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,72
+446,1133200792,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr13=0x00000000 00000000 00000000 00000000,72
+447,1133200792,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr14=0xffffffff ffffffff 225e34ba 403aa031,72
+448,1133200792,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr15=0xffffffff ffffffff 8bf8b949 4032b540,72
+449,1133200792,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr16=0xffffffff ffffffff dce15e8f 403c54c1,72
+450,1133200792,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr17=0xffffffff ffffffff 44afb20d 3f821f49,72
+451,1133200792,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr18=0xffffffff ffffffff da86c900 3fc3f51b,72
+452,1133200792,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr19=0xffffffff ffffffff 6a1b1500 bfa1bf08,72
+453,1133200793,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr20=0xffffffff ffffffff 29b04a00 3fae237e,72
+454,1133200793,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr21=0xffffffff ffffffff a84f58c5 3fb5c796,72
+455,1133200793,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr22=0xffffffff ffffffff 00000000 4089b800,72
+456,1133200793,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr23=0xffffffff ffffffff 33333333 c0221333,72
+457,1133200793,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr24=0xffffffff ffffffff 33333333 40321333,72
+458,1133200793,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr25=0xffffffff ffffffff 33333333 c0221333,72
+459,1133200793,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr26=0xffffffff ffffffff 33333333 40321333,72
+460,1133200793,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr27=0xffffffff ffffffff 33333333 c0221333,72
+461,1133200794,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr28=0xffffffff ffffffff 33333333 40321333,72
+462,1133200794,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr29=0xffffffff ffffffff 33333333 40221333,72
+463,1133200794,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr30=0xffffffff ffffffff 33333333 40221333,72
+464,1133200794,R63-M0-N0,R63,M0,N0,J11-U11,computation,fpr31=0xffffffff ffffffff 33333333 40221333,72
+465,1133200794,R63-M0-N0,R63,M0,N0,J11-U11,computation,rts internal error,72
+466,1133200794,R63-M0-N0,R63,M0,N0,J11-U11,computation,rts panic! - stopping execution,72
+467,1133200794,R63-M0-N0,R63,M0,N0,J11-U01,computation,data TLB error interrupt,72
+468,1133200795,R63-M0-N0,R63,M0,N0,J11-U01,computation,instruction address: 0x000093fc,72
+469,1133200795,R63-M0-N0,R63,M0,N0,J11-U01,computation,data address: 0x0012af3c,72
+470,1133200795,R63-M0-N0,R63,M0,N0,J11-U01,computation,Machine State Register: 0x00003000,72
+471,1133200795,R63-M0-N0,R63,M0,N0,J11-U01,computation,wait state enable.................0,72
+472,1133200795,R63-M0-N0,R63,M0,N0,J11-U01,computation,critical input interrupt enable...0,72
+473,1133200795,R63-M0-N0,R63,M0,N0,J11-U01,computation,external input interrupt enable...0,72
+474,1133200795,R63-M0-N0,R63,M0,N0,J11-U01,computation,problem state (0=sup,72
+475,1133200796,R63-M0-N0,R63,M0,N0,J11-U01,computation,floating point instr. enabled.....1,72
+476,1133200796,R63-M0-N0,R63,M0,N0,J11-U01,computation,machine check enable..............1,72
+477,1133200796,R63-M0-N0,R63,M0,N0,J11-U01,computation,floating pt ex mode 0 enable......0,72
+478,1133200796,R63-M0-N0,R63,M0,N0,J11-U01,computation,debug wait enable.................0,72
+479,1133200796,R63-M0-N0,R63,M0,N0,J11-U01,computation,debug interrupt enable............0,72
+480,1133200796,R63-M0-N0,R63,M0,N0,J11-U01,computation,floating pt ex mode 1 enable......0,72
+481,1133200796,R63-M0-N0,R63,M0,N0,J11-U01,computation,instruction address space.........0,72
+482,1133200797,R63-M0-N0,R63,M0,N0,J11-U01,computation,data address space................0,72
+483,1133200797,R63-M0-N0,R63,M0,N0,J11-U01,computation,Core Configuration Register 0: 0x00002000,72
+484,1133200797,R63-M0-N0,R63,M0,N0,J11-U01,computation,disable store gathering..................0,72
+485,1133200797,R63-M0-N0,R63,M0,N0,J11-U01,computation,disable apu instruction broadcast........0,72
+486,1133200797,R63-M0-N0,R63,M0,N0,J11-U01,computation,disable trace broadcast..................0,72
+487,1133200797,R63-M0-N0,R63,M0,N0,J11-U01,computation,guaranteed instruction cache block touch.0,72
+488,1133200797,R63-M0-N0,R63,M0,N0,J11-U01,computation,guaranteed data cache block touch........1,72
+489,1133200797,R63-M0-N0,R63,M0,N0,J11-U01,computation,force load/store alignment...............0,72
+490,1133200798,R63-M0-N0,R63,M0,N0,J11-U01,computation,icache prefetch depth....................0,72
+491,1133200798,R63-M0-N0,R63,M0,N0,J11-U01,computation,icache prefetch threshold................0,72
+492,1133200798,R63-M0-N0,R63,M0,N0,J11-U01,computation,General Purpose Registers:,72
+493,1133200798,R63-M0-N0,R63,M0,N0,J11-U01,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,72
+494,1133200798,R63-M0-N0,R63,M0,N0,J11-U01,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,72
+495,1133200798,R63-M0-N0,R63,M0,N0,J11-U01,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,72
+496,1133200798,R63-M0-N0,R63,M0,N0,J11-U01,computation,r12=0x48242488 r13=0x1eeeeeee r14=0x00000000 r15=0x00000001,72
+497,1133200798,R63-M0-N0,R63,M0,N0,J11-U01,computation,r16=0x01edfc00 r17=0x01e0b150 r18=0x02089160 r19=0x01fb46b0,72
+498,1133200799,R63-M0-N0,R63,M0,N0,J11-U01,computation,r20=0x00000000 r21=0x00001454 r22=0x1ff8a678 r23=0x1ffaa670,72
+499,1133200799,R63-M0-N0,R63,M0,N0,J11-U01,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,72
+500,1133200799,R63-M0-N0,R63,M0,N0,J11-U01,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,72
+501,1133200799,R63-M0-N0,R63,M0,N0,J11-U01,computation,Special Purpose Registers:,72
+502,1133200799,R63-M0-N0,R63,M0,N0,J11-U01,computation,lr=0x0000fa34 cr=0x48244488 xer=0x00000002 ctr=0x00021ecc,72
+503,1133200799,R63-M0-N0,R63,M0,N0,J11-U01,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,72
+504,1133200799,R63-M0-N0,R63,M0,N0,J11-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,72
+505,1133200799,R63-M0-N0,R63,M0,N0,J11-U01,computation,Floating Point Status and Control Register: 0x82064000,72
+506,1133200800,R63-M0-N0,R63,M0,N0,J11-U01,computation,exception summary........................1,72
+507,1133200800,R63-M0-N0,R63,M0,N0,J11-U01,computation,enabled exception summary................0,72
+508,1133200800,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid operation exception summary......0,72
+509,1133200800,R63-M0-N0,R63,M0,N0,J11-U01,computation,overflow exception.......................0,72
+510,1133200800,R63-M0-N0,R63,M0,N0,J11-U01,computation,underflow exception......................0,72
+511,1133200800,R63-M0-N0,R63,M0,N0,J11-U01,computation,divide-by-zero exception.................0,72
+512,1133200800,R63-M0-N0,R63,M0,N0,J11-U01,computation,inexact exception........................1,72
+513,1133200800,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid (SNAN)...........................0,72
+514,1133200801,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid (Inf-Inf)........................0,72
+515,1133200801,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid (Inf/Inf)........................0,72
+516,1133200801,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid (Zero/Zero)......................0,72
+517,1133200801,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid (Inf/Zero).......................0,72
+518,1133200801,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid (compare)........................0,72
+519,1133200801,R63-M0-N0,R63,M0,N0,J11-U01,computation,fraction rounded.........................1,72
+520,1133200801,R63-M0-N0,R63,M0,N0,J11-U01,computation,fraction inexact.........................1,72
+521,1133200802,R63-M0-N0,R63,M0,N0,J11-U01,computation,quiet NaN................................0,72
+522,1133200802,R63-M0-N0,R63,M0,N0,J11-U01,computation,minus inf................................0,72
+523,1133200802,R63-M0-N0,R63,M0,N0,J11-U01,computation,minus normalized number..................0,72
+524,1133200802,R63-M0-N0,R63,M0,N0,J11-U01,computation,minus denormalized number................0,72
+525,1133200802,R63-M0-N0,R63,M0,N0,J11-U01,computation,minus zero...............................0,72
+526,1133200802,R63-M0-N0,R63,M0,N0,J11-U01,computation,plus zero................................0,72
+527,1133200802,R63-M0-N0,R63,M0,N0,J11-U01,computation,plus denormalized number.................0,72
+528,1133200802,R63-M0-N0,R63,M0,N0,J11-U01,computation,plus normalized number...................1,72
+529,1133200803,R63-M0-N0,R63,M0,N0,J11-U01,computation,plus infinity............................0,72
+530,1133200803,R63-M0-N0,R63,M0,N0,J11-U01,computation,reserved.................................0,72
+531,1133200803,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid operation exception (software)...0,72
+532,1133200803,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid operation exception (sqrt).......0,72
+533,1133200803,R63-M0-N0,R63,M0,N0,J11-U01,computation,invalid operation exception (int cnvt)...0,72
+534,1133200803,R63-M0-N0,R63,M0,N0,J11-U01,computation,enable invalid operation exceptions......0,72
+535,1133200803,R63-M0-N0,R63,M0,N0,J11-U01,computation,enable overflow exceptions...............0,72
+536,1133200803,R63-M0-N0,R63,M0,N0,J11-U01,computation,enable underflow exceptions..............0,72
+537,1133200804,R63-M0-N0,R63,M0,N0,J11-U01,computation,enable divide-by-zero exceptions.........0,72
+538,1133200804,R63-M0-N0,R63,M0,N0,J11-U01,computation,enable inexact exceptions................0,72
+539,1133200804,R63-M0-N0,R63,M0,N0,J11-U01,computation,enable non-IEEE mode.....................0,72
+540,1133200804,R63-M0-N0,R63,M0,N0,J11-U01,computation,round nearest............................0,72
+541,1133200804,R63-M0-N0,R63,M0,N0,J11-U01,computation,round toward zero........................0,72
+542,1133200804,R63-M0-N0,R63,M0,N0,J11-U01,computation,round toward +infinity...................0,72
+543,1133200804,R63-M0-N0,R63,M0,N0,J11-U01,computation,round toward -infinity...................0,72
+544,1133200804,R63-M0-N0,R63,M0,N0,J11-U01,computation,Floating Point Registers:,72
+545,1133200805,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr0=0x10055620 00000000 00094fa5 7ffff980,72
+546,1133200805,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr1=0x10055620 00000001 10045620 0800081d,72
+547,1133200805,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr2=0x00000000 00000001 00340000 000f01af,72
+548,1133200805,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,72
+549,1133200805,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr4=0x10055620 00000001 10055620 10045620,72
+550,1133200805,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,72
+551,1133200805,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr6=0x00000000 00001001 10024348 7ffff930,72
+552,1133200805,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr7=0x00000000 00000000 00000000 00001000,72
+553,1133200806,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000000,72
+554,1133200806,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr9=0x00000000 00000000 7ffff940 00000000,72
+555,1133200806,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr10=0x10045620 7ffff940 00000001 00000000,72
+556,1133200806,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,72
+557,1133200806,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,72
+558,1133200806,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr13=0x00000000 00000000 00000000 00000000,72
+559,1133200806,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr14=0xffffffff ffffffff 6e3c9f89 403a3fa8,72
+560,1133200807,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr15=0xffffffff ffffffff 77f9514f 4032c7f1,72
+561,1133200807,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr16=0xffffffff ffffffff 7fc11778 403c4642,72
+562,1133200807,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr17=0xffffffff ffffffff b5b72443 bf938460,72
+563,1133200807,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr18=0xffffffff ffffffff f4da7100 bfc7f065,72
+564,1133200807,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr19=0xffffffff ffffffff 3596e400 3f9abd23,72
+565,1133200807,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr20=0xffffffff ffffffff 532b4a00 3fbf66d2,72
+566,1133200807,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr21=0xffffffff ffffffff cffa7822 3ff1f22d,72
+567,1133200808,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr22=0xffffffff ffffffff 00000000 00000000,72
+568,1133200808,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr23=0xffffffff ffffffff 00000000 00000000,72
+569,1133200808,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr24=0xffffffff ffffffff 00000000 00000000,72
+570,1133200808,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr25=0xffffffff ffffffff 7423f1d5 4087ab13,72
+571,1133200808,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr26=0xffffffff ffffffff 00000000 3ff00000,72
+572,1133200808,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr27=0xffffffff ffffffff 80000000 c3300000,72
+573,1133200808,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr28=0xffffffff ffffffff 00000000 3ff00000,72
+574,1133200808,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr29=0xffffffff ffffffff e5edda58 c0520e91,72
+575,1133200808,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr30=0xffffffff ffffffff 29a6face bf8d2fed,72
+576,1133200809,R63-M0-N0,R63,M0,N0,J11-U01,computation,fpr31=0xffffffff ffffffff 00000000 3fe00000,72
+577,1133200809,R63-M0-N0,R63,M0,N0,J11-U01,computation,rts internal error,72
+578,1133200809,R63-M0-N0,R63,M0,N0,J11-U01,computation,rts panic! - stopping execution,72
+579,1133200809,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45606,72
+580,1133200809,R63-M0-N0,R63,M0,N0,J10-U11,computation,data TLB error interrupt,72
+581,1133200810,R63-M0-N0,R63,M0,N0,J10-U11,computation,instruction address: 0x000093fc,72
+582,1133200810,R63-M0-N0,R63,M0,N0,J10-U11,computation,data address: 0x0012af3c,72
+583,1133200810,R63-M0-N0,R63,M0,N0,J10-U11,computation,Machine State Register: 0x00003000,72
+584,1133200810,R63-M0-N0,R63,M0,N0,J10-U11,computation,wait state enable.................0,72
+585,1133200810,R63-M0-N0,R63,M0,N0,J10-U11,computation,critical input interrupt enable...0,72
+586,1133200810,R63-M0-N0,R63,M0,N0,J10-U11,computation,external input interrupt enable...0,72
+587,1133200810,R63-M0-N0,R63,M0,N0,J10-U11,computation,problem state (0=sup,72
+588,1133200810,R63-M0-N0,R63,M0,N0,J10-U11,computation,floating point instr. enabled.....1,72
+589,1133200810,R63-M0-N0,R63,M0,N0,J10-U11,computation,machine check enable..............1,72
+590,1133200811,R63-M0-N0,R63,M0,N0,J10-U11,computation,floating pt ex mode 0 enable......0,72
+591,1133200811,R63-M0-N0,R63,M0,N0,J10-U11,computation,debug wait enable.................0,72
+592,1133200811,R63-M0-N0,R63,M0,N0,J10-U11,computation,debug interrupt enable............0,72
+593,1133200811,R63-M0-N0,R63,M0,N0,J10-U11,computation,floating pt ex mode 1 enable......0,72
+594,1133200811,R63-M0-N0,R63,M0,N0,J10-U11,computation,instruction address space.........0,72
+595,1133200811,R63-M0-N0,R63,M0,N0,J10-U11,computation,data address space................0,72
+596,1133200812,R63-M0-N0,R63,M0,N0,J10-U11,computation,Core Configuration Register 0: 0x00002000,72
+597,1133200812,R63-M0-N0,R63,M0,N0,J10-U11,computation,disable store gathering..................0,72
+598,1133200812,R63-M0-N0,R63,M0,N0,J10-U11,computation,disable apu instruction broadcast........0,72
+599,1133200812,R63-M0-N0,R63,M0,N0,J10-U11,computation,disable trace broadcast..................0,72
+600,1133200812,R63-M0-N0,R63,M0,N0,J10-U11,computation,guaranteed instruction cache block touch.0,72
+601,1133200812,R63-M0-N0,R63,M0,N0,J10-U11,computation,guaranteed data cache block touch........1,72
+602,1133200812,R63-M0-N0,R63,M0,N0,J10-U11,computation,force load/store alignment...............0,72
+603,1133200812,R63-M0-N0,R63,M0,N0,J10-U11,computation,icache prefetch depth....................0,72
+604,1133200813,R63-M0-N0,R63,M0,N0,J10-U11,computation,icache prefetch threshold................0,72
+605,1133200813,R63-M0-N0,R63,M0,N0,J10-U11,computation,General Purpose Registers:,72
+606,1133200813,R63-M0-N0,R63,M0,N0,J10-U11,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,72
+607,1133200813,R63-M0-N0,R63,M0,N0,J10-U11,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,72
+608,1133200813,R63-M0-N0,R63,M0,N0,J10-U11,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,72
+609,1133200813,R63-M0-N0,R63,M0,N0,J10-U11,computation,r12=0x48242488 r13=0x1eeeeeee r14=0x00000e48 r15=0x01d9533c,72
+610,1133200813,R63-M0-N0,R63,M0,N0,J10-U11,computation,r16=0x01edd5c8 r17=0x01e08b18 r18=0x02086b28 r19=0x01fb2078,72
+611,1133200813,R63-M0-N0,R63,M0,N0,J10-U11,computation,r20=0x00000003 r21=0x00001454 r22=0x1ff8a678 r23=0x1ffaa670,72
+612,1133200814,R63-M0-N0,R63,M0,N0,J10-U11,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,72
+613,1133200814,R63-M0-N0,R63,M0,N0,J10-U11,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,72
+614,1133200814,R63-M0-N0,R63,M0,N0,J10-U11,computation,Special Purpose Registers:,72
+615,1133200814,R63-M0-N0,R63,M0,N0,J10-U11,computation,lr=0x0000fa34 cr=0x48244488 xer=0x00000002 ctr=0x00021ecc,72
+616,1133200814,R63-M0-N0,R63,M0,N0,J10-U11,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,72
+617,1133200814,R63-M0-N0,R63,M0,N0,J10-U11,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,72
+618,1133200814,R63-M0-N0,R63,M0,N0,J10-U11,computation,Floating Point Status and Control Register: 0x82064000,72
+619,1133200814,R63-M0-N0,R63,M0,N0,J10-U11,computation,exception summary........................1,72
+620,1133200814,R63-M0-N0,R63,M0,N0,J10-U11,computation,enabled exception summary................0,72
+621,1133200815,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid operation exception summary......0,72
+622,1133200815,R63-M0-N0,R63,M0,N0,J10-U11,computation,overflow exception.......................0,72
+623,1133200815,R63-M0-N0,R63,M0,N0,J10-U11,computation,underflow exception......................0,72
+624,1133200815,R63-M0-N0,R63,M0,N0,J10-U11,computation,divide-by-zero exception.................0,72
+625,1133200815,R63-M0-N0,R63,M0,N0,J10-U11,computation,inexact exception........................1,72
+626,1133200815,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid (SNAN)...........................0,72
+627,1133200815,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid (Inf-Inf)........................0,72
+628,1133200815,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid (Inf/Inf)........................0,72
+629,1133200816,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid (Zero/Zero)......................0,72
+630,1133200816,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid (Inf/Zero).......................0,72
+631,1133200816,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid (compare)........................0,72
+632,1133200816,R63-M0-N0,R63,M0,N0,J10-U11,computation,fraction rounded.........................1,72
+633,1133200816,R63-M0-N0,R63,M0,N0,J10-U11,computation,fraction inexact.........................1,72
+634,1133200816,R63-M0-N0,R63,M0,N0,J10-U11,computation,quiet NaN................................0,72
+635,1133200816,R63-M0-N0,R63,M0,N0,J10-U11,computation,minus inf................................0,72
+636,1133200817,R63-M0-N0,R63,M0,N0,J10-U11,computation,minus normalized number..................0,72
+637,1133200817,R63-M0-N0,R63,M0,N0,J10-U11,computation,minus denormalized number................0,72
+638,1133200817,R63-M0-N0,R63,M0,N0,J10-U11,computation,minus zero...............................0,72
+639,1133200817,R63-M0-N0,R63,M0,N0,J10-U11,computation,plus zero................................0,72
+640,1133200817,R63-M0-N0,R63,M0,N0,J10-U11,computation,plus denormalized number.................0,72
+641,1133200817,R63-M0-N0,R63,M0,N0,J10-U11,computation,plus normalized number...................1,72
+642,1133200817,R63-M0-N0,R63,M0,N0,J10-U11,computation,plus infinity............................0,72
+643,1133200817,R63-M0-N0,R63,M0,N0,J10-U11,computation,reserved.................................0,72
+644,1133200818,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid operation exception (software)...0,72
+645,1133200818,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid operation exception (sqrt).......0,72
+646,1133200818,R63-M0-N0,R63,M0,N0,J10-U11,computation,invalid operation exception (int cnvt)...0,72
+647,1133200818,R63-M0-N0,R63,M0,N0,J10-U11,computation,enable invalid operation exceptions......0,72
+648,1133200818,R63-M0-N0,R63,M0,N0,J10-U11,computation,enable overflow exceptions...............0,72
+649,1133200818,R63-M0-N0,R63,M0,N0,J10-U11,computation,enable underflow exceptions..............0,72
+650,1133200818,R63-M0-N0,R63,M0,N0,J10-U11,computation,enable divide-by-zero exceptions.........0,72
+651,1133200818,R63-M0-N0,R63,M0,N0,J10-U11,computation,enable inexact exceptions................0,72
+652,1133200818,R63-M0-N0,R63,M0,N0,J10-U11,computation,enable non-IEEE mode.....................0,72
+653,1133200819,R63-M0-N0,R63,M0,N0,J10-U11,computation,round nearest............................0,72
+654,1133200819,R63-M0-N0,R63,M0,N0,J10-U11,computation,round toward zero........................0,72
+655,1133200819,R63-M0-N0,R63,M0,N0,J10-U11,computation,round toward +infinity...................0,72
+656,1133200819,R63-M0-N0,R63,M0,N0,J10-U11,computation,round toward -infinity...................0,72
+657,1133200819,R63-M0-N0,R63,M0,N0,J10-U11,computation,Floating Point Registers:,72
+658,1133200819,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr0=0x10055620 00000000 00094fa5 7ffff980,72
+659,1133200819,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr1=0x10055620 00000001 10045620 0800081d,72
+660,1133200819,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr2=0x00000000 00000001 00340000 000a01aa,72
+661,1133200820,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,72
+662,1133200820,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr4=0x10055620 00000001 10055620 10045620,72
+663,1133200820,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,72
+664,1133200820,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr6=0x00000000 10011001 10024348 7ffff930,72
+665,1133200820,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr7=0x00000000 00000000 00000000 00001000,72
+666,1133200820,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000005,72
+667,1133200820,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr9=0x00000000 00000000 7ffff940 00000000,72
+668,1133200820,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr10=0x10045620 7ffff940 00000001 00000000,72
+669,1133200821,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,72
+670,1133200821,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,72
+671,1133200821,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr13=0x00000000 00000000 00000000 00000000,72
+672,1133200821,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr14=0xffffffff ffffffff e63323cd 403aae4a,72
+673,1133200821,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr15=0xffffffff ffffffff f4b1b4e8 4032a9a9,72
+674,1133200821,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr16=0xffffffff ffffffff d06f347f 403c64f1,72
+675,1133200821,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr17=0xffffffff ffffffff f480be20 bf767518,72
+676,1133200822,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr18=0xffffffff ffffffff 607c2400 3fae0d2c,72
+677,1133200822,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr19=0xffffffff ffffffff 7c246a80 bfb63e86,72
+678,1133200822,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr20=0xffffffff ffffffff 38703c00 bf97b067,72
+679,1133200822,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr21=0xffffffff ffffffff 6db99e66 3fd5cd3b,72
+680,1133200822,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr22=0xffffffff ffffffff c1d7fc00 bf8a15e8,72
+681,1133200822,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr23=0xffffffff ffffffff 49780800 3f66ccd6,72
+682,1133200822,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr24=0xffffffff ffffffff dba45000 bf8561e3,72
+683,1133200822,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr25=0xffffffff ffffffff 7423f1d5 4087ab13,72
+684,1133200823,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr26=0xffffffff ffffffff 00000000 3ff00000,72
+685,1133200823,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr27=0xffffffff ffffffff 80000000 c3300000,72
+686,1133200823,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr28=0xffffffff ffffffff 00000000 3ff00000,72
+687,1133200823,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr29=0xffffffff ffffffff 398da2a7 c04ee6c8,72
+688,1133200823,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr30=0xffffffff ffffffff 00000000 00000000,72
+689,1133200823,R63-M0-N0,R63,M0,N0,J10-U11,computation,fpr31=0xffffffff ffffffff 00000000 3fe00000,72
+690,1133200823,R63-M0-N0,R63,M0,N0,J10-U11,computation,rts internal error,72
+691,1133200823,R63-M0-N0,R63,M0,N0,J10-U11,computation,rts panic! - stopping execution,72
+692,1133200923,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45605,72
+693,1133287401,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error creating node map from file my_map.txt: No such file or directory,73
+694,1133287401,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error creating node map from file my_map.txt: No such file or directory,73
+695,1133287493,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error creating node map from file my_map.txt: No such file or directory,73
+696,1133287493,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error creating node map from file my_map.txt: No such file or directory,73
+697,1133287527,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error creating node map from file my_map.txt: No such file or directory,73
+698,1133287529,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error creating node map from file my_map.txt: No such file or directory,73
+699,1133287800,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error creating node map from file my_map.txt: Argument list too long,74
+700,1133287802,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error creating node map from file my_map.txt: Argument list too long,74
+701,1133304729,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/home/bertsch2/src/bgl_nop) failed: No such file or directory,75
+702,1133304729,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/home/bertsch2/src/bgl_nop) failed: No such file or directory,75
+703,1133314528,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58429,76
+704,1133314529,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58428,76
+705,1133363222,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59388,77
+706,1133409294,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,78
+707,1133409392,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,78
+708,1133409392,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,78
+709,1133409550,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,78
+710,1133409705,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,78
+711,1133409795,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,78
+712,1133494272,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59738,79
+713,1133494272,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59737,79
+714,1133517064,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47680,80
+715,1133517064,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47679,80
+716,1133555623,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52591,81
+717,1133555624,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52590,81
+718,1133650315,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57170,82
+719,1133650315,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57169,82
+720,1133877024,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/functional/linpack-128x512-rel2/xhpl.500: invalid or missing program image,83
+721,1133877025,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/functional/linpack-128x512-rel2/xhpl.500: invalid or missing program image,83
+722,1133926491,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45202,84
+723,1133926491,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45201,84
+724,1133971809,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image,85
+725,1133971809,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image,85
+726,1134022710,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:44686,86
+727,1134022710,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:44685,86
+728,1134026119,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47225,87
+729,1134026119,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47226,87
+730,1134080841,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/dahn/BGL_Test_Shots/functional_testing.20051122/testcases/ubgl_llnl_gov/sppm/sppm/run/token_ring_mpi: invalid or missing program image,88
+731,1134080841,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/dahn/BGL_Test_Shots/functional_testing.20051122/testcases/ubgl_llnl_gov/sppm/sppm/run/token_ring_mpi: invalid or missing program image,88
+732,1134080854,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/dahn/BGL_Test_Shots/functional_testing.20051122/testcases/ubgl_llnl_gov/sppm/sppm/run/token_ring_mpi: invalid or missing program image,88
+733,1134080854,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/dahn/BGL_Test_Shots/functional_testing.20051122/testcases/ubgl_llnl_gov/sppm/sppm/run/token_ring_mpi: invalid or missing program image,88
+734,1134093487,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41278,89
+735,1134093487,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41277,89
+736,1134109146,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image,90
+737,1134109146,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image,90
+738,1134116469,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17tuned/bin/ddcMDbglV: invalid or missing program image,91
+739,1134116470,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17tuned/bin/ddcMDbglV: invalid or missing program image,91
+740,1134158825,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/SPPM/1360/sppm_DD: invalid or missing program image,92
+741,1134158825,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/SPPM/1360/sppm_DD: invalid or missing program image,92
+742,1134158859,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1379/inferno: invalid or missing program image,92
+743,1134158859,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1379/inferno: invalid or missing program image,92
+744,1134158880,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image,92
+745,1134158880,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image,92
+746,1134158894,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1392./hpl_DD: invalid or missing program image,92
+747,1134158894,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1392./hpl_DD: invalid or missing program image,92
+748,1134158908,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1399./hpl_DD: invalid or missing program image,92
+749,1134158908,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1399./hpl_DD: invalid or missing program image,92
+750,1134159091,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1408/inferno: invalid or missing program image,93
+751,1134159091,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1408/inferno: invalid or missing program image,93
+752,1134159147,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1409/inferno: invalid or missing program image,93
+753,1134159147,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1409/inferno: invalid or missing program image,93
+754,1134159210,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/RAPTOR/1419/raptor: invalid or missing program image,93
+755,1134159210,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/RAPTOR/1419/raptor: invalid or missing program image,93
+756,1134159231,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/RAPTOR/1420/raptor: invalid or missing program image,93
+757,1134159231,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/RAPTOR/1420/raptor: invalid or missing program image,93
+758,1134357555,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,94
+759,1134357702,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:49681: Link has been severed,94
+760,1134403825,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57978,95
+761,1134403825,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57977,95
+762,1134451132,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:48569,96
+763,1134451132,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:48568,96
+764,1134496348,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:55846,97
+765,1134496418,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:55847,97
+766,1134573390,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46084,98
+767,1134573390,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46083,98
+768,1134599397,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image,99
+769,1134599397,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image,99
+770,1134599397,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image,99
+771,1134599553,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image,99
+772,1134630988,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50395,100
+773,1134631097,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50394,100
+774,1134724913,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39097,101
+775,1134724913,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39096,101
+776,1134773931,R63-M0-N0,R63,M0,N0,J18-U11,I-O,Lustre mount FAILED : bglio817 : block_id : location,102
+777,1134773931,R63-M0-N0,R63,M0,N0,J18-U01,I-O,Lustre mount FAILED : bglio818 : block_id : location,102
+778,1134937885,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45580,103
+779,1134937885,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45579,103
+780,1135182976,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.25.exe: program image too big,104
+781,1135182976,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.25.exe: program image too big,104
+782,1135192677,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.16b.exe: program image too big,105
+783,1135192677,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.16b.exe: program image too big,105
+784,1135619832,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54489,106
+785,1135619832,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54488,106
+786,1135630211,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:36534,107
+787,1135630211,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:36533,107
+788,1135957343,R63-M0-N0,R63,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40043,108
+789,1135957343,R63-M0-N0,R63,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40042,108
+790,1136322596,R63-M0-N0,R63,M0,N0,J18-U11,I-O,Lustre mount FAILED : bglio817 : block_id : location,109

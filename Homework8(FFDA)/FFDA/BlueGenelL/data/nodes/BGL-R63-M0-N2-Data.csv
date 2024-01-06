@@ -1,0 +1,977 @@
+,Timestamp,ID-Node,Rack,Midplane,Node,Card,Card type,Message,Tuple
+0,1131483544,R63-M0-N2,R63,M0,N2,J09-U11,computation,rts: kernel terminated for reason 1004,0
+1,1131483544,R63-M0-N2,R63,M0,N2,J15-U11,computation,rts: kernel terminated for reason 1004,0
+2,1131483544,R63-M0-N2,R63,M0,N2,J11-U11,computation,rts: kernel terminated for reason 1004,0
+3,1131483544,R63-M0-N2,R63,M0,N2,J13-U11,computation,rts: kernel terminated for reason 1004,0
+4,1131483544,R63-M0-N2,R63,M0,N2,J17-U11,computation,rts: kernel terminated for reason 1004,0
+5,1131483544,R63-M0-N2,R63,M0,N2,J05-U01,computation,rts: kernel terminated for reason 1004,0
+6,1131483544,R63-M0-N2,R63,M0,N2,J03-U01,computation,rts: kernel terminated for reason 1004,0
+7,1131483544,R63-M0-N2,R63,M0,N2,J05-U11,computation,rts: kernel terminated for reason 1004,0
+8,1131483544,R63-M0-N2,R63,M0,N2,J03-U11,computation,rts: kernel terminated for reason 1004,0
+9,1131483544,R63-M0-N2,R63,M0,N2,J07-U11,computation,rts: kernel terminated for reason 1004,0
+10,1131483544,R63-M0-N2,R63,M0,N2,J15-U01,computation,rts: kernel terminated for reason 1004,0
+11,1131483544,R63-M0-N2,R63,M0,N2,J17-U01,computation,rts: kernel terminated for reason 1004,0
+12,1131483544,R63-M0-N2,R63,M0,N2,J11-U01,computation,rts: kernel terminated for reason 1004,0
+13,1131483544,R63-M0-N2,R63,M0,N2,J07-U01,computation,rts: kernel terminated for reason 1004,0
+14,1131483544,R63-M0-N2,R63,M0,N2,J13-U01,computation,rts: kernel terminated for reason 1004,0
+15,1131483544,R63-M0-N2,R63,M0,N2,J09-U01,computation,rts: kernel terminated for reason 1004,0
+16,1131483544,R63-M0-N2,R63,M0,N2,J16-U11,computation,rts: kernel terminated for reason 1004,0
+17,1131483544,R63-M0-N2,R63,M0,N2,J08-U11,computation,rts: kernel terminated for reason 1004,0
+18,1131483544,R63-M0-N2,R63,M0,N2,J14-U11,computation,rts: kernel terminated for reason 1004,0
+19,1131483544,R63-M0-N2,R63,M0,N2,J10-U11,computation,rts: kernel terminated for reason 1004,0
+20,1131483544,R63-M0-N2,R63,M0,N2,J06-U11,computation,rts: kernel terminated for reason 1004,0
+21,1131483545,R63-M0-N2,R63,M0,N2,J12-U11,computation,rts: kernel terminated for reason 1004,0
+22,1131483545,R63-M0-N2,R63,M0,N2,J14-U01,computation,rts: kernel terminated for reason 1004,0
+23,1131483545,R63-M0-N2,R63,M0,N2,J16-U01,computation,rts: kernel terminated for reason 1004,0
+24,1131483545,R63-M0-N2,R63,M0,N2,J10-U01,computation,rts: kernel terminated for reason 1004,0
+25,1131483545,R63-M0-N2,R63,M0,N2,J12-U01,computation,rts: kernel terminated for reason 1004,0
+26,1131483545,R63-M0-N2,R63,M0,N2,J08-U01,computation,rts: kernel terminated for reason 1004,0
+27,1131483545,R63-M0-N2,R63,M0,N2,J04-U01,computation,rts: kernel terminated for reason 1004,0
+28,1131483545,R63-M0-N2,R63,M0,N2,J06-U01,computation,rts: kernel terminated for reason 1004,0
+29,1131483545,R63-M0-N2,R63,M0,N2,J04-U11,computation,rts: kernel terminated for reason 1004,0
+30,1131483545,R63-M0-N2,R63,M0,N2,J02-U01,computation,rts: kernel terminated for reason 1004,0
+31,1131483545,R63-M0-N2,R63,M0,N2,J02-U11,computation,rts: kernel terminated for reason 1004,0
+32,1131483559,R63-M0-N2,R63,M0,N2,J09-U11,computation,Error receiving packet on tree network,1
+33,1131483559,R63-M0-N2,R63,M0,N2,J15-U11,computation,Error receiving packet on tree network,1
+34,1131483559,R63-M0-N2,R63,M0,N2,J11-U11,computation,Error receiving packet on tree network,1
+35,1131483559,R63-M0-N2,R63,M0,N2,J13-U11,computation,Error receiving packet on tree network,1
+36,1131483559,R63-M0-N2,R63,M0,N2,J17-U11,computation,Error receiving packet on tree network,1
+37,1131483559,R63-M0-N2,R63,M0,N2,J05-U01,computation,Error receiving packet on tree network,1
+38,1131483559,R63-M0-N2,R63,M0,N2,J03-U01,computation,Error receiving packet on tree network,1
+39,1131483559,R63-M0-N2,R63,M0,N2,J05-U11,computation,Error receiving packet on tree network,1
+40,1131483559,R63-M0-N2,R63,M0,N2,J03-U11,computation,Error receiving packet on tree network,1
+41,1131483559,R63-M0-N2,R63,M0,N2,J07-U11,computation,Error receiving packet on tree network,1
+42,1131483559,R63-M0-N2,R63,M0,N2,J15-U01,computation,Error receiving packet on tree network,1
+43,1131483559,R63-M0-N2,R63,M0,N2,J17-U01,computation,Error receiving packet on tree network,1
+44,1131483559,R63-M0-N2,R63,M0,N2,J11-U01,computation,Error receiving packet on tree network,1
+45,1131483559,R63-M0-N2,R63,M0,N2,J07-U01,computation,Error receiving packet on tree network,1
+46,1131483559,R63-M0-N2,R63,M0,N2,J13-U01,computation,Error receiving packet on tree network,1
+47,1131483559,R63-M0-N2,R63,M0,N2,J09-U01,computation,Error receiving packet on tree network,1
+48,1131483559,R63-M0-N2,R63,M0,N2,J16-U11,computation,Error receiving packet on tree network,1
+49,1131483559,R63-M0-N2,R63,M0,N2,J08-U11,computation,Error receiving packet on tree network,1
+50,1131483559,R63-M0-N2,R63,M0,N2,J14-U11,computation,Error receiving packet on tree network,1
+51,1131483559,R63-M0-N2,R63,M0,N2,J10-U11,computation,Error receiving packet on tree network,1
+52,1131483559,R63-M0-N2,R63,M0,N2,J06-U11,computation,Error receiving packet on tree network,1
+53,1131483559,R63-M0-N2,R63,M0,N2,J12-U11,computation,Error receiving packet on tree network,1
+54,1131483559,R63-M0-N2,R63,M0,N2,J14-U01,computation,Error receiving packet on tree network,1
+55,1131483559,R63-M0-N2,R63,M0,N2,J16-U01,computation,Error receiving packet on tree network,1
+56,1131483559,R63-M0-N2,R63,M0,N2,J10-U01,computation,Error receiving packet on tree network,1
+57,1131483559,R63-M0-N2,R63,M0,N2,J12-U01,computation,Error receiving packet on tree network,1
+58,1131483559,R63-M0-N2,R63,M0,N2,J08-U01,computation,Error receiving packet on tree network,1
+59,1131483559,R63-M0-N2,R63,M0,N2,J04-U01,computation,Error receiving packet on tree network,1
+60,1131483559,R63-M0-N2,R63,M0,N2,J06-U01,computation,Error receiving packet on tree network,1
+61,1131483559,R63-M0-N2,R63,M0,N2,J04-U11,computation,Error receiving packet on tree network,1
+62,1131483559,R63-M0-N2,R63,M0,N2,J02-U01,computation,Error receiving packet on tree network,1
+63,1131483559,R63-M0-N2,R63,M0,N2,J02-U11,computation,Error receiving packet on tree network,1
+64,1131486126,R63-M0-N2,R63,M0,N2,J09-U11,computation,rts: kernel terminated for reason 1004,2
+65,1131486126,R63-M0-N2,R63,M0,N2,J15-U11,computation,rts: kernel terminated for reason 1004,2
+66,1131486126,R63-M0-N2,R63,M0,N2,J11-U11,computation,rts: kernel terminated for reason 1004,2
+67,1131486126,R63-M0-N2,R63,M0,N2,J13-U11,computation,rts: kernel terminated for reason 1004,2
+68,1131486126,R63-M0-N2,R63,M0,N2,J17-U11,computation,rts: kernel terminated for reason 1004,2
+69,1131486126,R63-M0-N2,R63,M0,N2,J05-U01,computation,rts: kernel terminated for reason 1004,2
+70,1131486126,R63-M0-N2,R63,M0,N2,J03-U01,computation,rts: kernel terminated for reason 1004,2
+71,1131486126,R63-M0-N2,R63,M0,N2,J05-U11,computation,rts: kernel terminated for reason 1004,2
+72,1131486126,R63-M0-N2,R63,M0,N2,J03-U11,computation,rts: kernel terminated for reason 1004,2
+73,1131486126,R63-M0-N2,R63,M0,N2,J07-U11,computation,rts: kernel terminated for reason 1004,2
+74,1131486126,R63-M0-N2,R63,M0,N2,J15-U01,computation,rts: kernel terminated for reason 1004,2
+75,1131486126,R63-M0-N2,R63,M0,N2,J17-U01,computation,rts: kernel terminated for reason 1004,2
+76,1131486126,R63-M0-N2,R63,M0,N2,J11-U01,computation,rts: kernel terminated for reason 1004,2
+77,1131486126,R63-M0-N2,R63,M0,N2,J07-U01,computation,rts: kernel terminated for reason 1004,2
+78,1131486126,R63-M0-N2,R63,M0,N2,J13-U01,computation,rts: kernel terminated for reason 1004,2
+79,1131486126,R63-M0-N2,R63,M0,N2,J09-U01,computation,rts: kernel terminated for reason 1004,2
+80,1131486126,R63-M0-N2,R63,M0,N2,J16-U11,computation,rts: kernel terminated for reason 1004,2
+81,1131486126,R63-M0-N2,R63,M0,N2,J08-U11,computation,rts: kernel terminated for reason 1004,2
+82,1131486126,R63-M0-N2,R63,M0,N2,J14-U11,computation,rts: kernel terminated for reason 1004,2
+83,1131486126,R63-M0-N2,R63,M0,N2,J10-U11,computation,rts: kernel terminated for reason 1004,2
+84,1131486126,R63-M0-N2,R63,M0,N2,J06-U11,computation,rts: kernel terminated for reason 1004,2
+85,1131486126,R63-M0-N2,R63,M0,N2,J12-U11,computation,rts: kernel terminated for reason 1004,2
+86,1131486127,R63-M0-N2,R63,M0,N2,J14-U01,computation,rts: kernel terminated for reason 1004,2
+87,1131486127,R63-M0-N2,R63,M0,N2,J16-U01,computation,rts: kernel terminated for reason 1004,2
+88,1131486127,R63-M0-N2,R63,M0,N2,J10-U01,computation,rts: kernel terminated for reason 1004,2
+89,1131486127,R63-M0-N2,R63,M0,N2,J12-U01,computation,rts: kernel terminated for reason 1004,2
+90,1131486127,R63-M0-N2,R63,M0,N2,J08-U01,computation,rts: kernel terminated for reason 1004,2
+91,1131486127,R63-M0-N2,R63,M0,N2,J04-U01,computation,rts: kernel terminated for reason 1004,2
+92,1131486127,R63-M0-N2,R63,M0,N2,J06-U01,computation,rts: kernel terminated for reason 1004,2
+93,1131486127,R63-M0-N2,R63,M0,N2,J04-U11,computation,rts: kernel terminated for reason 1004,2
+94,1131486127,R63-M0-N2,R63,M0,N2,J02-U01,computation,rts: kernel terminated for reason 1004,2
+95,1131486127,R63-M0-N2,R63,M0,N2,J02-U11,computation,rts: kernel terminated for reason 1004,2
+96,1131486143,R63-M0-N2,R63,M0,N2,J09-U11,computation,Error receiving packet on tree network,3
+97,1131486143,R63-M0-N2,R63,M0,N2,J15-U11,computation,Error receiving packet on tree network,3
+98,1131486143,R63-M0-N2,R63,M0,N2,J11-U11,computation,Error receiving packet on tree network,3
+99,1131486143,R63-M0-N2,R63,M0,N2,J13-U11,computation,Error receiving packet on tree network,3
+100,1131486143,R63-M0-N2,R63,M0,N2,J17-U11,computation,Error receiving packet on tree network,3
+101,1131486143,R63-M0-N2,R63,M0,N2,J05-U01,computation,Error receiving packet on tree network,3
+102,1131486143,R63-M0-N2,R63,M0,N2,J03-U01,computation,Error receiving packet on tree network,3
+103,1131486143,R63-M0-N2,R63,M0,N2,J05-U11,computation,Error receiving packet on tree network,3
+104,1131486143,R63-M0-N2,R63,M0,N2,J03-U11,computation,Error receiving packet on tree network,3
+105,1131486143,R63-M0-N2,R63,M0,N2,J07-U11,computation,Error receiving packet on tree network,3
+106,1131486143,R63-M0-N2,R63,M0,N2,J15-U01,computation,Error receiving packet on tree network,3
+107,1131486143,R63-M0-N2,R63,M0,N2,J17-U01,computation,Error receiving packet on tree network,3
+108,1131486143,R63-M0-N2,R63,M0,N2,J11-U01,computation,Error receiving packet on tree network,3
+109,1131486143,R63-M0-N2,R63,M0,N2,J07-U01,computation,Error receiving packet on tree network,3
+110,1131486143,R63-M0-N2,R63,M0,N2,J13-U01,computation,Error receiving packet on tree network,3
+111,1131486143,R63-M0-N2,R63,M0,N2,J09-U01,computation,Error receiving packet on tree network,3
+112,1131486143,R63-M0-N2,R63,M0,N2,J16-U11,computation,Error receiving packet on tree network,3
+113,1131486143,R63-M0-N2,R63,M0,N2,J08-U11,computation,Error receiving packet on tree network,3
+114,1131486143,R63-M0-N2,R63,M0,N2,J14-U11,computation,Error receiving packet on tree network,3
+115,1131486143,R63-M0-N2,R63,M0,N2,J10-U11,computation,Error receiving packet on tree network,3
+116,1131486143,R63-M0-N2,R63,M0,N2,J06-U11,computation,Error receiving packet on tree network,3
+117,1131486143,R63-M0-N2,R63,M0,N2,J12-U11,computation,Error receiving packet on tree network,3
+118,1131486143,R63-M0-N2,R63,M0,N2,J14-U01,computation,Error receiving packet on tree network,3
+119,1131486144,R63-M0-N2,R63,M0,N2,J16-U01,computation,Error receiving packet on tree network,3
+120,1131486144,R63-M0-N2,R63,M0,N2,J10-U01,computation,Error receiving packet on tree network,3
+121,1131486144,R63-M0-N2,R63,M0,N2,J12-U01,computation,Error receiving packet on tree network,3
+122,1131486144,R63-M0-N2,R63,M0,N2,J08-U01,computation,Error receiving packet on tree network,3
+123,1131486144,R63-M0-N2,R63,M0,N2,J04-U01,computation,Error receiving packet on tree network,3
+124,1131486144,R63-M0-N2,R63,M0,N2,J06-U01,computation,Error receiving packet on tree network,3
+125,1131486144,R63-M0-N2,R63,M0,N2,J04-U11,computation,Error receiving packet on tree network,3
+126,1131486144,R63-M0-N2,R63,M0,N2,J02-U01,computation,Error receiving packet on tree network,3
+127,1131486144,R63-M0-N2,R63,M0,N2,J02-U11,computation,Error receiving packet on tree network,3
+128,1131680325,R63-M0-N2,R63,M0,N2,J09-U11,computation,rts: kernel terminated for reason 1004,4
+129,1131680325,R63-M0-N2,R63,M0,N2,J15-U11,computation,rts: kernel terminated for reason 1004,4
+130,1131680325,R63-M0-N2,R63,M0,N2,J11-U11,computation,rts: kernel terminated for reason 1004,4
+131,1131680325,R63-M0-N2,R63,M0,N2,J13-U11,computation,rts: kernel terminated for reason 1004,4
+132,1131680325,R63-M0-N2,R63,M0,N2,J17-U11,computation,rts: kernel terminated for reason 1004,4
+133,1131680325,R63-M0-N2,R63,M0,N2,J05-U01,computation,rts: kernel terminated for reason 1004,4
+134,1131680325,R63-M0-N2,R63,M0,N2,J03-U01,computation,rts: kernel terminated for reason 1004,4
+135,1131680325,R63-M0-N2,R63,M0,N2,J05-U11,computation,rts: kernel terminated for reason 1004,4
+136,1131680325,R63-M0-N2,R63,M0,N2,J03-U11,computation,rts: kernel terminated for reason 1004,4
+137,1131680325,R63-M0-N2,R63,M0,N2,J07-U11,computation,rts: kernel terminated for reason 1004,4
+138,1131680325,R63-M0-N2,R63,M0,N2,J15-U01,computation,rts: kernel terminated for reason 1004,4
+139,1131680325,R63-M0-N2,R63,M0,N2,J17-U01,computation,rts: kernel terminated for reason 1004,4
+140,1131680325,R63-M0-N2,R63,M0,N2,J11-U01,computation,rts: kernel terminated for reason 1004,4
+141,1131680325,R63-M0-N2,R63,M0,N2,J07-U01,computation,rts: kernel terminated for reason 1004,4
+142,1131680325,R63-M0-N2,R63,M0,N2,J13-U01,computation,rts: kernel terminated for reason 1004,4
+143,1131680325,R63-M0-N2,R63,M0,N2,J09-U01,computation,rts: kernel terminated for reason 1004,4
+144,1131680325,R63-M0-N2,R63,M0,N2,J16-U11,computation,rts: kernel terminated for reason 1004,4
+145,1131680325,R63-M0-N2,R63,M0,N2,J08-U11,computation,rts: kernel terminated for reason 1004,4
+146,1131680325,R63-M0-N2,R63,M0,N2,J14-U11,computation,rts: kernel terminated for reason 1004,4
+147,1131680325,R63-M0-N2,R63,M0,N2,J10-U11,computation,rts: kernel terminated for reason 1004,4
+148,1131680325,R63-M0-N2,R63,M0,N2,J06-U11,computation,rts: kernel terminated for reason 1004,4
+149,1131680325,R63-M0-N2,R63,M0,N2,J12-U11,computation,rts: kernel terminated for reason 1004,4
+150,1131680325,R63-M0-N2,R63,M0,N2,J14-U01,computation,rts: kernel terminated for reason 1004,4
+151,1131680325,R63-M0-N2,R63,M0,N2,J16-U01,computation,rts: kernel terminated for reason 1004,4
+152,1131680325,R63-M0-N2,R63,M0,N2,J10-U01,computation,rts: kernel terminated for reason 1004,4
+153,1131680325,R63-M0-N2,R63,M0,N2,J12-U01,computation,rts: kernel terminated for reason 1004,4
+154,1131680326,R63-M0-N2,R63,M0,N2,J08-U01,computation,rts: kernel terminated for reason 1004,4
+155,1131680326,R63-M0-N2,R63,M0,N2,J04-U01,computation,rts: kernel terminated for reason 1004,4
+156,1131680326,R63-M0-N2,R63,M0,N2,J06-U01,computation,rts: kernel terminated for reason 1004,4
+157,1131680326,R63-M0-N2,R63,M0,N2,J04-U11,computation,rts: kernel terminated for reason 1004,4
+158,1131680326,R63-M0-N2,R63,M0,N2,J02-U01,computation,rts: kernel terminated for reason 1004,4
+159,1131680326,R63-M0-N2,R63,M0,N2,J02-U11,computation,rts: kernel terminated for reason 1004,4
+160,1131680342,R63-M0-N2,R63,M0,N2,J09-U11,computation,Error receiving packet on tree network,5
+161,1131680342,R63-M0-N2,R63,M0,N2,J15-U11,computation,Error receiving packet on tree network,5
+162,1131680342,R63-M0-N2,R63,M0,N2,J11-U11,computation,Error receiving packet on tree network,5
+163,1131680342,R63-M0-N2,R63,M0,N2,J13-U11,computation,Error receiving packet on tree network,5
+164,1131680342,R63-M0-N2,R63,M0,N2,J17-U11,computation,Error receiving packet on tree network,5
+165,1131680342,R63-M0-N2,R63,M0,N2,J05-U01,computation,Error receiving packet on tree network,5
+166,1131680342,R63-M0-N2,R63,M0,N2,J03-U01,computation,Error receiving packet on tree network,5
+167,1131680342,R63-M0-N2,R63,M0,N2,J05-U11,computation,Error receiving packet on tree network,5
+168,1131680342,R63-M0-N2,R63,M0,N2,J03-U11,computation,Error receiving packet on tree network,5
+169,1131680342,R63-M0-N2,R63,M0,N2,J07-U11,computation,Error receiving packet on tree network,5
+170,1131680342,R63-M0-N2,R63,M0,N2,J15-U01,computation,Error receiving packet on tree network,5
+171,1131680342,R63-M0-N2,R63,M0,N2,J17-U01,computation,Error receiving packet on tree network,5
+172,1131680342,R63-M0-N2,R63,M0,N2,J11-U01,computation,Error receiving packet on tree network,5
+173,1131680342,R63-M0-N2,R63,M0,N2,J07-U01,computation,Error receiving packet on tree network,5
+174,1131680342,R63-M0-N2,R63,M0,N2,J13-U01,computation,Error receiving packet on tree network,5
+175,1131680343,R63-M0-N2,R63,M0,N2,J09-U01,computation,Error receiving packet on tree network,5
+176,1131680343,R63-M0-N2,R63,M0,N2,J16-U11,computation,Error receiving packet on tree network,5
+177,1131680343,R63-M0-N2,R63,M0,N2,J08-U11,computation,Error receiving packet on tree network,5
+178,1131680343,R63-M0-N2,R63,M0,N2,J14-U11,computation,Error receiving packet on tree network,5
+179,1131680343,R63-M0-N2,R63,M0,N2,J10-U11,computation,Error receiving packet on tree network,5
+180,1131680343,R63-M0-N2,R63,M0,N2,J06-U11,computation,Error receiving packet on tree network,5
+181,1131680343,R63-M0-N2,R63,M0,N2,J12-U11,computation,Error receiving packet on tree network,5
+182,1131680343,R63-M0-N2,R63,M0,N2,J14-U01,computation,Error receiving packet on tree network,5
+183,1131680343,R63-M0-N2,R63,M0,N2,J16-U01,computation,Error receiving packet on tree network,5
+184,1131680343,R63-M0-N2,R63,M0,N2,J10-U01,computation,Error receiving packet on tree network,5
+185,1131680343,R63-M0-N2,R63,M0,N2,J12-U01,computation,Error receiving packet on tree network,5
+186,1131680343,R63-M0-N2,R63,M0,N2,J08-U01,computation,Error receiving packet on tree network,5
+187,1131680343,R63-M0-N2,R63,M0,N2,J04-U01,computation,Error receiving packet on tree network,5
+188,1131680343,R63-M0-N2,R63,M0,N2,J06-U01,computation,Error receiving packet on tree network,5
+189,1131680343,R63-M0-N2,R63,M0,N2,J04-U11,computation,Error receiving packet on tree network,5
+190,1131680343,R63-M0-N2,R63,M0,N2,J02-U01,computation,Error receiving packet on tree network,5
+191,1131680343,R63-M0-N2,R63,M0,N2,J02-U11,computation,Error receiving packet on tree network,5
+192,1133200824,R63-M0-N2,R63,M0,N2,J09-U11,computation,data TLB error interrupt,6
+193,1133200824,R63-M0-N2,R63,M0,N2,J09-U11,computation,instruction address: 0x000093fc,6
+194,1133200824,R63-M0-N2,R63,M0,N2,J09-U11,computation,data address: 0x0012af3c,6
+195,1133200824,R63-M0-N2,R63,M0,N2,J09-U11,computation,Machine State Register: 0x00003000,6
+196,1133200824,R63-M0-N2,R63,M0,N2,J09-U11,computation,wait state enable.................0,6
+197,1133200824,R63-M0-N2,R63,M0,N2,J09-U11,computation,critical input interrupt enable...0,6
+198,1133200824,R63-M0-N2,R63,M0,N2,J09-U11,computation,external input interrupt enable...0,6
+199,1133200824,R63-M0-N2,R63,M0,N2,J09-U11,computation,problem state (0=sup,6
+200,1133200825,R63-M0-N2,R63,M0,N2,J09-U11,computation,floating point instr. enabled.....1,6
+201,1133200825,R63-M0-N2,R63,M0,N2,J09-U11,computation,machine check enable..............1,6
+202,1133200825,R63-M0-N2,R63,M0,N2,J09-U11,computation,floating pt ex mode 0 enable......0,6
+203,1133200825,R63-M0-N2,R63,M0,N2,J09-U11,computation,debug wait enable.................0,6
+204,1133200825,R63-M0-N2,R63,M0,N2,J09-U11,computation,debug interrupt enable............0,6
+205,1133200825,R63-M0-N2,R63,M0,N2,J09-U11,computation,floating pt ex mode 1 enable......0,6
+206,1133200825,R63-M0-N2,R63,M0,N2,J09-U11,computation,instruction address space.........0,6
+207,1133200825,R63-M0-N2,R63,M0,N2,J09-U11,computation,data address space................0,6
+208,1133200826,R63-M0-N2,R63,M0,N2,J09-U11,computation,Core Configuration Register 0: 0x00002000,6
+209,1133200826,R63-M0-N2,R63,M0,N2,J09-U11,computation,disable store gathering..................0,6
+210,1133200826,R63-M0-N2,R63,M0,N2,J09-U11,computation,disable apu instruction broadcast........0,6
+211,1133200826,R63-M0-N2,R63,M0,N2,J09-U11,computation,disable trace broadcast..................0,6
+212,1133200826,R63-M0-N2,R63,M0,N2,J09-U11,computation,guaranteed instruction cache block touch.0,6
+213,1133200826,R63-M0-N2,R63,M0,N2,J09-U11,computation,guaranteed data cache block touch........1,6
+214,1133200826,R63-M0-N2,R63,M0,N2,J09-U11,computation,force load/store alignment...............0,6
+215,1133200827,R63-M0-N2,R63,M0,N2,J09-U11,computation,icache prefetch depth....................0,6
+216,1133200827,R63-M0-N2,R63,M0,N2,J09-U11,computation,icache prefetch threshold................0,6
+217,1133200827,R63-M0-N2,R63,M0,N2,J09-U11,computation,General Purpose Registers:,6
+218,1133200827,R63-M0-N2,R63,M0,N2,J09-U11,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,6
+219,1133200827,R63-M0-N2,R63,M0,N2,J09-U11,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,6
+220,1133200827,R63-M0-N2,R63,M0,N2,J09-U11,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,6
+221,1133200827,R63-M0-N2,R63,M0,N2,J09-U11,computation,r12=0x48242484 r13=0x1eeeeeee r14=0x01c1937c r15=0x00000009,6
+222,1133200827,R63-M0-N2,R63,M0,N2,J09-U11,computation,r16=0x00001c28 r17=0x00003850 r18=0x00000002 r19=0x00000001,6
+223,1133200827,R63-M0-N2,R63,M0,N2,J09-U11,computation,r20=0x022951b8 r21=0x000001c0 r22=0x1ff8a678 r23=0x1ffaa670,6
+224,1133200828,R63-M0-N2,R63,M0,N2,J09-U11,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,6
+225,1133200828,R63-M0-N2,R63,M0,N2,J09-U11,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,6
+226,1133200828,R63-M0-N2,R63,M0,N2,J09-U11,computation,Special Purpose Registers:,6
+227,1133200828,R63-M0-N2,R63,M0,N2,J09-U11,computation,lr=0x0000fa34 cr=0x48244484 xer=0x00000002 ctr=0x00021ecc,6
+228,1133200828,R63-M0-N2,R63,M0,N2,J09-U11,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,6
+229,1133200828,R63-M0-N2,R63,M0,N2,J09-U11,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,6
+230,1133200828,R63-M0-N2,R63,M0,N2,J09-U11,computation,Floating Point Status and Control Register: 0x82064000,6
+231,1133200828,R63-M0-N2,R63,M0,N2,J09-U11,computation,exception summary........................1,6
+232,1133200828,R63-M0-N2,R63,M0,N2,J09-U11,computation,enabled exception summary................0,6
+233,1133200829,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid operation exception summary......0,6
+234,1133200829,R63-M0-N2,R63,M0,N2,J09-U11,computation,overflow exception.......................0,6
+235,1133200829,R63-M0-N2,R63,M0,N2,J09-U11,computation,underflow exception......................0,6
+236,1133200829,R63-M0-N2,R63,M0,N2,J09-U11,computation,divide-by-zero exception.................0,6
+237,1133200829,R63-M0-N2,R63,M0,N2,J09-U11,computation,inexact exception........................1,6
+238,1133200829,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid (SNAN)...........................0,6
+239,1133200829,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid (Inf-Inf)........................0,6
+240,1133200829,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid (Inf/Inf)........................0,6
+241,1133200830,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid (Zero/Zero)......................0,6
+242,1133200830,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid (Inf/Zero).......................0,6
+243,1133200830,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid (compare)........................0,6
+244,1133200830,R63-M0-N2,R63,M0,N2,J09-U11,computation,fraction rounded.........................1,6
+245,1133200830,R63-M0-N2,R63,M0,N2,J09-U11,computation,fraction inexact.........................1,6
+246,1133200830,R63-M0-N2,R63,M0,N2,J09-U11,computation,quiet NaN................................0,6
+247,1133200830,R63-M0-N2,R63,M0,N2,J09-U11,computation,minus inf................................0,6
+248,1133200830,R63-M0-N2,R63,M0,N2,J09-U11,computation,minus normalized number..................0,6
+249,1133200830,R63-M0-N2,R63,M0,N2,J09-U11,computation,minus denormalized number................0,6
+250,1133200831,R63-M0-N2,R63,M0,N2,J09-U11,computation,minus zero...............................0,6
+251,1133200831,R63-M0-N2,R63,M0,N2,J09-U11,computation,plus zero................................0,6
+252,1133200831,R63-M0-N2,R63,M0,N2,J09-U11,computation,plus denormalized number.................0,6
+253,1133200831,R63-M0-N2,R63,M0,N2,J09-U11,computation,plus normalized number...................1,6
+254,1133200831,R63-M0-N2,R63,M0,N2,J09-U11,computation,plus infinity............................0,6
+255,1133200831,R63-M0-N2,R63,M0,N2,J09-U11,computation,reserved.................................0,6
+256,1133200831,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid operation exception (software)...0,6
+257,1133200832,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid operation exception (sqrt).......0,6
+258,1133200832,R63-M0-N2,R63,M0,N2,J09-U11,computation,invalid operation exception (int cnvt)...0,6
+259,1133200832,R63-M0-N2,R63,M0,N2,J09-U11,computation,enable invalid operation exceptions......0,6
+260,1133200832,R63-M0-N2,R63,M0,N2,J09-U11,computation,enable overflow exceptions...............0,6
+261,1133200832,R63-M0-N2,R63,M0,N2,J09-U11,computation,enable underflow exceptions..............0,6
+262,1133200832,R63-M0-N2,R63,M0,N2,J09-U11,computation,enable divide-by-zero exceptions.........0,6
+263,1133200832,R63-M0-N2,R63,M0,N2,J09-U11,computation,enable inexact exceptions................0,6
+264,1133200832,R63-M0-N2,R63,M0,N2,J09-U11,computation,enable non-IEEE mode.....................0,6
+265,1133200833,R63-M0-N2,R63,M0,N2,J09-U11,computation,round nearest............................0,6
+266,1133200833,R63-M0-N2,R63,M0,N2,J09-U11,computation,round toward zero........................0,6
+267,1133200833,R63-M0-N2,R63,M0,N2,J09-U11,computation,round toward +infinity...................0,6
+268,1133200833,R63-M0-N2,R63,M0,N2,J09-U11,computation,round toward -infinity...................0,6
+269,1133200833,R63-M0-N2,R63,M0,N2,J09-U11,computation,Floating Point Registers:,6
+270,1133200833,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr0=0x10055620 00000000 00094fc2 7ffff980,6
+271,1133200833,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr1=0x10055620 0000003e 10045620 08000815,6
+272,1133200833,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr2=0x00000000 00000001 00340000 000a012a,6
+273,1133200833,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,6
+274,1133200834,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr4=0x10055620 00000001 10055620 10045620,6
+275,1133200834,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,6
+276,1133200834,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr6=0x00000000 10011001 10024348 7ffff930,6
+277,1133200834,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr7=0x00000000 00000000 00000000 00001000,6
+278,1133200834,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000007,6
+279,1133200834,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr9=0x00000000 00000000 7ffff940 00000000,6
+280,1133200835,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr10=0x10045620 7ffff940 00000001 00000000,6
+281,1133200835,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,6
+282,1133200835,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,6
+283,1133200835,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr13=0x00000000 00000000 00000000 00000000,6
+284,1133200835,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr14=0xffffffff ffffffff a35c1046 403a5f83,6
+285,1133200835,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr15=0xffffffff ffffffff 64ef6741 40329152,6
+286,1133200835,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr16=0xffffffff ffffffff d7d7560f 403c57fc,6
+287,1133200835,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr17=0xffffffff ffffffff 4e5d5a69 bf861036,6
+288,1133200836,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr18=0xffffffff ffffffff 84bdae00 bfbab120,6
+289,1133200836,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr19=0xffffffff ffffffff e4ac4000 bfb5c96b,6
+290,1133200836,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr20=0xffffffff ffffffff 08e5e900 3fbb063c,6
+291,1133200836,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr21=0xffffffff ffffffff 2b00f54f 3fc1d988,6
+292,1133200836,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr22=0xffffffff ffffffff 00000000 4089e800,6
+293,1133200836,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr23=0xffffffff ffffffff 33333333 c0221333,6
+294,1133200836,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr24=0xffffffff ffffffff 33333333 40321333,6
+295,1133200837,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr25=0xffffffff ffffffff 33333333 c0221333,6
+296,1133200837,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr26=0xffffffff ffffffff 33333333 40321333,6
+297,1133200837,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr27=0xffffffff ffffffff 33333333 c0221333,6
+298,1133200837,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr28=0xffffffff ffffffff 33333333 40321333,6
+299,1133200837,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr29=0xffffffff ffffffff 33333333 40221333,6
+300,1133200837,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr30=0xffffffff ffffffff 33333333 40221333,6
+301,1133200837,R63-M0-N2,R63,M0,N2,J09-U11,computation,fpr31=0xffffffff ffffffff 33333333 40221333,6
+302,1133200837,R63-M0-N2,R63,M0,N2,J09-U11,computation,rts internal error,6
+303,1133200837,R63-M0-N2,R63,M0,N2,J09-U11,computation,rts panic! - stopping execution,6
+304,1133200838,R63-M0-N2,R63,M0,N2,J11-U11,computation,data TLB error interrupt,6
+305,1133200838,R63-M0-N2,R63,M0,N2,J11-U11,computation,instruction address: 0x000093fc,6
+306,1133200838,R63-M0-N2,R63,M0,N2,J11-U11,computation,data address: 0x0012af3c,6
+307,1133200838,R63-M0-N2,R63,M0,N2,J11-U11,computation,Machine State Register: 0x00003000,6
+308,1133200838,R63-M0-N2,R63,M0,N2,J11-U11,computation,wait state enable.................0,6
+309,1133200838,R63-M0-N2,R63,M0,N2,J11-U11,computation,critical input interrupt enable...0,6
+310,1133200838,R63-M0-N2,R63,M0,N2,J11-U11,computation,external input interrupt enable...0,6
+311,1133200838,R63-M0-N2,R63,M0,N2,J11-U11,computation,problem state (0=sup,6
+312,1133200838,R63-M0-N2,R63,M0,N2,J11-U11,computation,floating point instr. enabled.....1,6
+313,1133200839,R63-M0-N2,R63,M0,N2,J11-U11,computation,machine check enable..............1,6
+314,1133200839,R63-M0-N2,R63,M0,N2,J11-U11,computation,floating pt ex mode 0 enable......0,6
+315,1133200839,R63-M0-N2,R63,M0,N2,J11-U11,computation,debug wait enable.................0,6
+316,1133200839,R63-M0-N2,R63,M0,N2,J11-U11,computation,debug interrupt enable............0,6
+317,1133200839,R63-M0-N2,R63,M0,N2,J11-U11,computation,floating pt ex mode 1 enable......0,6
+318,1133200839,R63-M0-N2,R63,M0,N2,J11-U11,computation,instruction address space.........0,6
+319,1133200839,R63-M0-N2,R63,M0,N2,J11-U11,computation,data address space................0,6
+320,1133200839,R63-M0-N2,R63,M0,N2,J11-U11,computation,Core Configuration Register 0: 0x00002000,6
+321,1133200839,R63-M0-N2,R63,M0,N2,J11-U11,computation,disable store gathering..................0,6
+322,1133200840,R63-M0-N2,R63,M0,N2,J11-U11,computation,disable apu instruction broadcast........0,6
+323,1133200840,R63-M0-N2,R63,M0,N2,J11-U11,computation,disable trace broadcast..................0,6
+324,1133200840,R63-M0-N2,R63,M0,N2,J11-U11,computation,guaranteed instruction cache block touch.0,6
+325,1133200840,R63-M0-N2,R63,M0,N2,J11-U11,computation,guaranteed data cache block touch........1,6
+326,1133200840,R63-M0-N2,R63,M0,N2,J11-U11,computation,force load/store alignment...............0,6
+327,1133200840,R63-M0-N2,R63,M0,N2,J11-U11,computation,icache prefetch depth....................0,6
+328,1133200840,R63-M0-N2,R63,M0,N2,J11-U11,computation,icache prefetch threshold................0,6
+329,1133200840,R63-M0-N2,R63,M0,N2,J11-U11,computation,General Purpose Registers:,6
+330,1133200841,R63-M0-N2,R63,M0,N2,J11-U11,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,6
+331,1133200841,R63-M0-N2,R63,M0,N2,J11-U11,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,6
+332,1133200841,R63-M0-N2,R63,M0,N2,J11-U11,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,6
+333,1133200841,R63-M0-N2,R63,M0,N2,J11-U11,computation,r12=0x48242484 r13=0x1eeeeeee r14=0x00001ea2 r15=0x000004c7,6
+334,1133200841,R63-M0-N2,R63,M0,N2,J11-U11,computation,r16=0x000004c6 r17=0x80000a4e r18=0xfffffe6c r19=0x0000065c,6
+335,1133200841,R63-M0-N2,R63,M0,N2,J11-U11,computation,r20=0x01d55ff0 r21=0x00000bb7 r22=0x1ff8a678 r23=0x1ffaa670,6
+336,1133200841,R63-M0-N2,R63,M0,N2,J11-U11,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,6
+337,1133200842,R63-M0-N2,R63,M0,N2,J11-U11,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,6
+338,1133200842,R63-M0-N2,R63,M0,N2,J11-U11,computation,Special Purpose Registers:,6
+339,1133200842,R63-M0-N2,R63,M0,N2,J11-U11,computation,lr=0x0000fa34 cr=0x48244484 xer=0x00000002 ctr=0x00021ecc,6
+340,1133200842,R63-M0-N2,R63,M0,N2,J11-U11,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,6
+341,1133200842,R63-M0-N2,R63,M0,N2,J11-U11,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,6
+342,1133200842,R63-M0-N2,R63,M0,N2,J11-U11,computation,Floating Point Status and Control Register: 0x82064000,6
+343,1133200842,R63-M0-N2,R63,M0,N2,J11-U11,computation,exception summary........................1,6
+344,1133200842,R63-M0-N2,R63,M0,N2,J11-U11,computation,enabled exception summary................0,6
+345,1133200843,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid operation exception summary......0,6
+346,1133200843,R63-M0-N2,R63,M0,N2,J11-U11,computation,overflow exception.......................0,6
+347,1133200843,R63-M0-N2,R63,M0,N2,J11-U11,computation,underflow exception......................0,6
+348,1133200843,R63-M0-N2,R63,M0,N2,J11-U11,computation,divide-by-zero exception.................0,6
+349,1133200843,R63-M0-N2,R63,M0,N2,J11-U11,computation,inexact exception........................1,6
+350,1133200843,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid (SNAN)...........................0,6
+351,1133200843,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid (Inf-Inf)........................0,6
+352,1133200843,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid (Inf/Inf)........................0,6
+353,1133200843,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid (Zero/Zero)......................0,6
+354,1133200844,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid (Inf/Zero).......................0,6
+355,1133200844,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid (compare)........................0,6
+356,1133200844,R63-M0-N2,R63,M0,N2,J11-U11,computation,fraction rounded.........................1,6
+357,1133200844,R63-M0-N2,R63,M0,N2,J11-U11,computation,fraction inexact.........................1,6
+358,1133200844,R63-M0-N2,R63,M0,N2,J11-U11,computation,quiet NaN................................0,6
+359,1133200844,R63-M0-N2,R63,M0,N2,J11-U11,computation,minus inf................................0,6
+360,1133200844,R63-M0-N2,R63,M0,N2,J11-U11,computation,minus normalized number..................0,6
+361,1133200844,R63-M0-N2,R63,M0,N2,J11-U11,computation,minus denormalized number................0,6
+362,1133200845,R63-M0-N2,R63,M0,N2,J11-U11,computation,minus zero...............................0,6
+363,1133200845,R63-M0-N2,R63,M0,N2,J11-U11,computation,plus zero................................0,6
+364,1133200845,R63-M0-N2,R63,M0,N2,J11-U11,computation,plus denormalized number.................0,6
+365,1133200845,R63-M0-N2,R63,M0,N2,J11-U11,computation,plus normalized number...................1,6
+366,1133200845,R63-M0-N2,R63,M0,N2,J11-U11,computation,plus infinity............................0,6
+367,1133200845,R63-M0-N2,R63,M0,N2,J11-U11,computation,reserved.................................0,6
+368,1133200845,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid operation exception (software)...0,6
+369,1133200845,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid operation exception (sqrt).......0,6
+370,1133200846,R63-M0-N2,R63,M0,N2,J11-U11,computation,invalid operation exception (int cnvt)...0,6
+371,1133200846,R63-M0-N2,R63,M0,N2,J11-U11,computation,enable invalid operation exceptions......0,6
+372,1133200846,R63-M0-N2,R63,M0,N2,J11-U11,computation,enable overflow exceptions...............0,6
+373,1133200846,R63-M0-N2,R63,M0,N2,J11-U11,computation,enable underflow exceptions..............0,6
+374,1133200846,R63-M0-N2,R63,M0,N2,J11-U11,computation,enable divide-by-zero exceptions.........0,6
+375,1133200846,R63-M0-N2,R63,M0,N2,J11-U11,computation,enable inexact exceptions................0,6
+376,1133200846,R63-M0-N2,R63,M0,N2,J11-U11,computation,enable non-IEEE mode.....................0,6
+377,1133200847,R63-M0-N2,R63,M0,N2,J11-U11,computation,round nearest............................0,6
+378,1133200847,R63-M0-N2,R63,M0,N2,J11-U11,computation,round toward zero........................0,6
+379,1133200847,R63-M0-N2,R63,M0,N2,J11-U11,computation,round toward +infinity...................0,6
+380,1133200847,R63-M0-N2,R63,M0,N2,J11-U11,computation,round toward -infinity...................0,6
+381,1133200847,R63-M0-N2,R63,M0,N2,J11-U11,computation,Floating Point Registers:,6
+382,1133200847,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr0=0x10055620 00000000 00094fc2 7ffff980,6
+383,1133200847,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr1=0x10055620 0000003e 10045620 08000815,6
+384,1133200848,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr2=0x00000000 00000001 00340000 00230163,6
+385,1133200848,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,6
+386,1133200848,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr4=0x10055620 00000001 10055620 10045620,6
+387,1133200848,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,6
+388,1133200848,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr6=0x00000000 10011001 10024348 7ffff930,6
+389,1133200848,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr7=0x00000000 00000000 00000000 00001000,6
+390,1133200848,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000007,6
+391,1133200848,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr9=0x00000000 00000000 7ffff940 00000000,6
+392,1133200848,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr10=0x10045620 7ffff940 00000001 00000000,6
+393,1133200849,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,6
+394,1133200849,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,6
+395,1133200849,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr13=0x00000000 00000000 00000000 00000000,6
+396,1133200849,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr14=0xffffffff ffffffff c317c768 3f105901,6
+397,1133200849,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr15=0xffffffff ffffffff 0ea79080 bea8fd29,6
+398,1133200849,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr16=0xffffffff ffffffff 317d53cc bf385c24,6
+399,1133200849,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr17=0xffffffff ffffffff 78bcb935 bf383a32,6
+400,1133200849,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr18=0xffffffff ffffffff 1069c62a bf37f69d,6
+401,1133200850,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr19=0xffffffff ffffffff 928775cc 3f107223,6
+402,1133200850,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr20=0xffffffff ffffffff 27bda980 bea91595,6
+403,1133200850,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr21=0xffffffff ffffffff c6777d3b bf38185a,6
+404,1133200850,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr22=0xffffffff ffffffff ad515b00 bf947d82,6
+405,1133200850,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr23=0xffffffff ffffffff 9d518000 3f4cd0cd,6
+406,1133200850,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr24=0xffffffff ffffffff 7f3e236d 3f79d547,6
+407,1133200850,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr25=0xffffffff ffffffff 4512b6a0 bffd96d6,6
+408,1133200850,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr26=0xffffffff ffffffff 0e4cadc0 bffb54b8,6
+409,1133200851,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr27=0xffffffff ffffffff 651aa848 3fed8f25,6
+410,1133200851,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr28=0xffffffff ffffffff 872e5448 3ffddaff,6
+411,1133200851,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr29=0xffffffff ffffffff cbe42930 400cb517,6
+412,1133200851,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr30=0xffffffff ffffffff 08077530 bffd1a86,6
+413,1133200851,R63-M0-N2,R63,M0,N2,J11-U11,computation,fpr31=0xffffffff ffffffff 00000000 3fe00000,6
+414,1133200851,R63-M0-N2,R63,M0,N2,J11-U11,computation,rts internal error,6
+415,1133200851,R63-M0-N2,R63,M0,N2,J11-U11,computation,rts panic! - stopping execution,6
+416,1133200852,R63-M0-N2,R63,M0,N2,J11-U01,computation,data TLB error interrupt,6
+417,1133200852,R63-M0-N2,R63,M0,N2,J11-U01,computation,instruction address: 0x000093fc,6
+418,1133200852,R63-M0-N2,R63,M0,N2,J11-U01,computation,data address: 0x0012af3c,6
+419,1133200852,R63-M0-N2,R63,M0,N2,J11-U01,computation,Machine State Register: 0x00003000,6
+420,1133200852,R63-M0-N2,R63,M0,N2,J11-U01,computation,wait state enable.................0,6
+421,1133200852,R63-M0-N2,R63,M0,N2,J11-U01,computation,critical input interrupt enable...0,6
+422,1133200852,R63-M0-N2,R63,M0,N2,J11-U01,computation,external input interrupt enable...0,6
+423,1133200853,R63-M0-N2,R63,M0,N2,J11-U01,computation,problem state (0=sup,6
+424,1133200853,R63-M0-N2,R63,M0,N2,J11-U01,computation,floating point instr. enabled.....1,6
+425,1133200853,R63-M0-N2,R63,M0,N2,J11-U01,computation,machine check enable..............1,6
+426,1133200853,R63-M0-N2,R63,M0,N2,J11-U01,computation,floating pt ex mode 0 enable......0,6
+427,1133200853,R63-M0-N2,R63,M0,N2,J11-U01,computation,debug wait enable.................0,6
+428,1133200853,R63-M0-N2,R63,M0,N2,J11-U01,computation,debug interrupt enable............0,6
+429,1133200853,R63-M0-N2,R63,M0,N2,J11-U01,computation,floating pt ex mode 1 enable......0,6
+430,1133200853,R63-M0-N2,R63,M0,N2,J11-U01,computation,instruction address space.........0,6
+431,1133200854,R63-M0-N2,R63,M0,N2,J11-U01,computation,data address space................0,6
+432,1133200854,R63-M0-N2,R63,M0,N2,J11-U01,computation,Core Configuration Register 0: 0x00002000,6
+433,1133200854,R63-M0-N2,R63,M0,N2,J11-U01,computation,disable store gathering..................0,6
+434,1133200854,R63-M0-N2,R63,M0,N2,J11-U01,computation,disable apu instruction broadcast........0,6
+435,1133200854,R63-M0-N2,R63,M0,N2,J11-U01,computation,disable trace broadcast..................0,6
+436,1133200854,R63-M0-N2,R63,M0,N2,J11-U01,computation,guaranteed instruction cache block touch.0,6
+437,1133200854,R63-M0-N2,R63,M0,N2,J11-U01,computation,guaranteed data cache block touch........1,6
+438,1133200854,R63-M0-N2,R63,M0,N2,J11-U01,computation,force load/store alignment...............0,6
+439,1133200855,R63-M0-N2,R63,M0,N2,J11-U01,computation,icache prefetch depth....................0,6
+440,1133200855,R63-M0-N2,R63,M0,N2,J11-U01,computation,icache prefetch threshold................0,6
+441,1133200855,R63-M0-N2,R63,M0,N2,J11-U01,computation,General Purpose Registers:,6
+442,1133200855,R63-M0-N2,R63,M0,N2,J11-U01,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,6
+443,1133200855,R63-M0-N2,R63,M0,N2,J11-U01,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,6
+444,1133200855,R63-M0-N2,R63,M0,N2,J11-U01,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,6
+445,1133200855,R63-M0-N2,R63,M0,N2,J11-U01,computation,r12=0x48242488 r13=0x1eeeeeee r14=0x01c19800 r15=0x00000001,6
+446,1133200855,R63-M0-N2,R63,M0,N2,J11-U01,computation,r16=0x000035d0 r17=0x00006ba0 r18=0x00000003 r19=0x00000001,6
+447,1133200856,R63-M0-N2,R63,M0,N2,J11-U01,computation,r20=0x022951b8 r21=0x00000378 r22=0x1ff8a678 r23=0x1ffaa670,6
+448,1133200856,R63-M0-N2,R63,M0,N2,J11-U01,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,6
+449,1133200856,R63-M0-N2,R63,M0,N2,J11-U01,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,6
+450,1133200856,R63-M0-N2,R63,M0,N2,J11-U01,computation,Special Purpose Registers:,6
+451,1133200856,R63-M0-N2,R63,M0,N2,J11-U01,computation,lr=0x0000fa34 cr=0x48244488 xer=0x00000002 ctr=0x00021ecc,6
+452,1133200856,R63-M0-N2,R63,M0,N2,J11-U01,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,6
+453,1133200856,R63-M0-N2,R63,M0,N2,J11-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,6
+454,1133200857,R63-M0-N2,R63,M0,N2,J11-U01,computation,Floating Point Status and Control Register: 0x82064000,6
+455,1133200857,R63-M0-N2,R63,M0,N2,J11-U01,computation,exception summary........................1,6
+456,1133200857,R63-M0-N2,R63,M0,N2,J11-U01,computation,enabled exception summary................0,6
+457,1133200857,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid operation exception summary......0,6
+458,1133200857,R63-M0-N2,R63,M0,N2,J11-U01,computation,overflow exception.......................0,6
+459,1133200857,R63-M0-N2,R63,M0,N2,J11-U01,computation,underflow exception......................0,6
+460,1133200857,R63-M0-N2,R63,M0,N2,J11-U01,computation,divide-by-zero exception.................0,6
+461,1133200857,R63-M0-N2,R63,M0,N2,J11-U01,computation,inexact exception........................1,6
+462,1133200858,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid (SNAN)...........................0,6
+463,1133200858,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid (Inf-Inf)........................0,6
+464,1133200858,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid (Inf/Inf)........................0,6
+465,1133200858,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid (Zero/Zero)......................0,6
+466,1133200858,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid (Inf/Zero).......................0,6
+467,1133200858,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid (compare)........................0,6
+468,1133200858,R63-M0-N2,R63,M0,N2,J11-U01,computation,fraction rounded.........................1,6
+469,1133200858,R63-M0-N2,R63,M0,N2,J11-U01,computation,fraction inexact.........................1,6
+470,1133200859,R63-M0-N2,R63,M0,N2,J11-U01,computation,quiet NaN................................0,6
+471,1133200859,R63-M0-N2,R63,M0,N2,J11-U01,computation,minus inf................................0,6
+472,1133200859,R63-M0-N2,R63,M0,N2,J11-U01,computation,minus normalized number..................0,6
+473,1133200859,R63-M0-N2,R63,M0,N2,J11-U01,computation,minus denormalized number................0,6
+474,1133200859,R63-M0-N2,R63,M0,N2,J11-U01,computation,minus zero...............................0,6
+475,1133200859,R63-M0-N2,R63,M0,N2,J11-U01,computation,plus zero................................0,6
+476,1133200859,R63-M0-N2,R63,M0,N2,J11-U01,computation,plus denormalized number.................0,6
+477,1133200859,R63-M0-N2,R63,M0,N2,J11-U01,computation,plus normalized number...................1,6
+478,1133200859,R63-M0-N2,R63,M0,N2,J11-U01,computation,plus infinity............................0,6
+479,1133200860,R63-M0-N2,R63,M0,N2,J11-U01,computation,reserved.................................0,6
+480,1133200860,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid operation exception (software)...0,6
+481,1133200860,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid operation exception (sqrt).......0,6
+482,1133200860,R63-M0-N2,R63,M0,N2,J11-U01,computation,invalid operation exception (int cnvt)...0,6
+483,1133200860,R63-M0-N2,R63,M0,N2,J11-U01,computation,enable invalid operation exceptions......0,6
+484,1133200860,R63-M0-N2,R63,M0,N2,J11-U01,computation,enable overflow exceptions...............0,6
+485,1133200860,R63-M0-N2,R63,M0,N2,J11-U01,computation,enable underflow exceptions..............0,6
+486,1133200860,R63-M0-N2,R63,M0,N2,J11-U01,computation,enable divide-by-zero exceptions.........0,6
+487,1133200861,R63-M0-N2,R63,M0,N2,J11-U01,computation,enable inexact exceptions................0,6
+488,1133200861,R63-M0-N2,R63,M0,N2,J11-U01,computation,enable non-IEEE mode.....................0,6
+489,1133200861,R63-M0-N2,R63,M0,N2,J11-U01,computation,round nearest............................0,6
+490,1133200861,R63-M0-N2,R63,M0,N2,J11-U01,computation,round toward zero........................0,6
+491,1133200861,R63-M0-N2,R63,M0,N2,J11-U01,computation,round toward +infinity...................0,6
+492,1133200861,R63-M0-N2,R63,M0,N2,J11-U01,computation,round toward -infinity...................0,6
+493,1133200861,R63-M0-N2,R63,M0,N2,J11-U01,computation,Floating Point Registers:,6
+494,1133200862,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr0=0x10055620 00000000 00094fc2 7ffff980,6
+495,1133200862,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr1=0x10055620 0000003e 10045620 08000815,6
+496,1133200862,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr2=0x00000000 00000001 00340000 001a013a,6
+497,1133200862,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,6
+498,1133200862,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr4=0x10055620 00000010 10055620 10045620,6
+499,1133200862,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,6
+500,1133200862,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr6=0x00000000 00000000 10024348 7ffff930,6
+501,1133200862,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr7=0x00000000 00000000 00000000 00001000,6
+502,1133200863,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000003,6
+503,1133200863,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr9=0x00000000 00000000 7ffff940 00000000,6
+504,1133200863,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr10=0x10045620 7ffff940 00000001 00000000,6
+505,1133200863,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,6
+506,1133200863,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,6
+507,1133200863,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr13=0x00000000 00000000 00000000 00000000,6
+508,1133200863,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr14=0xffffffff ffffffff 048e074a 403a9c74,6
+509,1133200863,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr15=0xffffffff ffffffff 5456543f 40329cbb,6
+510,1133200864,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr16=0xffffffff ffffffff 63be35e7 403c4f9c,6
+511,1133200864,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr17=0xffffffff ffffffff ada5c67d 3e9b606d,6
+512,1133200864,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr18=0xffffffff ffffffff c9f91900 3fbd1241,6
+513,1133200864,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr19=0xffffffff ffffffff f75bbd80 bfc4e2cf,6
+514,1133200864,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr20=0xffffffff ffffffff 37f6f400 bfa87248,6
+515,1133200864,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr21=0xffffffff ffffffff 00000000 00000000,6
+516,1133200864,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr22=0xffffffff ffffffff 00000000 4089b800,6
+517,1133200864,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr23=0xffffffff ffffffff 33333333 c0221333,6
+518,1133200865,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr24=0xffffffff ffffffff 33333333 40321333,6
+519,1133200865,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr25=0xffffffff ffffffff 33333333 c0221333,6
+520,1133200865,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr26=0xffffffff ffffffff 33333333 40321333,6
+521,1133200865,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr27=0xffffffff ffffffff 33333333 c0221333,6
+522,1133200865,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr28=0xffffffff ffffffff 33333333 40321333,6
+523,1133200865,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr29=0xffffffff ffffffff 33333333 40221333,6
+524,1133200865,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr30=0xffffffff ffffffff 33333333 40221333,6
+525,1133200865,R63-M0-N2,R63,M0,N2,J11-U01,computation,fpr31=0xffffffff ffffffff 33333333 40221333,6
+526,1133200865,R63-M0-N2,R63,M0,N2,J11-U01,computation,rts internal error,6
+527,1133200866,R63-M0-N2,R63,M0,N2,J11-U01,computation,rts panic! - stopping execution,6
+528,1133200866,R63-M0-N2,R63,M0,N2,J09-U01,computation,data TLB error interrupt,6
+529,1133200866,R63-M0-N2,R63,M0,N2,J09-U01,computation,instruction address: 0x000093fc,6
+530,1133200866,R63-M0-N2,R63,M0,N2,J09-U01,computation,data address: 0x0012af3c,6
+531,1133200866,R63-M0-N2,R63,M0,N2,J09-U01,computation,Machine State Register: 0x00003000,6
+532,1133200866,R63-M0-N2,R63,M0,N2,J09-U01,computation,wait state enable.................0,6
+533,1133200866,R63-M0-N2,R63,M0,N2,J09-U01,computation,critical input interrupt enable...0,6
+534,1133200867,R63-M0-N2,R63,M0,N2,J09-U01,computation,external input interrupt enable...0,6
+535,1133200867,R63-M0-N2,R63,M0,N2,J09-U01,computation,problem state (0=sup,6
+536,1133200867,R63-M0-N2,R63,M0,N2,J09-U01,computation,floating point instr. enabled.....1,6
+537,1133200867,R63-M0-N2,R63,M0,N2,J09-U01,computation,machine check enable..............1,6
+538,1133200867,R63-M0-N2,R63,M0,N2,J09-U01,computation,floating pt ex mode 0 enable......0,6
+539,1133200867,R63-M0-N2,R63,M0,N2,J09-U01,computation,debug wait enable.................0,6
+540,1133200867,R63-M0-N2,R63,M0,N2,J09-U01,computation,debug interrupt enable............0,6
+541,1133200867,R63-M0-N2,R63,M0,N2,J09-U01,computation,floating pt ex mode 1 enable......0,6
+542,1133200867,R63-M0-N2,R63,M0,N2,J09-U01,computation,instruction address space.........0,6
+543,1133200868,R63-M0-N2,R63,M0,N2,J09-U01,computation,data address space................0,6
+544,1133200868,R63-M0-N2,R63,M0,N2,J09-U01,computation,Core Configuration Register 0: 0x00002000,6
+545,1133200868,R63-M0-N2,R63,M0,N2,J09-U01,computation,disable store gathering..................0,6
+546,1133200868,R63-M0-N2,R63,M0,N2,J09-U01,computation,disable apu instruction broadcast........0,6
+547,1133200868,R63-M0-N2,R63,M0,N2,J09-U01,computation,disable trace broadcast..................0,6
+548,1133200868,R63-M0-N2,R63,M0,N2,J09-U01,computation,guaranteed instruction cache block touch.0,6
+549,1133200868,R63-M0-N2,R63,M0,N2,J09-U01,computation,guaranteed data cache block touch........1,6
+550,1133200868,R63-M0-N2,R63,M0,N2,J09-U01,computation,force load/store alignment...............0,6
+551,1133200868,R63-M0-N2,R63,M0,N2,J09-U01,computation,icache prefetch depth....................0,6
+552,1133200869,R63-M0-N2,R63,M0,N2,J09-U01,computation,icache prefetch threshold................0,6
+553,1133200869,R63-M0-N2,R63,M0,N2,J09-U01,computation,General Purpose Registers:,6
+554,1133200869,R63-M0-N2,R63,M0,N2,J09-U01,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,6
+555,1133200869,R63-M0-N2,R63,M0,N2,J09-U01,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,6
+556,1133200869,R63-M0-N2,R63,M0,N2,J09-U01,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,6
+557,1133200869,R63-M0-N2,R63,M0,N2,J09-U01,computation,r12=0x48242488 r13=0x1eeeeeee r14=0x00000003 r15=0x00000002,6
+558,1133200869,R63-M0-N2,R63,M0,N2,J09-U01,computation,r16=0x022972e0 r17=0x022981e0 r18=0x022990e0 r19=0x01c05d88,6
+559,1133200869,R63-M0-N2,R63,M0,N2,J09-U01,computation,r20=0x01bf250c r21=0x01c11e10 r22=0x1ff8a678 r23=0x1ffaa670,6
+560,1133200869,R63-M0-N2,R63,M0,N2,J09-U01,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,6
+561,1133200870,R63-M0-N2,R63,M0,N2,J09-U01,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,6
+562,1133200870,R63-M0-N2,R63,M0,N2,J09-U01,computation,Special Purpose Registers:,6
+563,1133200870,R63-M0-N2,R63,M0,N2,J09-U01,computation,lr=0x0000fa34 cr=0x48244488 xer=0x00000002 ctr=0x00021ecc,6
+564,1133200870,R63-M0-N2,R63,M0,N2,J09-U01,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,6
+565,1133200870,R63-M0-N2,R63,M0,N2,J09-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,6
+566,1133200870,R63-M0-N2,R63,M0,N2,J09-U01,computation,Floating Point Status and Control Register: 0x82064000,6
+567,1133200870,R63-M0-N2,R63,M0,N2,J09-U01,computation,exception summary........................1,6
+568,1133200870,R63-M0-N2,R63,M0,N2,J09-U01,computation,enabled exception summary................0,6
+569,1133200871,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid operation exception summary......0,6
+570,1133200871,R63-M0-N2,R63,M0,N2,J09-U01,computation,overflow exception.......................0,6
+571,1133200871,R63-M0-N2,R63,M0,N2,J09-U01,computation,underflow exception......................0,6
+572,1133200871,R63-M0-N2,R63,M0,N2,J09-U01,computation,divide-by-zero exception.................0,6
+573,1133200871,R63-M0-N2,R63,M0,N2,J09-U01,computation,inexact exception........................1,6
+574,1133200871,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid (SNAN)...........................0,6
+575,1133200871,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid (Inf-Inf)........................0,6
+576,1133200872,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid (Inf/Inf)........................0,6
+577,1133200872,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid (Zero/Zero)......................0,6
+578,1133200872,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid (Inf/Zero).......................0,6
+579,1133200872,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid (compare)........................0,6
+580,1133200872,R63-M0-N2,R63,M0,N2,J09-U01,computation,fraction rounded.........................1,6
+581,1133200872,R63-M0-N2,R63,M0,N2,J09-U01,computation,fraction inexact.........................1,6
+582,1133200872,R63-M0-N2,R63,M0,N2,J09-U01,computation,quiet NaN................................0,6
+583,1133200872,R63-M0-N2,R63,M0,N2,J09-U01,computation,minus inf................................0,6
+584,1133200873,R63-M0-N2,R63,M0,N2,J09-U01,computation,minus normalized number..................0,6
+585,1133200873,R63-M0-N2,R63,M0,N2,J09-U01,computation,minus denormalized number................0,6
+586,1133200873,R63-M0-N2,R63,M0,N2,J09-U01,computation,minus zero...............................0,6
+587,1133200873,R63-M0-N2,R63,M0,N2,J09-U01,computation,plus zero................................0,6
+588,1133200873,R63-M0-N2,R63,M0,N2,J09-U01,computation,plus denormalized number.................0,6
+589,1133200873,R63-M0-N2,R63,M0,N2,J09-U01,computation,plus normalized number...................1,6
+590,1133200873,R63-M0-N2,R63,M0,N2,J09-U01,computation,plus infinity............................0,6
+591,1133200873,R63-M0-N2,R63,M0,N2,J09-U01,computation,reserved.................................0,6
+592,1133200873,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid operation exception (software)...0,6
+593,1133200874,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid operation exception (sqrt).......0,6
+594,1133200874,R63-M0-N2,R63,M0,N2,J09-U01,computation,invalid operation exception (int cnvt)...0,6
+595,1133200874,R63-M0-N2,R63,M0,N2,J09-U01,computation,enable invalid operation exceptions......0,6
+596,1133200874,R63-M0-N2,R63,M0,N2,J09-U01,computation,enable overflow exceptions...............0,6
+597,1133200874,R63-M0-N2,R63,M0,N2,J09-U01,computation,enable underflow exceptions..............0,6
+598,1133200874,R63-M0-N2,R63,M0,N2,J09-U01,computation,enable divide-by-zero exceptions.........0,6
+599,1133200874,R63-M0-N2,R63,M0,N2,J09-U01,computation,enable inexact exceptions................0,6
+600,1133200874,R63-M0-N2,R63,M0,N2,J09-U01,computation,enable non-IEEE mode.....................0,6
+601,1133200875,R63-M0-N2,R63,M0,N2,J09-U01,computation,round nearest............................0,6
+602,1133200875,R63-M0-N2,R63,M0,N2,J09-U01,computation,round toward zero........................0,6
+603,1133200875,R63-M0-N2,R63,M0,N2,J09-U01,computation,round toward +infinity...................0,6
+604,1133200875,R63-M0-N2,R63,M0,N2,J09-U01,computation,round toward -infinity...................0,6
+605,1133200875,R63-M0-N2,R63,M0,N2,J09-U01,computation,Floating Point Registers:,6
+606,1133200875,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr0=0x10055620 00000000 00094fc2 7ffff980,6
+607,1133200875,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr1=0x10055620 0000003e 10045620 08000815,6
+608,1133200875,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr2=0x00000000 00000001 00340000 002b016b,6
+609,1133200875,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,6
+610,1133200876,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr4=0x10055620 00000001 10055620 10045620,6
+611,1133200876,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,6
+612,1133200876,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr6=0x00000000 10011001 10024348 7ffff930,6
+613,1133200876,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr7=0x00000000 00000000 00000000 00001000,6
+614,1133200876,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000003,6
+615,1133200876,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr9=0x00000000 00000000 7ffff940 00000000,6
+616,1133200876,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr10=0x10045620 7ffff940 00000001 00000000,6
+617,1133200876,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,6
+618,1133200877,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,6
+619,1133200877,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr13=0x00000000 00000000 00000000 00000000,6
+620,1133200877,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr14=0xffffffff ffffffff c9b4427f 403aa6ab,6
+621,1133200877,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr15=0xffffffff ffffffff f4201395 4032e11b,6
+622,1133200877,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr16=0xffffffff ffffffff 582e9628 403c4c1a,6
+623,1133200877,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr17=0xffffffff ffffffff 5d424a82 3f53d992,6
+624,1133200877,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr18=0xffffffff ffffffff a9c15780 3fc3d0b7,6
+625,1133200877,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr19=0xffffffff ffffffff 97f8d700 3fb47ea0,6
+626,1133200877,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr20=0xffffffff ffffffff 80b66800 3fb0271d,6
+627,1133200878,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr21=0xffffffff ffffffff 673a1e69 3fd7bd64,6
+628,1133200878,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr22=0xffffffff ffffffff 00000000 4089c000,6
+629,1133200878,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,6
+630,1133200878,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr24=0xffffffff ffffffff 00000000 3ff00000,6
+631,1133200878,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr25=0xffffffff ffffffff 00000000 40590000,6
+632,1133200878,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr26=0xffffffff ffffffff 99999999 40181999,6
+633,1133200878,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr27=0xffffffff ffffffff 99999999 40181999,6
+634,1133200878,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr28=0xffffffff ffffffff 99999999 40181999,6
+635,1133200878,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr29=0xffffffff ffffffff 33333333 40321333,6
+636,1133200879,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr30=0xffffffff ffffffff 33333333 40321333,6
+637,1133200879,R63-M0-N2,R63,M0,N2,J09-U01,computation,fpr31=0xffffffff ffffffff 33333333 40321333,6
+638,1133200879,R63-M0-N2,R63,M0,N2,J09-U01,computation,rts internal error,6
+639,1133200879,R63-M0-N2,R63,M0,N2,J09-U01,computation,rts panic! - stopping execution,6
+640,1133200879,R63-M0-N2,R63,M0,N2,J08-U11,computation,data TLB error interrupt,6
+641,1133200879,R63-M0-N2,R63,M0,N2,J08-U11,computation,instruction address: 0x000093fc,6
+642,1133200879,R63-M0-N2,R63,M0,N2,J08-U11,computation,data address: 0x0012af3c,6
+643,1133200879,R63-M0-N2,R63,M0,N2,J08-U11,computation,Machine State Register: 0x00003000,6
+644,1133200880,R63-M0-N2,R63,M0,N2,J08-U11,computation,wait state enable.................0,6
+645,1133200880,R63-M0-N2,R63,M0,N2,J08-U11,computation,critical input interrupt enable...0,6
+646,1133200880,R63-M0-N2,R63,M0,N2,J08-U11,computation,external input interrupt enable...0,6
+647,1133200880,R63-M0-N2,R63,M0,N2,J08-U11,computation,problem state (0=sup,6
+648,1133200880,R63-M0-N2,R63,M0,N2,J08-U11,computation,floating point instr. enabled.....1,6
+649,1133200880,R63-M0-N2,R63,M0,N2,J08-U11,computation,machine check enable..............1,6
+650,1133200880,R63-M0-N2,R63,M0,N2,J08-U11,computation,floating pt ex mode 0 enable......0,6
+651,1133200880,R63-M0-N2,R63,M0,N2,J08-U11,computation,debug wait enable.................0,6
+652,1133200881,R63-M0-N2,R63,M0,N2,J08-U11,computation,debug interrupt enable............0,6
+653,1133200881,R63-M0-N2,R63,M0,N2,J08-U11,computation,floating pt ex mode 1 enable......0,6
+654,1133200881,R63-M0-N2,R63,M0,N2,J08-U11,computation,instruction address space.........0,6
+655,1133200881,R63-M0-N2,R63,M0,N2,J08-U11,computation,data address space................0,6
+656,1133200881,R63-M0-N2,R63,M0,N2,J08-U11,computation,Core Configuration Register 0: 0x00002000,6
+657,1133200881,R63-M0-N2,R63,M0,N2,J08-U11,computation,disable store gathering..................0,6
+658,1133200881,R63-M0-N2,R63,M0,N2,J08-U11,computation,disable apu instruction broadcast........0,6
+659,1133200881,R63-M0-N2,R63,M0,N2,J08-U11,computation,disable trace broadcast..................0,6
+660,1133200882,R63-M0-N2,R63,M0,N2,J08-U11,computation,guaranteed instruction cache block touch.0,6
+661,1133200882,R63-M0-N2,R63,M0,N2,J08-U11,computation,guaranteed data cache block touch........1,6
+662,1133200882,R63-M0-N2,R63,M0,N2,J08-U11,computation,force load/store alignment...............0,6
+663,1133200882,R63-M0-N2,R63,M0,N2,J08-U11,computation,icache prefetch depth....................0,6
+664,1133200882,R63-M0-N2,R63,M0,N2,J08-U11,computation,icache prefetch threshold................0,6
+665,1133200882,R63-M0-N2,R63,M0,N2,J08-U11,computation,General Purpose Registers:,6
+666,1133200882,R63-M0-N2,R63,M0,N2,J08-U11,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,6
+667,1133200883,R63-M0-N2,R63,M0,N2,J08-U11,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,6
+668,1133200883,R63-M0-N2,R63,M0,N2,J08-U11,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,6
+669,1133200883,R63-M0-N2,R63,M0,N2,J08-U11,computation,r12=0x48242484 r13=0x1eeeeeee r14=0x01cd5330 r15=0x000001ca,6
+670,1133200883,R63-M0-N2,R63,M0,N2,J08-U11,computation,r16=0x000001c9 r17=0x01d25330 r18=0xffffff6b r19=0x01d25818,6
+671,1133200883,R63-M0-N2,R63,M0,N2,J08-U11,computation,r20=0x000004e8 r21=0x00000bb7 r22=0x1ff8a678 r23=0x1ffaa670,6
+672,1133200883,R63-M0-N2,R63,M0,N2,J08-U11,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,6
+673,1133200883,R63-M0-N2,R63,M0,N2,J08-U11,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,6
+674,1133200883,R63-M0-N2,R63,M0,N2,J08-U11,computation,Special Purpose Registers:,6
+675,1133200884,R63-M0-N2,R63,M0,N2,J08-U11,computation,lr=0x0000fa34 cr=0x48244484 xer=0x00000002 ctr=0x00021ecc,6
+676,1133200884,R63-M0-N2,R63,M0,N2,J08-U11,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,6
+677,1133200884,R63-M0-N2,R63,M0,N2,J08-U11,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,6
+678,1133200884,R63-M0-N2,R63,M0,N2,J08-U11,computation,Floating Point Status and Control Register: 0x82064000,6
+679,1133200884,R63-M0-N2,R63,M0,N2,J08-U11,computation,exception summary........................1,6
+680,1133200884,R63-M0-N2,R63,M0,N2,J08-U11,computation,enabled exception summary................0,6
+681,1133200884,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid operation exception summary......0,6
+682,1133200884,R63-M0-N2,R63,M0,N2,J08-U11,computation,overflow exception.......................0,6
+683,1133200885,R63-M0-N2,R63,M0,N2,J08-U11,computation,underflow exception......................0,6
+684,1133200885,R63-M0-N2,R63,M0,N2,J08-U11,computation,divide-by-zero exception.................0,6
+685,1133200885,R63-M0-N2,R63,M0,N2,J08-U11,computation,inexact exception........................1,6
+686,1133200885,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid (SNAN)...........................0,6
+687,1133200885,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid (Inf-Inf)........................0,6
+688,1133200885,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid (Inf/Inf)........................0,6
+689,1133200885,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid (Zero/Zero)......................0,6
+690,1133200885,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid (Inf/Zero).......................0,6
+691,1133200885,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid (compare)........................0,6
+692,1133200886,R63-M0-N2,R63,M0,N2,J08-U11,computation,fraction rounded.........................1,6
+693,1133200886,R63-M0-N2,R63,M0,N2,J08-U11,computation,fraction inexact.........................1,6
+694,1133200886,R63-M0-N2,R63,M0,N2,J08-U11,computation,quiet NaN................................0,6
+695,1133200886,R63-M0-N2,R63,M0,N2,J08-U11,computation,minus inf................................0,6
+696,1133200886,R63-M0-N2,R63,M0,N2,J08-U11,computation,minus normalized number..................0,6
+697,1133200886,R63-M0-N2,R63,M0,N2,J08-U11,computation,minus denormalized number................0,6
+698,1133200886,R63-M0-N2,R63,M0,N2,J08-U11,computation,minus zero...............................0,6
+699,1133200886,R63-M0-N2,R63,M0,N2,J08-U11,computation,plus zero................................0,6
+700,1133200887,R63-M0-N2,R63,M0,N2,J08-U11,computation,plus denormalized number.................0,6
+701,1133200887,R63-M0-N2,R63,M0,N2,J08-U11,computation,plus normalized number...................1,6
+702,1133200887,R63-M0-N2,R63,M0,N2,J08-U11,computation,plus infinity............................0,6
+703,1133200887,R63-M0-N2,R63,M0,N2,J08-U11,computation,reserved.................................0,6
+704,1133200887,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid operation exception (software)...0,6
+705,1133200887,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid operation exception (sqrt).......0,6
+706,1133200887,R63-M0-N2,R63,M0,N2,J08-U11,computation,invalid operation exception (int cnvt)...0,6
+707,1133200888,R63-M0-N2,R63,M0,N2,J08-U11,computation,enable invalid operation exceptions......0,6
+708,1133200888,R63-M0-N2,R63,M0,N2,J08-U11,computation,enable overflow exceptions...............0,6
+709,1133200888,R63-M0-N2,R63,M0,N2,J08-U11,computation,enable underflow exceptions..............0,6
+710,1133200888,R63-M0-N2,R63,M0,N2,J08-U11,computation,enable divide-by-zero exceptions.........0,6
+711,1133200888,R63-M0-N2,R63,M0,N2,J08-U11,computation,enable inexact exceptions................0,6
+712,1133200888,R63-M0-N2,R63,M0,N2,J08-U11,computation,enable non-IEEE mode.....................0,6
+713,1133200888,R63-M0-N2,R63,M0,N2,J08-U11,computation,round nearest............................0,6
+714,1133200888,R63-M0-N2,R63,M0,N2,J08-U11,computation,round toward zero........................0,6
+715,1133200888,R63-M0-N2,R63,M0,N2,J08-U11,computation,round toward +infinity...................0,6
+716,1133200889,R63-M0-N2,R63,M0,N2,J08-U11,computation,round toward -infinity...................0,6
+717,1133200889,R63-M0-N2,R63,M0,N2,J08-U11,computation,Floating Point Registers:,6
+718,1133200889,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr0=0x10055620 00000000 00094fc2 7ffff980,6
+719,1133200889,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr1=0x10055620 0000003e 10045620 08000815,6
+720,1133200889,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr2=0x00000000 00000001 00340000 00310171,6
+721,1133200889,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,6
+722,1133200889,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr4=0x10055620 00000005 10055620 10045620,6
+723,1133200889,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,6
+724,1133200890,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr6=0x00000000 10011001 10024348 7ffff930,6
+725,1133200890,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr7=0x00000000 00000000 00000000 00001000,6
+726,1133200890,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000007,6
+727,1133200890,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr9=0x00000000 00000000 7ffff940 00000000,6
+728,1133200890,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr10=0x10045620 7ffff940 00000001 00000000,6
+729,1133200890,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,6
+730,1133200890,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,6
+731,1133200890,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr13=0x00000000 00000000 00000000 00000000,6
+732,1133200891,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr14=0xffffffff ffffffff cbc18000 3e2ae6a8,6
+733,1133200891,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr15=0xffffffff ffffffff 00000000 3ff00000,6
+734,1133200891,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr16=0xffffffff ffffffff 0000052a 7fffffff,6
+735,1133200891,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr17=0xffffffff ffffffff 0668b470 bffebcbe,6
+736,1133200891,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr18=0xffffffff ffffffff c3d2b800 3f901514,6
+737,1133200891,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr19=0xffffffff ffffffff 00000000 00000000,6
+738,1133200891,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr20=0xffffffff ffffffff f5f63b5f 3f3a926c,6
+739,1133200891,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr21=0xffffffff ffffffff 0266d892 3f30527c,6
+740,1133200892,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr22=0xffffffff ffffffff 00000000 00000000,6
+741,1133200892,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr23=0xffffffff ffffffff 733fd8db 3f7e57ce,6
+742,1133200892,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr24=0xffffffff ffffffff 9152100f bf0bb5f5,6
+743,1133200892,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr25=0xffffffff ffffffff b5d3f8f0 400db39a,6
+744,1133200892,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr26=0xffffffff ffffffff 896b5dc0 bffea999,6
+745,1133200892,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr27=0xffffffff ffffffff 4ab4ffe5 3fed920f,6
+746,1133200892,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr28=0xffffffff ffffffff 1dc54400 bfbb8b24,6
+747,1133200893,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr29=0xffffffff ffffffff a87838b0 bffbc4c2,6
+748,1133200893,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr30=0xffffffff ffffffff 424761e0 bffd0d84,6
+749,1133200893,R63-M0-N2,R63,M0,N2,J08-U11,computation,fpr31=0xffffffff ffffffff 00000000 3fe00000,6
+750,1133200893,R63-M0-N2,R63,M0,N2,J08-U11,computation,rts internal error,6
+751,1133200893,R63-M0-N2,R63,M0,N2,J08-U11,computation,rts panic! - stopping execution,6
+752,1133200893,R63-M0-N2,R63,M0,N2,J10-U11,computation,data TLB error interrupt,6
+753,1133200893,R63-M0-N2,R63,M0,N2,J10-U11,computation,instruction address: 0x000093fc,6
+754,1133200893,R63-M0-N2,R63,M0,N2,J10-U11,computation,data address: 0x0012af3c,6
+755,1133200894,R63-M0-N2,R63,M0,N2,J10-U11,computation,Machine State Register: 0x00003000,6
+756,1133200894,R63-M0-N2,R63,M0,N2,J10-U11,computation,wait state enable.................0,6
+757,1133200894,R63-M0-N2,R63,M0,N2,J10-U11,computation,critical input interrupt enable...0,6
+758,1133200894,R63-M0-N2,R63,M0,N2,J10-U11,computation,external input interrupt enable...0,6
+759,1133200894,R63-M0-N2,R63,M0,N2,J10-U11,computation,problem state (0=sup,6
+760,1133200894,R63-M0-N2,R63,M0,N2,J10-U11,computation,floating point instr. enabled.....1,6
+761,1133200894,R63-M0-N2,R63,M0,N2,J10-U11,computation,machine check enable..............1,6
+762,1133200894,R63-M0-N2,R63,M0,N2,J10-U11,computation,floating pt ex mode 0 enable......0,6
+763,1133200895,R63-M0-N2,R63,M0,N2,J10-U11,computation,debug wait enable.................0,6
+764,1133200895,R63-M0-N2,R63,M0,N2,J10-U11,computation,debug interrupt enable............0,6
+765,1133200895,R63-M0-N2,R63,M0,N2,J10-U11,computation,floating pt ex mode 1 enable......0,6
+766,1133200895,R63-M0-N2,R63,M0,N2,J10-U11,computation,instruction address space.........0,6
+767,1133200895,R63-M0-N2,R63,M0,N2,J10-U11,computation,data address space................0,6
+768,1133200895,R63-M0-N2,R63,M0,N2,J10-U11,computation,Core Configuration Register 0: 0x00002000,6
+769,1133200895,R63-M0-N2,R63,M0,N2,J10-U11,computation,disable store gathering..................0,6
+770,1133200895,R63-M0-N2,R63,M0,N2,J10-U11,computation,disable apu instruction broadcast........0,6
+771,1133200895,R63-M0-N2,R63,M0,N2,J10-U11,computation,disable trace broadcast..................0,6
+772,1133200896,R63-M0-N2,R63,M0,N2,J10-U11,computation,guaranteed instruction cache block touch.0,6
+773,1133200896,R63-M0-N2,R63,M0,N2,J10-U11,computation,guaranteed data cache block touch........1,6
+774,1133200896,R63-M0-N2,R63,M0,N2,J10-U11,computation,force load/store alignment...............0,6
+775,1133200896,R63-M0-N2,R63,M0,N2,J10-U11,computation,icache prefetch depth....................0,6
+776,1133200896,R63-M0-N2,R63,M0,N2,J10-U11,computation,icache prefetch threshold................0,6
+777,1133200896,R63-M0-N2,R63,M0,N2,J10-U11,computation,General Purpose Registers:,6
+778,1133200896,R63-M0-N2,R63,M0,N2,J10-U11,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,6
+779,1133200897,R63-M0-N2,R63,M0,N2,J10-U11,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,6
+780,1133200897,R63-M0-N2,R63,M0,N2,J10-U11,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,6
+781,1133200897,R63-M0-N2,R63,M0,N2,J10-U11,computation,r12=0x48242484 r13=0x1eeeeeee r14=0x0088da60 r15=0x0088da68,6
+782,1133200897,R63-M0-N2,R63,M0,N2,J10-U11,computation,r16=0x002c9d8c r17=0x00348df8 r18=0x00335578 r19=0x002d39c8,6
+783,1133200897,R63-M0-N2,R63,M0,N2,J10-U11,computation,r20=0x0036fef8 r21=0x00321cf8 r22=0x1ff8a678 r23=0x1ffaa670,6
+784,1133200897,R63-M0-N2,R63,M0,N2,J10-U11,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,6
+785,1133200897,R63-M0-N2,R63,M0,N2,J10-U11,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,6
+786,1133200897,R63-M0-N2,R63,M0,N2,J10-U11,computation,Special Purpose Registers:,6
+787,1133200898,R63-M0-N2,R63,M0,N2,J10-U11,computation,lr=0x0000fa34 cr=0x48244484 xer=0x00000002 ctr=0x00021ecc,6
+788,1133200898,R63-M0-N2,R63,M0,N2,J10-U11,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,6
+789,1133200898,R63-M0-N2,R63,M0,N2,J10-U11,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,6
+790,1133200898,R63-M0-N2,R63,M0,N2,J10-U11,computation,Floating Point Status and Control Register: 0x82064000,6
+791,1133200898,R63-M0-N2,R63,M0,N2,J10-U11,computation,exception summary........................1,6
+792,1133200898,R63-M0-N2,R63,M0,N2,J10-U11,computation,enabled exception summary................0,6
+793,1133200898,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid operation exception summary......0,6
+794,1133200898,R63-M0-N2,R63,M0,N2,J10-U11,computation,overflow exception.......................0,6
+795,1133200898,R63-M0-N2,R63,M0,N2,J10-U11,computation,underflow exception......................0,6
+796,1133200899,R63-M0-N2,R63,M0,N2,J10-U11,computation,divide-by-zero exception.................0,6
+797,1133200899,R63-M0-N2,R63,M0,N2,J10-U11,computation,inexact exception........................1,6
+798,1133200899,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid (SNAN)...........................0,6
+799,1133200899,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid (Inf-Inf)........................0,6
+800,1133200899,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid (Inf/Inf)........................0,6
+801,1133200899,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid (Zero/Zero)......................0,6
+802,1133200899,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid (Inf/Zero).......................0,6
+803,1133200899,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid (compare)........................0,6
+804,1133200900,R63-M0-N2,R63,M0,N2,J10-U11,computation,fraction rounded.........................1,6
+805,1133200900,R63-M0-N2,R63,M0,N2,J10-U11,computation,fraction inexact.........................1,6
+806,1133200900,R63-M0-N2,R63,M0,N2,J10-U11,computation,quiet NaN................................0,6
+807,1133200900,R63-M0-N2,R63,M0,N2,J10-U11,computation,minus inf................................0,6
+808,1133200900,R63-M0-N2,R63,M0,N2,J10-U11,computation,minus normalized number..................0,6
+809,1133200900,R63-M0-N2,R63,M0,N2,J10-U11,computation,minus denormalized number................0,6
+810,1133200900,R63-M0-N2,R63,M0,N2,J10-U11,computation,minus zero...............................0,6
+811,1133200900,R63-M0-N2,R63,M0,N2,J10-U11,computation,plus zero................................0,6
+812,1133200901,R63-M0-N2,R63,M0,N2,J10-U11,computation,plus denormalized number.................0,6
+813,1133200901,R63-M0-N2,R63,M0,N2,J10-U11,computation,plus normalized number...................1,6
+814,1133200901,R63-M0-N2,R63,M0,N2,J10-U11,computation,plus infinity............................0,6
+815,1133200901,R63-M0-N2,R63,M0,N2,J10-U11,computation,reserved.................................0,6
+816,1133200901,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid operation exception (software)...0,6
+817,1133200901,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid operation exception (sqrt).......0,6
+818,1133200901,R63-M0-N2,R63,M0,N2,J10-U11,computation,invalid operation exception (int cnvt)...0,6
+819,1133200901,R63-M0-N2,R63,M0,N2,J10-U11,computation,enable invalid operation exceptions......0,6
+820,1133200902,R63-M0-N2,R63,M0,N2,J10-U11,computation,enable overflow exceptions...............0,6
+821,1133200902,R63-M0-N2,R63,M0,N2,J10-U11,computation,enable underflow exceptions..............0,6
+822,1133200902,R63-M0-N2,R63,M0,N2,J10-U11,computation,enable divide-by-zero exceptions.........0,6
+823,1133200902,R63-M0-N2,R63,M0,N2,J10-U11,computation,enable inexact exceptions................0,6
+824,1133200902,R63-M0-N2,R63,M0,N2,J10-U11,computation,enable non-IEEE mode.....................0,6
+825,1133200902,R63-M0-N2,R63,M0,N2,J10-U11,computation,round nearest............................0,6
+826,1133200902,R63-M0-N2,R63,M0,N2,J10-U11,computation,round toward zero........................0,6
+827,1133200902,R63-M0-N2,R63,M0,N2,J10-U11,computation,round toward +infinity...................0,6
+828,1133200903,R63-M0-N2,R63,M0,N2,J10-U11,computation,round toward -infinity...................0,6
+829,1133200903,R63-M0-N2,R63,M0,N2,J10-U11,computation,Floating Point Registers:,6
+830,1133200903,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr0=0x10055620 00000000 00094fc2 7ffff980,6
+831,1133200903,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr1=0x10055620 0000003e 10045620 08000815,6
+832,1133200903,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr2=0x00000000 00000001 00340000 001c013c,6
+833,1133200903,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,6
+834,1133200903,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr4=0x10055620 0000000f 10055620 10045620,6
+835,1133200903,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,6
+836,1133200904,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr6=0x00000000 00001001 10024348 7ffff930,6
+837,1133200904,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr7=0x00000000 00000000 00000000 00001000,6
+838,1133200904,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000007,6
+839,1133200904,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr9=0x00000000 00000000 7ffff940 00000000,6
+840,1133200904,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr10=0x10045620 7ffff940 00000001 00000000,6
+841,1133200904,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,6
+842,1133200904,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,6
+843,1133200904,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr13=0x00000000 00000000 00000000 00000000,6
+844,1133200905,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr14=0xffffffff ffffffff cd872fd3 403a7476,6
+845,1133200905,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr15=0xffffffff ffffffff 6e843408 4032cc0f,6
+846,1133200905,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr16=0xffffffff ffffffff 96f4ab64 403c3656,6
+847,1133200905,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr17=0xffffffff ffffffff 392c6c33 3f8a3a6d,6
+848,1133200905,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr18=0xffffffff ffffffff 3c1f8000 3f477386,6
+849,1133200905,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr19=0xffffffff ffffffff aac7dd00 3fb3157b,6
+850,1133200905,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr20=0xffffffff ffffffff e77bb000 3f716db6,6
+851,1133200905,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr21=0xffffffff ffffffff 18e84415 3fcbfabd,6
+852,1133200905,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr22=0xffffffff ffffffff 00000000 4089d000,6
+853,1133200906,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,6
+854,1133200906,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr24=0xffffffff ffffffff 47ae147b 3f847ae1,6
+855,1133200906,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr25=0xffffffff ffffffff 00000000 00000000,6
+856,1133200906,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr26=0xffffffff ffffffff 280382c0 3fef47a4,6
+857,1133200906,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr27=0xffffffff ffffffff 280382c0 3fef47a4,6
+858,1133200906,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr28=0xffffffff ffffffff 629a1674 bfeefe88,6
+859,1133200906,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr29=0xffffffff ffffffff 00000000 3ff00000,6
+860,1133200906,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr30=0xffffffff ffffffff 00000000 40000000,6
+861,1133200907,R63-M0-N2,R63,M0,N2,J10-U11,computation,fpr31=0xffffffff ffffffff ff8fa800 bf970b7a,6
+862,1133200907,R63-M0-N2,R63,M0,N2,J10-U11,computation,rts internal error,6
+863,1133200907,R63-M0-N2,R63,M0,N2,J10-U11,computation,rts panic! - stopping execution,6
+864,1133200907,R63-M0-N2,R63,M0,N2,J08-U01,computation,data TLB error interrupt,6
+865,1133200907,R63-M0-N2,R63,M0,N2,J08-U01,computation,instruction address: 0x000093fc,6
+866,1133200907,R63-M0-N2,R63,M0,N2,J08-U01,computation,data address: 0x0012af3c,6
+867,1133200907,R63-M0-N2,R63,M0,N2,J08-U01,computation,Machine State Register: 0x00003000,6
+868,1133200908,R63-M0-N2,R63,M0,N2,J08-U01,computation,wait state enable.................0,6
+869,1133200908,R63-M0-N2,R63,M0,N2,J08-U01,computation,critical input interrupt enable...0,6
+870,1133200908,R63-M0-N2,R63,M0,N2,J08-U01,computation,external input interrupt enable...0,6
+871,1133200908,R63-M0-N2,R63,M0,N2,J08-U01,computation,problem state (0=sup,6
+872,1133200908,R63-M0-N2,R63,M0,N2,J08-U01,computation,floating point instr. enabled.....1,6
+873,1133200908,R63-M0-N2,R63,M0,N2,J08-U01,computation,machine check enable..............1,6
+874,1133200908,R63-M0-N2,R63,M0,N2,J08-U01,computation,floating pt ex mode 0 enable......0,6
+875,1133200908,R63-M0-N2,R63,M0,N2,J08-U01,computation,debug wait enable.................0,6
+876,1133200909,R63-M0-N2,R63,M0,N2,J08-U01,computation,debug interrupt enable............0,6
+877,1133200909,R63-M0-N2,R63,M0,N2,J08-U01,computation,floating pt ex mode 1 enable......0,6
+878,1133200909,R63-M0-N2,R63,M0,N2,J08-U01,computation,instruction address space.........0,6
+879,1133200909,R63-M0-N2,R63,M0,N2,J08-U01,computation,data address space................0,6
+880,1133200909,R63-M0-N2,R63,M0,N2,J08-U01,computation,Core Configuration Register 0: 0x00002000,6
+881,1133200909,R63-M0-N2,R63,M0,N2,J08-U01,computation,disable store gathering..................0,6
+882,1133200909,R63-M0-N2,R63,M0,N2,J08-U01,computation,disable apu instruction broadcast........0,6
+883,1133200910,R63-M0-N2,R63,M0,N2,J08-U01,computation,disable trace broadcast..................0,6
+884,1133200910,R63-M0-N2,R63,M0,N2,J08-U01,computation,guaranteed instruction cache block touch.0,6
+885,1133200910,R63-M0-N2,R63,M0,N2,J08-U01,computation,guaranteed data cache block touch........1,6
+886,1133200910,R63-M0-N2,R63,M0,N2,J08-U01,computation,force load/store alignment...............0,6
+887,1133200910,R63-M0-N2,R63,M0,N2,J08-U01,computation,icache prefetch depth....................0,6
+888,1133200910,R63-M0-N2,R63,M0,N2,J08-U01,computation,icache prefetch threshold................0,6
+889,1133200910,R63-M0-N2,R63,M0,N2,J08-U01,computation,General Purpose Registers:,6
+890,1133200910,R63-M0-N2,R63,M0,N2,J08-U01,computation,r00=0xfffffff4 r01=0x00085fa0 r02=0x1eeeeeee r03=0x00000000,6
+891,1133200910,R63-M0-N2,R63,M0,N2,J08-U01,computation,r04=0x00000010 r05=0x00000010 r06=0x000865b0 r07=0x00007d41,6
+892,1133200911,R63-M0-N2,R63,M0,N2,J08-U01,computation,r08=0x00009cc4 r09=0x0012c914 r10=0x0028938c r11=0x0009c914,6
+893,1133200911,R63-M0-N2,R63,M0,N2,J08-U01,computation,r12=0x48242488 r13=0x1eeeeeee r14=0x0088da60 r15=0x0088da68,6
+894,1133200911,R63-M0-N2,R63,M0,N2,J08-U01,computation,r16=0x002c9f80 r17=0x003491e0 r18=0x00335960 r19=0x002d3bbc,6
+895,1133200911,R63-M0-N2,R63,M0,N2,J08-U01,computation,r20=0x003702e0 r21=0x003220e0 r22=0x1ff8a678 r23=0x1ffaa670,6
+896,1133200911,R63-M0-N2,R63,M0,N2,J08-U01,computation,r24=0x1ffaa670 r25=0x00000008 r26=0x000865b0 r27=0x0008e5c8,6
+897,1133200911,R63-M0-N2,R63,M0,N2,J08-U01,computation,r28=0x00000010 r29=0x00007d41 r30=0x00000000 r31=0x000865b0,6
+898,1133200911,R63-M0-N2,R63,M0,N2,J08-U01,computation,Special Purpose Registers:,6
+899,1133200911,R63-M0-N2,R63,M0,N2,J08-U01,computation,lr=0x0000fa34 cr=0x48244488 xer=0x00000002 ctr=0x00021ecc,6
+900,1133200912,R63-M0-N2,R63,M0,N2,J08-U01,computation,msr=0x00003000 dear=0x0012af3c esr=0x00000000 fpscr=0x82064000,6
+901,1133200912,R63-M0-N2,R63,M0,N2,J08-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,6
+902,1133200912,R63-M0-N2,R63,M0,N2,J08-U01,computation,Floating Point Status and Control Register: 0x82064000,6
+903,1133200912,R63-M0-N2,R63,M0,N2,J08-U01,computation,exception summary........................1,6
+904,1133200912,R63-M0-N2,R63,M0,N2,J08-U01,computation,enabled exception summary................0,6
+905,1133200912,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid operation exception summary......0,6
+906,1133200912,R63-M0-N2,R63,M0,N2,J08-U01,computation,overflow exception.......................0,6
+907,1133200913,R63-M0-N2,R63,M0,N2,J08-U01,computation,underflow exception......................0,6
+908,1133200913,R63-M0-N2,R63,M0,N2,J08-U01,computation,divide-by-zero exception.................0,6
+909,1133200913,R63-M0-N2,R63,M0,N2,J08-U01,computation,inexact exception........................1,6
+910,1133200913,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid (SNAN)...........................0,6
+911,1133200913,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid (Inf-Inf)........................0,6
+912,1133200913,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid (Inf/Inf)........................0,6
+913,1133200913,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid (Zero/Zero)......................0,6
+914,1133200913,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid (Inf/Zero).......................0,6
+915,1133200914,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid (compare)........................0,6
+916,1133200914,R63-M0-N2,R63,M0,N2,J08-U01,computation,fraction rounded.........................1,6
+917,1133200914,R63-M0-N2,R63,M0,N2,J08-U01,computation,fraction inexact.........................1,6
+918,1133200914,R63-M0-N2,R63,M0,N2,J08-U01,computation,quiet NaN................................0,6
+919,1133200914,R63-M0-N2,R63,M0,N2,J08-U01,computation,minus inf................................0,6
+920,1133200914,R63-M0-N2,R63,M0,N2,J08-U01,computation,minus normalized number..................0,6
+921,1133200914,R63-M0-N2,R63,M0,N2,J08-U01,computation,minus denormalized number................0,6
+922,1133200914,R63-M0-N2,R63,M0,N2,J08-U01,computation,minus zero...............................0,6
+923,1133200914,R63-M0-N2,R63,M0,N2,J08-U01,computation,plus zero................................0,6
+924,1133200915,R63-M0-N2,R63,M0,N2,J08-U01,computation,plus denormalized number.................0,6
+925,1133200915,R63-M0-N2,R63,M0,N2,J08-U01,computation,plus normalized number...................1,6
+926,1133200915,R63-M0-N2,R63,M0,N2,J08-U01,computation,plus infinity............................0,6
+927,1133200915,R63-M0-N2,R63,M0,N2,J08-U01,computation,reserved.................................0,6
+928,1133200915,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid operation exception (software)...0,6
+929,1133200915,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid operation exception (sqrt).......0,6
+930,1133200915,R63-M0-N2,R63,M0,N2,J08-U01,computation,invalid operation exception (int cnvt)...0,6
+931,1133200915,R63-M0-N2,R63,M0,N2,J08-U01,computation,enable invalid operation exceptions......0,6
+932,1133200916,R63-M0-N2,R63,M0,N2,J08-U01,computation,enable overflow exceptions...............0,6
+933,1133200916,R63-M0-N2,R63,M0,N2,J08-U01,computation,enable underflow exceptions..............0,6
+934,1133200916,R63-M0-N2,R63,M0,N2,J08-U01,computation,enable divide-by-zero exceptions.........0,6
+935,1133200916,R63-M0-N2,R63,M0,N2,J08-U01,computation,enable inexact exceptions................0,6
+936,1133200916,R63-M0-N2,R63,M0,N2,J08-U01,computation,enable non-IEEE mode.....................0,6
+937,1133200916,R63-M0-N2,R63,M0,N2,J08-U01,computation,round nearest............................0,6
+938,1133200916,R63-M0-N2,R63,M0,N2,J08-U01,computation,round toward zero........................0,6
+939,1133200916,R63-M0-N2,R63,M0,N2,J08-U01,computation,round toward +infinity...................0,6
+940,1133200916,R63-M0-N2,R63,M0,N2,J08-U01,computation,round toward -infinity...................0,6
+941,1133200917,R63-M0-N2,R63,M0,N2,J08-U01,computation,Floating Point Registers:,6
+942,1133200917,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr0=0x10055620 00000000 00094fc2 7ffff980,6
+943,1133200917,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr1=0x10055620 0000003e 10045620 08000815,6
+944,1133200917,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr2=0x00000000 00000001 00340000 000a012a,6
+945,1133200917,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr3=0x00000000 00000000 1000cfbc 7ffff980,6
+946,1133200917,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr4=0x10055620 00000002 10055620 10045620,6
+947,1133200917,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr5=0x10010000 00000000 00000000 7ffff9c0,6
+948,1133200917,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr6=0x00000000 10011001 10024348 7ffff930,6
+949,1133200918,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr7=0x00000000 00000000 00000000 00001000,6
+950,1133200918,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr8=0x7ffff8c0 100cfaf0 00000000 00000003,6
+951,1133200918,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr9=0x00000000 00000000 7ffff940 00000000,6
+952,1133200918,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr10=0x10045620 7ffff940 00000001 00000000,6
+953,1133200918,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr11=0x00000000 00000000 10023e44 7ffff900,6
+954,1133200918,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr12=0x10055974 7ffff950 30019020 1000d0e4,6
+955,1133200918,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr13=0x00000000 00000000 00000000 00000000,6
+956,1133200918,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr14=0xffffffff ffffffff 104e4d72 403a572d,6
+957,1133200919,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr15=0xffffffff ffffffff 7bc79fc9 4032bec4,6
+958,1133200919,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr16=0xffffffff ffffffff f0d785a2 403c3710,6
+959,1133200919,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr17=0xffffffff ffffffff 6475d9a4 3f837fff,6
+960,1133200919,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr18=0xffffffff ffffffff ea4ebc00 bfa09710,6
+961,1133200919,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr19=0xffffffff ffffffff 1a875080 bfbb3dc0,6
+962,1133200919,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr20=0xffffffff ffffffff 7dd19000 3faedbae,6
+963,1133200919,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr21=0xffffffff ffffffff 80337f48 3fea5cdd,6
+964,1133200919,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr22=0xffffffff ffffffff 00000000 408a4800,6
+965,1133200919,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr23=0xffffffff ffffffff 00000000 3fe00000,6
+966,1133200920,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr24=0xffffffff ffffffff 47ae147b 3f847ae1,6
+967,1133200920,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr25=0xffffffff ffffffff 00000000 00000000,6
+968,1133200920,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr26=0xffffffff ffffffff 96bb4744 3fe8ccfa,6
+969,1133200920,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr27=0xffffffff ffffffff 22c7be66 3fecb362,6
+970,1133200920,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr28=0xffffffff ffffffff b0923820 bfe16ab9,6
+971,1133200920,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr29=0xffffffff ffffffff 00000000 3ff00000,6
+972,1133200920,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr30=0xffffffff ffffffff 00000000 40000000,6
+973,1133200920,R63-M0-N2,R63,M0,N2,J08-U01,computation,fpr31=0xffffffff ffffffff aba365c5 3fcf0efd,6
+974,1133200921,R63-M0-N2,R63,M0,N2,J08-U01,computation,rts internal error,6
+975,1133200921,R63-M0-N2,R63,M0,N2,J08-U01,computation,rts panic! - stopping execution,6

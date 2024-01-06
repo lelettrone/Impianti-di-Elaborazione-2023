@@ -1,0 +1,1564 @@
+,Timestamp,ID-Node,Rack,Midplane,Node,Card,Card type,Message,Tuple
+0,1128641377,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40373: Link has been severed,0
+1,1128641377,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:40374: Link has been severed,0
+2,1128970789,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:58325: Link has been severed,1
+3,1128970789,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:58326: Link has been severed,1
+4,1129165922,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image,2
+5,1129165922,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image,2
+6,1129166693,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image,3
+7,1129166693,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image,3
+8,1129204950,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image,4
+9,1129204950,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image,4
+10,1129208275,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image,5
+11,1129208275,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/bandwidth.rts: invalid or missing program image,5
+12,1129208376,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image,5
+13,1129208376,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image,5
+14,1129289579,R12-M0-N0,R12,M0,N0,J18-U11,I-O,Lustre mount FAILED : bglio161 : block_id : location,6
+15,1129391885,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image,7
+16,1129391885,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image,7
+17,1129391997,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image,7
+18,1129391997,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64K.rts: invalid or missing program image,7
+19,1129418635,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.32R.rts: invalid or missing program image,8
+20,1129418635,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.32R.rts: invalid or missing program image,8
+21,1129501521,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:48119: Link has been severed,9
+22,1129501521,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:48120: Link has been severed,9
+23,1129547476,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/current_brian.rts: invalid or missing program image,10
+24,1129547477,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/current_brian.rts: invalid or missing program image,10
+25,1129820600,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image,11
+26,1129820600,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image,11
+27,1129896041,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bwallen/oldcode_newkernel.rts: invalid or missing program image,12
+28,1129896041,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bwallen/oldcode_newkernel.rts: invalid or missing program image,12
+29,1129903425,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/bcastV1R1.rts: invalid or missing program image,13
+30,1129903425,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/bcastV1R1.rts: invalid or missing program image,13
+31,1130078200,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image,14
+32,1130078201,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image,14
+33,1130078360,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image,14
+34,1130078360,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/fft_only.rts: invalid or missing program image,14
+35,1130140309,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading ./ddcMDbglV: invalid or missing program image,15
+36,1130140310,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading ./ddcMDbglV: invalid or missing program image,15
+37,1130157517,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/bwallen/brian_12point3.rts: invalid or missing program image,16
+38,1130157517,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/bwallen/brian_12point3.rts: invalid or missing program image,16
+39,1130251549,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading allreduce_double_V1R1.rts: invalid or missing program image,17
+40,1130251549,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading allreduce_double_V1R1.rts: invalid or missing program image,17
+41,1130251589,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image,17
+42,1130251589,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image,17
+43,1130443760,R12-M0-N0,R12,M0,N0,J18-U11,I-O,Lustre mount FAILED : bglio161 : block_id : location,18
+44,1130443787,R12-M0-N0,R12,M0,N0,J18-U01,I-O,Lustre mount FAILED : bglio162 : block_id : location,18
+45,1130688133,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image,19
+46,1130688133,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image,19
+47,1130695772,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image,20
+48,1130695773,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_vnm_essl_cpm: invalid or missing program image,20
+49,1131021322,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_vnm: invalid or missing program image,21
+50,1131021322,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_vnm: invalid or missing program image,21
+51,1131030155,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64R.rts: invalid or missing program image,22
+52,1131030155,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/EPStreamTriad.64R.rts: invalid or missing program image,22
+53,1131030258,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image,22
+54,1131030259,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image,22
+55,1131036221,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDGbglV: invalid or missing program image,23
+56,1131036221,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDGbglV: invalid or missing program image,23
+57,1131036470,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image,24
+58,1131036470,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image,24
+59,1131036720,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image,25
+60,1131036720,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image,25
+61,1131041164,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image,26
+62,1131041164,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV: invalid or missing program image,26
+63,1131366737,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image,27
+64,1131366737,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image,27
+65,1131366901,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image,27
+66,1131366901,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image,27
+67,1132066472,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image,28
+68,1132066473,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2: invalid or missing program image,28
+69,1132317425,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image,29
+70,1132317487,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.V1R2M0: invalid or missing program image,29
+71,1132341296,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading -mode VN: invalid or missing program image,30
+72,1132341296,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading -mode VN: invalid or missing program image,30
+73,1132583727,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:43474: Link has been severed,31
+74,1132583727,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:43473: Link has been severed,31
+75,1132609381,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52815,32
+76,1132609381,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52814,32
+77,1132613223,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40986,33
+78,1132613223,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40985,33
+79,1132614033,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43302,34
+80,1132614033,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43301,34
+81,1132841335,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47061,35
+82,1132841450,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47062,35
+83,1132853873,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41501,36
+84,1132853873,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41500,36
+85,1132898890,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54083,37
+86,1132898890,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54082,37
+87,1132912196,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54079,38
+88,1132912196,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54078,38
+89,1132940756,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39822,39
+90,1132940757,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39821,39
+91,1133009348,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59735,40
+92,1133009499,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:59736,40
+93,1133044937,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46925,41
+94,1133044937,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46924,41
+95,1133052089,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54410,42
+96,1133052089,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54409,42
+97,1133059952,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52563,43
+98,1133060000,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52562,43
+99,1133062820,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58656,44
+100,1133062821,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:58655,44
+101,1133066187,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39406,45
+102,1133066237,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39407,45
+103,1133135337,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40808,46
+104,1133135337,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:40807,46
+105,1133150712,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47256,47
+106,1133150712,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:47255,47
+107,1133314650,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57767,48
+108,1133314650,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57766,48
+109,1133409338,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,49
+110,1133409481,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,49
+111,1133409481,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,49
+112,1133409629,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,49
+113,1133409764,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,49
+114,1133409764,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,49
+115,1133555710,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52241,50
+116,1133555710,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52240,50
+117,1133622119,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39938,51
+118,1133622119,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:39937,51
+119,1133846535,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine Check Status Register: 0xa0800000,52
+120,1133846535,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check summary.............1,52
+121,1133846535,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction plb error.............0,52
+122,1133846535,R12-M0-N0,R12,M0,N0,J12-U01,computation,data read plb error...............1,52
+123,1133846535,R12-M0-N0,R12,M0,N0,J12-U01,computation,data write plb error..............0,52
+124,1133846535,R12-M0-N0,R12,M0,N0,J12-U01,computation,tlb error.........................0,52
+125,1133846535,R12-M0-N0,R12,M0,N0,J12-U01,computation,i-cache parity error..............0,52
+126,1133846536,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache search parity error.......0,52
+127,1133846536,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache flush parity error........0,52
+128,1133846536,R12-M0-N0,R12,M0,N0,J12-U01,computation,imprecise machine check...........1,52
+129,1133846536,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine State Register: 0x00003000,52
+130,1133846536,R12-M0-N0,R12,M0,N0,J12-U01,computation,wait state enable.................0,52
+131,1133846536,R12-M0-N0,R12,M0,N0,J12-U01,computation,critical input interrupt enable...0,52
+132,1133846536,R12-M0-N0,R12,M0,N0,J12-U01,computation,external input interrupt enable...0,52
+133,1133846537,R12-M0-N0,R12,M0,N0,J12-U01,computation,problem state (0=sup,52
+134,1133846537,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating point instr. enabled.....1,52
+135,1133846537,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check enable..............1,52
+136,1133846537,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 0 enable......0,52
+137,1133846537,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug wait enable.................0,52
+138,1133846537,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug interrupt enable............0,52
+139,1133846538,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 1 enable......0,52
+140,1133846538,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction address space.........0,52
+141,1133846538,R12-M0-N0,R12,M0,N0,J12-U01,computation,data address space................0,52
+142,1133846538,R12-M0-N0,R12,M0,N0,J12-U01,computation,Core Configuration Register 0: 0x00002000,52
+143,1133846538,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable store gathering..................0,52
+144,1133846539,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable apu instruction broadcast........0,52
+145,1133846539,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable trace broadcast..................0,52
+146,1133846539,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed instruction cache block touch.0,52
+147,1133846539,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed data cache block touch........1,52
+148,1133846539,R12-M0-N0,R12,M0,N0,J12-U01,computation,force load/store alignment...............0,52
+149,1133846539,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch depth....................0,52
+150,1133846540,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch threshold................0,52
+151,1133846540,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 global control register: 0x001249f0,52
+152,1133846540,R12-M0-N0,R12,M0,N0,J12-U01,computation,start initialization.....................0,52
+153,1133846540,R12-M0-N0,R12,M0,N0,J12-U01,computation,start retagging..........................0,52
+154,1133846540,R12-M0-N0,R12,M0,N0,J12-U01,computation,start flushing...........................0,52
+155,1133846540,R12-M0-N0,R12,M0,N0,J12-U01,computation,start prefetching........................0,52
+156,1133846540,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable speculative access...............0,52
+157,1133846541,R12-M0-N0,R12,M0,N0,J12-U01,computation,close EDRAM pages as soon as possible....0,52
+158,1133846541,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of scratchpad portion of L3.........0 (0M),52
+159,1133846541,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable all access to cache directory....0,52
+160,1133846541,R12-M0-N0,R12,M0,N0,J12-U01,computation,write buffer commit threshold............2,52
+161,1133846541,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of DDR we are caching...............1 (512M),52
+162,1133846541,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 0................1,52
+163,1133846542,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 1................1,52
+164,1133846542,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for PLB slave.............1,52
+165,1133846542,R12-M0-N0,R12,M0,N0,J12-U01,computation,max number of outstanding prefetches.....7,52
+166,1133846542,R12-M0-N0,R12,M0,N0,J12-U01,computation,turn on hidden refreshes.................1,52
+167,1133846542,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable write lines 2:4..................0,52
+168,1133846542,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc control register: 00000000,52
+169,1133846542,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory correctable error address..0,52
+170,1133846543,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory uncorrectable error address..0,52
+171,1133846543,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM correctable error address..0,52
+172,1133846543,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM uncorrectable error address..0,52
+173,1133846543,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM parity error address..0,52
+174,1133846543,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first DDR uncorrectable error address..0,52
+175,1133846543,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable flagging of DDR UE's as major internal error.0,52
+176,1133846544,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc status register: 00200000,52
+177,1133846544,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 0......0,52
+178,1133846544,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 1......0,52
+179,1133846544,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 0....0,52
+180,1133846544,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 1....0,52
+181,1133846544,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 0.....0,52
+182,1133846545,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 1.....0,52
+183,1133846545,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 0...0,52
+184,1133846545,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 1...0,52
+185,1133846545,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 0.........................0,52
+186,1133846545,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 1.........................0,52
+187,1133846545,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in external DDR...1,52
+188,1133846545,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 0...................0,52
+189,1133846546,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 1...................0,52
+190,1133846546,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue PLB.................0,52
+191,1133846546,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in write buffer...................0,52
+192,1133846546,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 directories...0,52
+193,1133846546,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,52
+194,1133846546,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 EDRAMs........0,52
+195,1133846546,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,52
+196,1133846547,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of lines with parity errors written to L3 EDRAMs...0,52
+197,1133846547,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR machine check register: 0x00000000 0x00010000,52
+198,1133846547,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory and bus summary...........................0,52
+199,1133846547,R12-M0-N0,R12,M0,N0,J12-U01,computation,command manager unit summary.....................0,52
+200,1133846547,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager uncorrectable error...............1,52
+201,1133846547,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager strobe gate.......................0,52
+202,1133846548,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address parity error..............0,52
+203,1133846548,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager miscompare........................0,52
+204,1133846548,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address error.....................0,52
+205,1133846548,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager store buffer parity...............0,52
+206,1133846548,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager RMW buffer parity.................0,52
+207,1133846548,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh...........................0,52
+208,1133846549,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh counter timeout...........0,52
+209,1133846549,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh contention................0,52
+210,1133846549,R12-M0-N0,R12,M0,N0,J12-U01,computation,state machine....................................0,52
+211,1133846549,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager / command manager address parity..0,52
+212,1133846549,R12-M0-N0,R12,M0,N0,J12-U01,computation,regctl scancom interface.........................0,52
+213,1133846549,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing info register: DDR Fail Info Register: 0x00000000,52
+214,1133846549,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture valid.........0,52
+215,1133846550,R12-M0-N0,R12,M0,N0,J12-U01,computation,symbol................0,52
+216,1133846550,R12-M0-N0,R12,M0,N0,J12-U01,computation,mask..................0x00,52
+217,1133846550,R12-M0-N0,R12,M0,N0,J12-U01,computation,miscompare............0,52
+218,1133846550,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error...0,52
+219,1133846550,R12-M0-N0,R12,M0,N0,J12-U01,computation,address parity error..0,52
+220,1133846550,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error.....0,52
+221,1133846550,R12-M0-N0,R12,M0,N0,J12-U01,computation,qw trapped............0,52
+222,1133846551,R12-M0-N0,R12,M0,N0,J12-U01,computation,chip select...........0,52
+223,1133846551,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing data registers: 0x00000000 0x00000000,52
+224,1133846551,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,52
+225,1133846551,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,52
+226,1133846551,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,52
+227,1133846551,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing address register: 0x00000000 0x00000000,52
+228,1133846551,R12-M0-N0,R12,M0,N0,J12-U01,computation,General Purpose Registers:,52
+229,1133846552,R12-M0-N0,R12,M0,N0,J12-U01,computation,r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48,52
+230,1133846552,R12-M0-N0,R12,M0,N0,J12-U01,computation,r04=0xffff3474 r05=0x33333300 r06=0x0002e9cc r07=0x00030000,52
+231,1133846552,R12-M0-N0,R12,M0,N0,J12-U01,computation,r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c,52
+232,1133846552,R12-M0-N0,R12,M0,N0,J12-U01,computation,r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff,52
+233,1133846552,R12-M0-N0,R12,M0,N0,J12-U01,computation,r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000,52
+234,1133846552,R12-M0-N0,R12,M0,N0,J12-U01,computation,r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000,52
+235,1133846552,R12-M0-N0,R12,M0,N0,J12-U01,computation,r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000,52
+236,1133846553,R12-M0-N0,R12,M0,N0,J12-U01,computation,r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74,52
+237,1133846553,R12-M0-N0,R12,M0,N0,J12-U01,computation,Special Purpose Registers:,52
+238,1133846553,R12-M0-N0,R12,M0,N0,J12-U01,computation,lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000,52
+239,1133846553,R12-M0-N0,R12,M0,N0,J12-U01,computation,msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000,52
+240,1133846553,R12-M0-N0,R12,M0,N0,J12-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,52
+241,1133846553,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Status and Control Register: 0x00000000,52
+242,1133846553,R12-M0-N0,R12,M0,N0,J12-U01,computation,exception summary........................0,52
+243,1133846554,R12-M0-N0,R12,M0,N0,J12-U01,computation,enabled exception summary................0,52
+244,1133846554,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception summary......0,52
+245,1133846554,R12-M0-N0,R12,M0,N0,J12-U01,computation,overflow exception.......................0,52
+246,1133846554,R12-M0-N0,R12,M0,N0,J12-U01,computation,underflow exception......................0,52
+247,1133846554,R12-M0-N0,R12,M0,N0,J12-U01,computation,divide-by-zero exception.................0,52
+248,1133846554,R12-M0-N0,R12,M0,N0,J12-U01,computation,inexact exception........................0,52
+249,1133846554,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (SNAN)...........................0,52
+250,1133846555,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf-Inf)........................0,52
+251,1133846555,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Inf)........................0,52
+252,1133846555,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Zero/Zero)......................0,52
+253,1133846555,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Zero).......................0,52
+254,1133846555,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (compare)........................0,52
+255,1133846555,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction rounded.........................0,52
+256,1133846555,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction inexact.........................0,52
+257,1133846556,R12-M0-N0,R12,M0,N0,J12-U01,computation,quiet NaN................................0,52
+258,1133846556,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus inf................................0,52
+259,1133846556,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus normalized number..................0,52
+260,1133846556,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus denormalized number................0,52
+261,1133846556,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus zero...............................0,52
+262,1133846556,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus zero................................0,52
+263,1133846556,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus denormalized number.................0,52
+264,1133846557,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus normalized number...................0,52
+265,1133846557,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus infinity............................0,52
+266,1133846557,R12-M0-N0,R12,M0,N0,J12-U01,computation,reserved.................................0,52
+267,1133846557,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (software)...0,52
+268,1133846557,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (sqrt).......0,52
+269,1133846557,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (int cnvt)...0,52
+270,1133846557,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable invalid operation exceptions......0,52
+271,1133846558,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable overflow exceptions...............0,52
+272,1133846558,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable underflow exceptions..............0,52
+273,1133846558,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable divide-by-zero exceptions.........0,52
+274,1133846558,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable inexact exceptions................0,52
+275,1133846558,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable non-IEEE mode.....................0,52
+276,1133846558,R12-M0-N0,R12,M0,N0,J12-U01,computation,round nearest............................0,52
+277,1133846558,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward zero........................0,52
+278,1133846559,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward +infinity...................0,52
+279,1133846559,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward -infinity...................0,52
+280,1133846559,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Registers:,52
+281,1133846559,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr0=0xffffffff ffffffff ffffffff ffffffff,52
+282,1133846559,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr1=0xffffffff ffffffff ffffffff ffffffff,52
+283,1133846559,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr2=0xffffffff ffffffff ffffffff ffffffff,52
+284,1133846559,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr3=0xffffffff ffffffff ffffffff ffffffff,52
+285,1133846560,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr4=0xffffffff ffffffff ffffffff ffffffff,52
+286,1133846560,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr5=0xffffffff ffffffff ffffffff ffffffff,52
+287,1133846560,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr6=0xffffffff ffffffff ffffffff ffffffff,52
+288,1133846560,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr7=0xffffffff ffffffff ffffffff ffffffff,52
+289,1133846560,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr8=0xffffffff ffffffff ffffffff ffffffff,52
+290,1133846560,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr9=0xffffffff ffffffff ffffffff ffffffff,52
+291,1133846561,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr10=0xffffffff ffffffff ffffffff ffffffff,52
+292,1133846561,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr11=0xffffffff ffffffff ffffffff ffffffff,52
+293,1133846561,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr12=0xffffffff ffffffff ffffffff ffffffff,52
+294,1133846561,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr13=0xffffffff ffffffff ffffffff ffffffff,52
+295,1133846561,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr14=0xffffffff ffffffff ffffffff ffffffff,52
+296,1133846561,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr15=0xffffffff ffffffff ffffffff ffffffff,52
+297,1133846561,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr16=0xffffffff ffffffff ffffffff ffffffff,52
+298,1133846562,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr17=0xffffffff ffffffff ffffffff ffffffff,52
+299,1133846562,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr18=0xffffffff ffffffff ffffffff ffffffff,52
+300,1133846562,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr19=0xffffffff ffffffff ffffffff ffffffff,52
+301,1133846562,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr20=0xffffffff ffffffff ffffffff ffffffff,52
+302,1133846562,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr21=0xffffffff ffffffff ffffffff ffffffff,52
+303,1133846562,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr22=0xffffffff ffffffff ffffffff ffffffff,52
+304,1133846562,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr23=0xffffffff ffffffff ffffffff ffffffff,52
+305,1133846562,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr24=0xffffffff ffffffff ffffffff ffffffff,52
+306,1133846563,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr25=0xffffffff ffffffff ffffffff ffffffff,52
+307,1133846563,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr26=0xffffffff ffffffff ffffffff ffffffff,52
+308,1133846563,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr27=0xffffffff ffffffff ffffffff ffffffff,52
+309,1133846563,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr28=0xffffffff ffffffff ffffffff ffffffff,52
+310,1133846563,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr29=0xffffffff ffffffff ffffffff ffffffff,52
+311,1133846563,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr30=0xffffffff ffffffff ffffffff ffffffff,52
+312,1133846564,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr31=0xffffffff ffffffff ffffffff ffffffff,52
+313,1133846564,R12-M0-N0,R12,M0,N0,J12-U01,computation,rts panic! - stopping execution,52
+314,1133846826,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine Check Status Register: 0xa0800000,53
+315,1133846826,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check summary.............1,53
+316,1133846826,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction plb error.............0,53
+317,1133846826,R12-M0-N0,R12,M0,N0,J12-U01,computation,data read plb error...............1,53
+318,1133846827,R12-M0-N0,R12,M0,N0,J12-U01,computation,data write plb error..............0,53
+319,1133846827,R12-M0-N0,R12,M0,N0,J12-U01,computation,tlb error.........................0,53
+320,1133846827,R12-M0-N0,R12,M0,N0,J12-U01,computation,i-cache parity error..............0,53
+321,1133846827,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache search parity error.......0,53
+322,1133846827,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache flush parity error........0,53
+323,1133846827,R12-M0-N0,R12,M0,N0,J12-U01,computation,imprecise machine check...........1,53
+324,1133846827,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine State Register: 0x00003000,53
+325,1133846828,R12-M0-N0,R12,M0,N0,J12-U01,computation,wait state enable.................0,53
+326,1133846828,R12-M0-N0,R12,M0,N0,J12-U01,computation,critical input interrupt enable...0,53
+327,1133846828,R12-M0-N0,R12,M0,N0,J12-U01,computation,external input interrupt enable...0,53
+328,1133846828,R12-M0-N0,R12,M0,N0,J12-U01,computation,problem state (0=sup,53
+329,1133846828,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating point instr. enabled.....1,53
+330,1133846828,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check enable..............1,53
+331,1133846828,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 0 enable......0,53
+332,1133846829,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug wait enable.................0,53
+333,1133846829,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug interrupt enable............0,53
+334,1133846829,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 1 enable......0,53
+335,1133846829,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction address space.........0,53
+336,1133846829,R12-M0-N0,R12,M0,N0,J12-U01,computation,data address space................0,53
+337,1133846829,R12-M0-N0,R12,M0,N0,J12-U01,computation,Core Configuration Register 0: 0x00002000,53
+338,1133846829,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable store gathering..................0,53
+339,1133846830,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable apu instruction broadcast........0,53
+340,1133846830,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable trace broadcast..................0,53
+341,1133846830,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed instruction cache block touch.0,53
+342,1133846830,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed data cache block touch........1,53
+343,1133846830,R12-M0-N0,R12,M0,N0,J12-U01,computation,force load/store alignment...............0,53
+344,1133846831,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch depth....................0,53
+345,1133846831,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch threshold................0,53
+346,1133846831,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 global control register: 0x001249f0,53
+347,1133846831,R12-M0-N0,R12,M0,N0,J12-U01,computation,start initialization.....................0,53
+348,1133846831,R12-M0-N0,R12,M0,N0,J12-U01,computation,start retagging..........................0,53
+349,1133846831,R12-M0-N0,R12,M0,N0,J12-U01,computation,start flushing...........................0,53
+350,1133846831,R12-M0-N0,R12,M0,N0,J12-U01,computation,start prefetching........................0,53
+351,1133846832,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable speculative access...............0,53
+352,1133846832,R12-M0-N0,R12,M0,N0,J12-U01,computation,close EDRAM pages as soon as possible....0,53
+353,1133846832,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of scratchpad portion of L3.........0 (0M),53
+354,1133846832,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable all access to cache directory....0,53
+355,1133846832,R12-M0-N0,R12,M0,N0,J12-U01,computation,write buffer commit threshold............2,53
+356,1133846832,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of DDR we are caching...............1 (512M),53
+357,1133846832,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 0................1,53
+358,1133846833,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 1................1,53
+359,1133846833,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for PLB slave.............1,53
+360,1133846833,R12-M0-N0,R12,M0,N0,J12-U01,computation,max number of outstanding prefetches.....7,53
+361,1133846833,R12-M0-N0,R12,M0,N0,J12-U01,computation,turn on hidden refreshes.................1,53
+362,1133846833,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable write lines 2:4..................0,53
+363,1133846833,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc control register: 00000000,53
+364,1133846834,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory correctable error address..0,53
+365,1133846834,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory uncorrectable error address..0,53
+366,1133846834,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM correctable error address..0,53
+367,1133846834,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM uncorrectable error address..0,53
+368,1133846834,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM parity error address..0,53
+369,1133846834,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first DDR uncorrectable error address..0,53
+370,1133846834,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable flagging of DDR UE's as major internal error.0,53
+371,1133846835,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc status register: 00200000,53
+372,1133846835,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 0......0,53
+373,1133846835,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 1......0,53
+374,1133846835,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 0....0,53
+375,1133846835,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 1....0,53
+376,1133846836,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 0.....0,53
+377,1133846836,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 1.....0,53
+378,1133846836,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 0...0,53
+379,1133846836,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 1...0,53
+380,1133846836,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 0.........................0,53
+381,1133846836,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 1.........................0,53
+382,1133846836,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in external DDR...1,53
+383,1133846837,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 0...................0,53
+384,1133846837,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 1...................0,53
+385,1133846837,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue PLB.................0,53
+386,1133846837,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in write buffer...................0,53
+387,1133846837,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 directories...0,53
+388,1133846837,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,53
+389,1133846837,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 EDRAMs........0,53
+390,1133846838,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,53
+391,1133846838,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of lines with parity errors written to L3 EDRAMs...0,53
+392,1133846838,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR machine check register: 0x00000000 0x00010000,53
+393,1133846838,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory and bus summary...........................0,53
+394,1133846838,R12-M0-N0,R12,M0,N0,J12-U01,computation,command manager unit summary.....................0,53
+395,1133846838,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager uncorrectable error...............1,53
+396,1133846838,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager strobe gate.......................0,53
+397,1133846839,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address parity error..............0,53
+398,1133846839,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager miscompare........................0,53
+399,1133846839,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address error.....................0,53
+400,1133846839,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager store buffer parity...............0,53
+401,1133846839,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager RMW buffer parity.................0,53
+402,1133846839,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh...........................0,53
+403,1133846840,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh counter timeout...........0,53
+404,1133846840,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh contention................0,53
+405,1133846840,R12-M0-N0,R12,M0,N0,J12-U01,computation,state machine....................................0,53
+406,1133846840,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager / command manager address parity..0,53
+407,1133846840,R12-M0-N0,R12,M0,N0,J12-U01,computation,regctl scancom interface.........................0,53
+408,1133846840,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing info register: DDR Fail Info Register: 0x00000000,53
+409,1133846841,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture valid.........0,53
+410,1133846841,R12-M0-N0,R12,M0,N0,J12-U01,computation,symbol................0,53
+411,1133846841,R12-M0-N0,R12,M0,N0,J12-U01,computation,mask..................0x00,53
+412,1133846841,R12-M0-N0,R12,M0,N0,J12-U01,computation,miscompare............0,53
+413,1133846841,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error...0,53
+414,1133846841,R12-M0-N0,R12,M0,N0,J12-U01,computation,address parity error..0,53
+415,1133846841,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error.....0,53
+416,1133846842,R12-M0-N0,R12,M0,N0,J12-U01,computation,qw trapped............0,53
+417,1133846842,R12-M0-N0,R12,M0,N0,J12-U01,computation,chip select...........0,53
+418,1133846842,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing data registers: 0x00000000 0x00000000,53
+419,1133846842,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,53
+420,1133846842,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,53
+421,1133846842,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,53
+422,1133846842,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing address register: 0x00000000 0x00000000,53
+423,1133846843,R12-M0-N0,R12,M0,N0,J12-U01,computation,General Purpose Registers:,53
+424,1133846843,R12-M0-N0,R12,M0,N0,J12-U01,computation,r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48,53
+425,1133846843,R12-M0-N0,R12,M0,N0,J12-U01,computation,r04=0xffff3474 r05=0x33333300 r06=0x0002e9cc r07=0x00030000,53
+426,1133846843,R12-M0-N0,R12,M0,N0,J12-U01,computation,r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c,53
+427,1133846843,R12-M0-N0,R12,M0,N0,J12-U01,computation,r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff,53
+428,1133846843,R12-M0-N0,R12,M0,N0,J12-U01,computation,r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000,53
+429,1133846843,R12-M0-N0,R12,M0,N0,J12-U01,computation,r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000,53
+430,1133846844,R12-M0-N0,R12,M0,N0,J12-U01,computation,r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000,53
+431,1133846844,R12-M0-N0,R12,M0,N0,J12-U01,computation,r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74,53
+432,1133846844,R12-M0-N0,R12,M0,N0,J12-U01,computation,Special Purpose Registers:,53
+433,1133846844,R12-M0-N0,R12,M0,N0,J12-U01,computation,lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000,53
+434,1133846844,R12-M0-N0,R12,M0,N0,J12-U01,computation,msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000,53
+435,1133846844,R12-M0-N0,R12,M0,N0,J12-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,53
+436,1133846844,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Status and Control Register: 0x00000000,53
+437,1133846845,R12-M0-N0,R12,M0,N0,J12-U01,computation,exception summary........................0,53
+438,1133846845,R12-M0-N0,R12,M0,N0,J12-U01,computation,enabled exception summary................0,53
+439,1133846845,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception summary......0,53
+440,1133846845,R12-M0-N0,R12,M0,N0,J12-U01,computation,overflow exception.......................0,53
+441,1133846845,R12-M0-N0,R12,M0,N0,J12-U01,computation,underflow exception......................0,53
+442,1133846845,R12-M0-N0,R12,M0,N0,J12-U01,computation,divide-by-zero exception.................0,53
+443,1133846846,R12-M0-N0,R12,M0,N0,J12-U01,computation,inexact exception........................0,53
+444,1133846846,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (SNAN)...........................0,53
+445,1133846846,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf-Inf)........................0,53
+446,1133846846,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Inf)........................0,53
+447,1133846846,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Zero/Zero)......................0,53
+448,1133846846,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Zero).......................0,53
+449,1133846846,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (compare)........................0,53
+450,1133846847,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction rounded.........................0,53
+451,1133846847,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction inexact.........................0,53
+452,1133846847,R12-M0-N0,R12,M0,N0,J12-U01,computation,quiet NaN................................0,53
+453,1133846847,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus inf................................0,53
+454,1133846847,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus normalized number..................0,53
+455,1133846847,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus denormalized number................0,53
+456,1133846847,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus zero...............................0,53
+457,1133846847,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus zero................................0,53
+458,1133846848,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus denormalized number.................0,53
+459,1133846848,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus normalized number...................0,53
+460,1133846848,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus infinity............................0,53
+461,1133846848,R12-M0-N0,R12,M0,N0,J12-U01,computation,reserved.................................0,53
+462,1133846848,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (software)...0,53
+463,1133846848,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (sqrt).......0,53
+464,1133846848,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (int cnvt)...0,53
+465,1133846849,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable invalid operation exceptions......0,53
+466,1133846849,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable overflow exceptions...............0,53
+467,1133846849,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable underflow exceptions..............0,53
+468,1133846849,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable divide-by-zero exceptions.........0,53
+469,1133846849,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable inexact exceptions................0,53
+470,1133846849,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable non-IEEE mode.....................0,53
+471,1133846849,R12-M0-N0,R12,M0,N0,J12-U01,computation,round nearest............................0,53
+472,1133846849,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward zero........................0,53
+473,1133846850,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward +infinity...................0,53
+474,1133846850,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward -infinity...................0,53
+475,1133846850,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Registers:,53
+476,1133846850,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr0=0xffffffff ffffffff ffffffff ffffffff,53
+477,1133846850,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr1=0xffffffff ffffffff ffffffff ffffffff,53
+478,1133846850,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr2=0xffffffff ffffffff ffffffff ffffffff,53
+479,1133846850,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr3=0xffffffff ffffffff ffffffff ffffffff,53
+480,1133846851,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr4=0xffffffff ffffffff ffffffff ffffffff,53
+481,1133846851,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr5=0xffffffff ffffffff ffffffff ffffffff,53
+482,1133846851,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr6=0xffffffff ffffffff ffffffff ffffffff,53
+483,1133846851,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr7=0xffffffff ffffffff ffffffff ffffffff,53
+484,1133846851,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr8=0xffffffff ffffffff ffffffff ffffffff,53
+485,1133846851,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr9=0xffffffff ffffffff ffffffff ffffffff,53
+486,1133846851,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr10=0xffffffff ffffffff ffffffff ffffffff,53
+487,1133846852,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr11=0xffffffff ffffffff ffffffff ffffffff,53
+488,1133846852,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr12=0xffffffff ffffffff ffffffff ffffffff,53
+489,1133846852,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr13=0xffffffff ffffffff ffffffff ffffffff,53
+490,1133846852,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr14=0xffffffff ffffffff ffffffff ffffffff,53
+491,1133846852,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr15=0xffffffff ffffffff ffffffff ffffffff,53
+492,1133846852,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr16=0xffffffff ffffffff ffffffff ffffffff,53
+493,1133846852,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr17=0xffffffff ffffffff ffffffff ffffffff,53
+494,1133846852,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr18=0xffffffff ffffffff ffffffff ffffffff,53
+495,1133846853,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr19=0xffffffff ffffffff ffffffff ffffffff,53
+496,1133846853,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr20=0xffffffff ffffffff ffffffff ffffffff,53
+497,1133846853,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr21=0xffffffff ffffffff ffffffff ffffffff,53
+498,1133846853,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr22=0xffffffff ffffffff ffffffff ffffffff,53
+499,1133846853,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr23=0xffffffff ffffffff ffffffff ffffffff,53
+500,1133846853,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr24=0xffffffff ffffffff ffffffff ffffffff,53
+501,1133846854,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr25=0xffffffff ffffffff ffffffff ffffffff,53
+502,1133846854,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr26=0xffffffff ffffffff ffffffff ffffffff,53
+503,1133846854,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr27=0xffffffff ffffffff ffffffff ffffffff,53
+504,1133846854,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr28=0xffffffff ffffffff ffffffff ffffffff,53
+505,1133846854,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr29=0xffffffff ffffffff ffffffff ffffffff,53
+506,1133846854,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr30=0xffffffff ffffffff ffffffff ffffffff,53
+507,1133846854,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr31=0xffffffff ffffffff ffffffff ffffffff,53
+508,1133846854,R12-M0-N0,R12,M0,N0,J12-U01,computation,rts panic! - stopping execution,53
+509,1133847122,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine Check Status Register: 0xa0800000,54
+510,1133847122,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check summary.............1,54
+511,1133847122,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction plb error.............0,54
+512,1133847122,R12-M0-N0,R12,M0,N0,J12-U01,computation,data read plb error...............1,54
+513,1133847122,R12-M0-N0,R12,M0,N0,J12-U01,computation,data write plb error..............0,54
+514,1133847123,R12-M0-N0,R12,M0,N0,J12-U01,computation,tlb error.........................0,54
+515,1133847123,R12-M0-N0,R12,M0,N0,J12-U01,computation,i-cache parity error..............0,54
+516,1133847123,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache search parity error.......0,54
+517,1133847123,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache flush parity error........0,54
+518,1133847123,R12-M0-N0,R12,M0,N0,J12-U01,computation,imprecise machine check...........1,54
+519,1133847123,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine State Register: 0x00003000,54
+520,1133847123,R12-M0-N0,R12,M0,N0,J12-U01,computation,wait state enable.................0,54
+521,1133847124,R12-M0-N0,R12,M0,N0,J12-U01,computation,critical input interrupt enable...0,54
+522,1133847124,R12-M0-N0,R12,M0,N0,J12-U01,computation,external input interrupt enable...0,54
+523,1133847124,R12-M0-N0,R12,M0,N0,J12-U01,computation,problem state (0=sup,54
+524,1133847124,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating point instr. enabled.....1,54
+525,1133847124,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check enable..............1,54
+526,1133847124,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 0 enable......0,54
+527,1133847124,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug wait enable.................0,54
+528,1133847125,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug interrupt enable............0,54
+529,1133847125,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 1 enable......0,54
+530,1133847125,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction address space.........0,54
+531,1133847125,R12-M0-N0,R12,M0,N0,J12-U01,computation,data address space................0,54
+532,1133847125,R12-M0-N0,R12,M0,N0,J12-U01,computation,Core Configuration Register 0: 0x00002000,54
+533,1133847125,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable store gathering..................0,54
+534,1133847126,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable apu instruction broadcast........0,54
+535,1133847126,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable trace broadcast..................0,54
+536,1133847126,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed instruction cache block touch.0,54
+537,1133847126,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed data cache block touch........1,54
+538,1133847126,R12-M0-N0,R12,M0,N0,J12-U01,computation,force load/store alignment...............0,54
+539,1133847126,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch depth....................0,54
+540,1133847127,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch threshold................0,54
+541,1133847127,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 global control register: 0x001249f0,54
+542,1133847127,R12-M0-N0,R12,M0,N0,J12-U01,computation,start initialization.....................0,54
+543,1133847127,R12-M0-N0,R12,M0,N0,J12-U01,computation,start retagging..........................0,54
+544,1133847127,R12-M0-N0,R12,M0,N0,J12-U01,computation,start flushing...........................0,54
+545,1133847127,R12-M0-N0,R12,M0,N0,J12-U01,computation,start prefetching........................0,54
+546,1133847128,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable speculative access...............0,54
+547,1133847128,R12-M0-N0,R12,M0,N0,J12-U01,computation,close EDRAM pages as soon as possible....0,54
+548,1133847128,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of scratchpad portion of L3.........0 (0M),54
+549,1133847128,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable all access to cache directory....0,54
+550,1133847128,R12-M0-N0,R12,M0,N0,J12-U01,computation,write buffer commit threshold............2,54
+551,1133847128,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of DDR we are caching...............1 (512M),54
+552,1133847128,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 0................1,54
+553,1133847129,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 1................1,54
+554,1133847129,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for PLB slave.............1,54
+555,1133847129,R12-M0-N0,R12,M0,N0,J12-U01,computation,max number of outstanding prefetches.....7,54
+556,1133847129,R12-M0-N0,R12,M0,N0,J12-U01,computation,turn on hidden refreshes.................1,54
+557,1133847129,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable write lines 2:4..................0,54
+558,1133847129,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc control register: 00000000,54
+559,1133847129,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory correctable error address..0,54
+560,1133847130,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory uncorrectable error address..0,54
+561,1133847130,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM correctable error address..0,54
+562,1133847130,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM uncorrectable error address..0,54
+563,1133847130,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM parity error address..0,54
+564,1133847130,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first DDR uncorrectable error address..0,54
+565,1133847130,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable flagging of DDR UE's as major internal error.0,54
+566,1133847130,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc status register: 00200000,54
+567,1133847131,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 0......0,54
+568,1133847131,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 1......0,54
+569,1133847131,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 0....0,54
+570,1133847131,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 1....0,54
+571,1133847131,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 0.....0,54
+572,1133847131,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 1.....0,54
+573,1133847132,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 0...0,54
+574,1133847132,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 1...0,54
+575,1133847132,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 0.........................0,54
+576,1133847132,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 1.........................0,54
+577,1133847132,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in external DDR...1,54
+578,1133847132,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 0...................0,54
+579,1133847132,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 1...................0,54
+580,1133847132,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue PLB.................0,54
+581,1133847133,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in write buffer...................0,54
+582,1133847133,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 directories...0,54
+583,1133847133,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,54
+584,1133847133,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 EDRAMs........0,54
+585,1133847133,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,54
+586,1133847133,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of lines with parity errors written to L3 EDRAMs...0,54
+587,1133847133,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR machine check register: 0x00000000 0x00010000,54
+588,1133847134,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory and bus summary...........................0,54
+589,1133847134,R12-M0-N0,R12,M0,N0,J12-U01,computation,command manager unit summary.....................0,54
+590,1133847134,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager uncorrectable error...............1,54
+591,1133847134,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager strobe gate.......................0,54
+592,1133847134,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address parity error..............0,54
+593,1133847134,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager miscompare........................0,54
+594,1133847134,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address error.....................0,54
+595,1133847135,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager store buffer parity...............0,54
+596,1133847135,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager RMW buffer parity.................0,54
+597,1133847135,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh...........................0,54
+598,1133847135,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh counter timeout...........0,54
+599,1133847135,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh contention................0,54
+600,1133847135,R12-M0-N0,R12,M0,N0,J12-U01,computation,state machine....................................0,54
+601,1133847135,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager / command manager address parity..0,54
+602,1133847136,R12-M0-N0,R12,M0,N0,J12-U01,computation,regctl scancom interface.........................0,54
+603,1133847136,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing info register: DDR Fail Info Register: 0x00000000,54
+604,1133847136,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture valid.........0,54
+605,1133847136,R12-M0-N0,R12,M0,N0,J12-U01,computation,symbol................0,54
+606,1133847136,R12-M0-N0,R12,M0,N0,J12-U01,computation,mask..................0x00,54
+607,1133847136,R12-M0-N0,R12,M0,N0,J12-U01,computation,miscompare............0,54
+608,1133847137,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error...0,54
+609,1133847137,R12-M0-N0,R12,M0,N0,J12-U01,computation,address parity error..0,54
+610,1133847137,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error.....0,54
+611,1133847137,R12-M0-N0,R12,M0,N0,J12-U01,computation,qw trapped............0,54
+612,1133847137,R12-M0-N0,R12,M0,N0,J12-U01,computation,chip select...........0,54
+613,1133847137,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing data registers: 0x00000000 0x00000000,54
+614,1133847138,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,54
+615,1133847138,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,54
+616,1133847138,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,54
+617,1133847138,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing address register: 0x00000000 0x00000000,54
+618,1133847138,R12-M0-N0,R12,M0,N0,J12-U01,computation,General Purpose Registers:,54
+619,1133847138,R12-M0-N0,R12,M0,N0,J12-U01,computation,r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48,54
+620,1133847138,R12-M0-N0,R12,M0,N0,J12-U01,computation,r04=0xffff3474 r05=0x33333300 r06=0x0002e9cc r07=0x00030000,54
+621,1133847139,R12-M0-N0,R12,M0,N0,J12-U01,computation,r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c,54
+622,1133847139,R12-M0-N0,R12,M0,N0,J12-U01,computation,r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff,54
+623,1133847139,R12-M0-N0,R12,M0,N0,J12-U01,computation,r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000,54
+624,1133847139,R12-M0-N0,R12,M0,N0,J12-U01,computation,r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000,54
+625,1133847139,R12-M0-N0,R12,M0,N0,J12-U01,computation,r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000,54
+626,1133847139,R12-M0-N0,R12,M0,N0,J12-U01,computation,r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74,54
+627,1133847139,R12-M0-N0,R12,M0,N0,J12-U01,computation,Special Purpose Registers:,54
+628,1133847139,R12-M0-N0,R12,M0,N0,J12-U01,computation,lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000,54
+629,1133847140,R12-M0-N0,R12,M0,N0,J12-U01,computation,msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000,54
+630,1133847140,R12-M0-N0,R12,M0,N0,J12-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,54
+631,1133847140,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Status and Control Register: 0x00000000,54
+632,1133847140,R12-M0-N0,R12,M0,N0,J12-U01,computation,exception summary........................0,54
+633,1133847140,R12-M0-N0,R12,M0,N0,J12-U01,computation,enabled exception summary................0,54
+634,1133847140,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception summary......0,54
+635,1133847140,R12-M0-N0,R12,M0,N0,J12-U01,computation,overflow exception.......................0,54
+636,1133847141,R12-M0-N0,R12,M0,N0,J12-U01,computation,underflow exception......................0,54
+637,1133847141,R12-M0-N0,R12,M0,N0,J12-U01,computation,divide-by-zero exception.................0,54
+638,1133847141,R12-M0-N0,R12,M0,N0,J12-U01,computation,inexact exception........................0,54
+639,1133847141,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (SNAN)...........................0,54
+640,1133847141,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf-Inf)........................0,54
+641,1133847141,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Inf)........................0,54
+642,1133847142,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Zero/Zero)......................0,54
+643,1133847142,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Zero).......................0,54
+644,1133847142,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (compare)........................0,54
+645,1133847142,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction rounded.........................0,54
+646,1133847142,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction inexact.........................0,54
+647,1133847142,R12-M0-N0,R12,M0,N0,J12-U01,computation,quiet NaN................................0,54
+648,1133847142,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus inf................................0,54
+649,1133847142,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus normalized number..................0,54
+650,1133847143,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus denormalized number................0,54
+651,1133847143,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus zero...............................0,54
+652,1133847143,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus zero................................0,54
+653,1133847143,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus denormalized number.................0,54
+654,1133847143,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus normalized number...................0,54
+655,1133847143,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus infinity............................0,54
+656,1133847144,R12-M0-N0,R12,M0,N0,J12-U01,computation,reserved.................................0,54
+657,1133847144,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (software)...0,54
+658,1133847144,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (sqrt).......0,54
+659,1133847144,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (int cnvt)...0,54
+660,1133847144,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable invalid operation exceptions......0,54
+661,1133847144,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable overflow exceptions...............0,54
+662,1133847144,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable underflow exceptions..............0,54
+663,1133847145,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable divide-by-zero exceptions.........0,54
+664,1133847145,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable inexact exceptions................0,54
+665,1133847145,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable non-IEEE mode.....................0,54
+666,1133847145,R12-M0-N0,R12,M0,N0,J12-U01,computation,round nearest............................0,54
+667,1133847145,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward zero........................0,54
+668,1133847145,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward +infinity...................0,54
+669,1133847145,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward -infinity...................0,54
+670,1133847145,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Registers:,54
+671,1133847146,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr0=0xffffffff ffffffff ffffffff ffffffff,54
+672,1133847146,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr1=0xffffffff ffffffff ffffffff ffffffff,54
+673,1133847146,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr2=0xffffffff ffffffff ffffffff ffffffff,54
+674,1133847146,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr3=0xffffffff ffffffff ffffffff ffffffff,54
+675,1133847146,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr4=0xffffffff ffffffff ffffffff ffffffff,54
+676,1133847146,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr5=0xffffffff ffffffff ffffffff ffffffff,54
+677,1133847147,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr6=0xffffffff ffffffff ffffffff ffffffff,54
+678,1133847147,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr7=0xffffffff ffffffff ffffffff ffffffff,54
+679,1133847147,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr8=0xffffffff ffffffff ffffffff ffffffff,54
+680,1133847147,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr9=0xffffffff ffffffff ffffffff ffffffff,54
+681,1133847147,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr10=0xffffffff ffffffff ffffffff ffffffff,54
+682,1133847147,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr11=0xffffffff ffffffff ffffffff ffffffff,54
+683,1133847147,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr12=0xffffffff ffffffff ffffffff ffffffff,54
+684,1133847148,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr13=0xffffffff ffffffff ffffffff ffffffff,54
+685,1133847148,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr14=0xffffffff ffffffff ffffffff ffffffff,54
+686,1133847148,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr15=0xffffffff ffffffff ffffffff ffffffff,54
+687,1133847148,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr16=0xffffffff ffffffff ffffffff ffffffff,54
+688,1133847148,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr17=0xffffffff ffffffff ffffffff ffffffff,54
+689,1133847148,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr18=0xffffffff ffffffff ffffffff ffffffff,54
+690,1133847148,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr19=0xffffffff ffffffff ffffffff ffffffff,54
+691,1133847149,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr20=0xffffffff ffffffff ffffffff ffffffff,54
+692,1133847149,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr21=0xffffffff ffffffff ffffffff ffffffff,54
+693,1133847149,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr22=0xffffffff ffffffff ffffffff ffffffff,54
+694,1133847149,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr23=0xffffffff ffffffff ffffffff ffffffff,54
+695,1133847149,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr24=0xffffffff ffffffff ffffffff ffffffff,54
+696,1133847149,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr25=0xffffffff ffffffff ffffffff ffffffff,54
+697,1133847149,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr26=0xffffffff ffffffff ffffffff ffffffff,54
+698,1133847150,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr27=0xffffffff ffffffff ffffffff ffffffff,54
+699,1133847150,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr28=0xffffffff ffffffff ffffffff ffffffff,54
+700,1133847150,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr29=0xffffffff ffffffff ffffffff ffffffff,54
+701,1133847150,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr30=0xffffffff ffffffff ffffffff ffffffff,54
+702,1133847150,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr31=0xffffffff ffffffff ffffffff ffffffff,54
+703,1133847150,R12-M0-N0,R12,M0,N0,J12-U01,computation,rts panic! - stopping execution,54
+704,1133847417,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine Check Status Register: 0xa0800000,55
+705,1133847417,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check summary.............1,55
+706,1133847417,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction plb error.............0,55
+707,1133847417,R12-M0-N0,R12,M0,N0,J12-U01,computation,data read plb error...............1,55
+708,1133847417,R12-M0-N0,R12,M0,N0,J12-U01,computation,data write plb error..............0,55
+709,1133847418,R12-M0-N0,R12,M0,N0,J12-U01,computation,tlb error.........................0,55
+710,1133847418,R12-M0-N0,R12,M0,N0,J12-U01,computation,i-cache parity error..............0,55
+711,1133847418,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache search parity error.......0,55
+712,1133847418,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache flush parity error........0,55
+713,1133847418,R12-M0-N0,R12,M0,N0,J12-U01,computation,imprecise machine check...........1,55
+714,1133847419,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine State Register: 0x00003000,55
+715,1133847419,R12-M0-N0,R12,M0,N0,J12-U01,computation,wait state enable.................0,55
+716,1133847419,R12-M0-N0,R12,M0,N0,J12-U01,computation,critical input interrupt enable...0,55
+717,1133847419,R12-M0-N0,R12,M0,N0,J12-U01,computation,external input interrupt enable...0,55
+718,1133847419,R12-M0-N0,R12,M0,N0,J12-U01,computation,problem state (0=sup,55
+719,1133847419,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating point instr. enabled.....1,55
+720,1133847419,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check enable..............1,55
+721,1133847420,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 0 enable......0,55
+722,1133847420,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug wait enable.................0,55
+723,1133847420,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug interrupt enable............0,55
+724,1133847420,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 1 enable......0,55
+725,1133847420,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction address space.........0,55
+726,1133847420,R12-M0-N0,R12,M0,N0,J12-U01,computation,data address space................0,55
+727,1133847420,R12-M0-N0,R12,M0,N0,J12-U01,computation,Core Configuration Register 0: 0x00002000,55
+728,1133847421,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable store gathering..................0,55
+729,1133847421,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable apu instruction broadcast........0,55
+730,1133847421,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable trace broadcast..................0,55
+731,1133847421,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed instruction cache block touch.0,55
+732,1133847421,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed data cache block touch........1,55
+733,1133847421,R12-M0-N0,R12,M0,N0,J12-U01,computation,force load/store alignment...............0,55
+734,1133847422,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch depth....................0,55
+735,1133847422,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch threshold................0,55
+736,1133847422,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 global control register: 0x001249f0,55
+737,1133847422,R12-M0-N0,R12,M0,N0,J12-U01,computation,start initialization.....................0,55
+738,1133847422,R12-M0-N0,R12,M0,N0,J12-U01,computation,start retagging..........................0,55
+739,1133847422,R12-M0-N0,R12,M0,N0,J12-U01,computation,start flushing...........................0,55
+740,1133847422,R12-M0-N0,R12,M0,N0,J12-U01,computation,start prefetching........................0,55
+741,1133847423,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable speculative access...............0,55
+742,1133847423,R12-M0-N0,R12,M0,N0,J12-U01,computation,close EDRAM pages as soon as possible....0,55
+743,1133847423,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of scratchpad portion of L3.........0 (0M),55
+744,1133847423,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable all access to cache directory....0,55
+745,1133847423,R12-M0-N0,R12,M0,N0,J12-U01,computation,write buffer commit threshold............2,55
+746,1133847423,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of DDR we are caching...............1 (512M),55
+747,1133847424,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 0................1,55
+748,1133847424,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 1................1,55
+749,1133847424,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for PLB slave.............1,55
+750,1133847424,R12-M0-N0,R12,M0,N0,J12-U01,computation,max number of outstanding prefetches.....7,55
+751,1133847424,R12-M0-N0,R12,M0,N0,J12-U01,computation,turn on hidden refreshes.................1,55
+752,1133847424,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable write lines 2:4..................0,55
+753,1133847424,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc control register: 00000000,55
+754,1133847425,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory correctable error address..0,55
+755,1133847425,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory uncorrectable error address..0,55
+756,1133847425,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM correctable error address..0,55
+757,1133847425,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM uncorrectable error address..0,55
+758,1133847425,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM parity error address..0,55
+759,1133847425,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first DDR uncorrectable error address..0,55
+760,1133847425,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable flagging of DDR UE's as major internal error.0,55
+761,1133847426,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc status register: 00200000,55
+762,1133847426,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 0......0,55
+763,1133847426,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 1......0,55
+764,1133847426,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 0....0,55
+765,1133847427,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 1....0,55
+766,1133847427,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 0.....0,55
+767,1133847427,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 1.....0,55
+768,1133847427,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 0...0,55
+769,1133847427,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 1...0,55
+770,1133847427,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 0.........................0,55
+771,1133847427,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 1.........................0,55
+772,1133847428,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in external DDR...1,55
+773,1133847428,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 0...................0,55
+774,1133847428,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 1...................0,55
+775,1133847428,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue PLB.................0,55
+776,1133847428,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in write buffer...................0,55
+777,1133847428,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 directories...0,55
+778,1133847429,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,55
+779,1133847429,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 EDRAMs........0,55
+780,1133847429,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,55
+781,1133847429,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of lines with parity errors written to L3 EDRAMs...0,55
+782,1133847429,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR machine check register: 0x00000000 0x00010000,55
+783,1133847429,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory and bus summary...........................0,55
+784,1133847430,R12-M0-N0,R12,M0,N0,J12-U01,computation,command manager unit summary.....................0,55
+785,1133847430,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager uncorrectable error...............1,55
+786,1133847430,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager strobe gate.......................0,55
+787,1133847430,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address parity error..............0,55
+788,1133847430,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager miscompare........................0,55
+789,1133847430,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address error.....................0,55
+790,1133847430,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager store buffer parity...............0,55
+791,1133847431,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager RMW buffer parity.................0,55
+792,1133847431,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh...........................0,55
+793,1133847431,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh counter timeout...........0,55
+794,1133847431,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh contention................0,55
+795,1133847431,R12-M0-N0,R12,M0,N0,J12-U01,computation,state machine....................................0,55
+796,1133847431,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager / command manager address parity..0,55
+797,1133847431,R12-M0-N0,R12,M0,N0,J12-U01,computation,regctl scancom interface.........................0,55
+798,1133847432,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing info register: DDR Fail Info Register: 0x00000000,55
+799,1133847432,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture valid.........0,55
+800,1133847432,R12-M0-N0,R12,M0,N0,J12-U01,computation,symbol................0,55
+801,1133847432,R12-M0-N0,R12,M0,N0,J12-U01,computation,mask..................0x00,55
+802,1133847432,R12-M0-N0,R12,M0,N0,J12-U01,computation,miscompare............0,55
+803,1133847432,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error...0,55
+804,1133847432,R12-M0-N0,R12,M0,N0,J12-U01,computation,address parity error..0,55
+805,1133847433,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error.....0,55
+806,1133847433,R12-M0-N0,R12,M0,N0,J12-U01,computation,qw trapped............0,55
+807,1133847433,R12-M0-N0,R12,M0,N0,J12-U01,computation,chip select...........0,55
+808,1133847433,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing data registers: 0x00000000 0x00000000,55
+809,1133847433,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,55
+810,1133847433,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,55
+811,1133847434,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,55
+812,1133847434,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing address register: 0x00000000 0x00000000,55
+813,1133847434,R12-M0-N0,R12,M0,N0,J12-U01,computation,General Purpose Registers:,55
+814,1133847434,R12-M0-N0,R12,M0,N0,J12-U01,computation,r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef48,55
+815,1133847434,R12-M0-N0,R12,M0,N0,J12-U01,computation,r04=0xffff3474 r05=0x33333300 r06=0x0002e9cc r07=0x00030000,55
+816,1133847434,R12-M0-N0,R12,M0,N0,J12-U01,computation,r08=0x0000ef48 r09=0x00070000 r10=0x000000e0 r11=0x0008885c,55
+817,1133847434,R12-M0-N0,R12,M0,N0,J12-U01,computation,r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff,55
+818,1133847435,R12-M0-N0,R12,M0,N0,J12-U01,computation,r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000,55
+819,1133847435,R12-M0-N0,R12,M0,N0,J12-U01,computation,r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000,55
+820,1133847435,R12-M0-N0,R12,M0,N0,J12-U01,computation,r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000,55
+821,1133847435,R12-M0-N0,R12,M0,N0,J12-U01,computation,r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74,55
+822,1133847435,R12-M0-N0,R12,M0,N0,J12-U01,computation,Special Purpose Registers:,55
+823,1133847435,R12-M0-N0,R12,M0,N0,J12-U01,computation,lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000,55
+824,1133847435,R12-M0-N0,R12,M0,N0,J12-U01,computation,msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000,55
+825,1133847435,R12-M0-N0,R12,M0,N0,J12-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,55
+826,1133847436,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Status and Control Register: 0x00000000,55
+827,1133847436,R12-M0-N0,R12,M0,N0,J12-U01,computation,exception summary........................0,55
+828,1133847436,R12-M0-N0,R12,M0,N0,J12-U01,computation,enabled exception summary................0,55
+829,1133847436,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception summary......0,55
+830,1133847436,R12-M0-N0,R12,M0,N0,J12-U01,computation,overflow exception.......................0,55
+831,1133847436,R12-M0-N0,R12,M0,N0,J12-U01,computation,underflow exception......................0,55
+832,1133847437,R12-M0-N0,R12,M0,N0,J12-U01,computation,divide-by-zero exception.................0,55
+833,1133847437,R12-M0-N0,R12,M0,N0,J12-U01,computation,inexact exception........................0,55
+834,1133847437,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (SNAN)...........................0,55
+835,1133847437,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf-Inf)........................0,55
+836,1133847437,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Inf)........................0,55
+837,1133847437,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Zero/Zero)......................0,55
+838,1133847437,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Zero).......................0,55
+839,1133847438,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (compare)........................0,55
+840,1133847438,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction rounded.........................0,55
+841,1133847438,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction inexact.........................0,55
+842,1133847438,R12-M0-N0,R12,M0,N0,J12-U01,computation,quiet NaN................................0,55
+843,1133847438,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus inf................................0,55
+844,1133847438,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus normalized number..................0,55
+845,1133847438,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus denormalized number................0,55
+846,1133847439,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus zero...............................0,55
+847,1133847439,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus zero................................0,55
+848,1133847439,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus denormalized number.................0,55
+849,1133847439,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus normalized number...................0,55
+850,1133847439,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus infinity............................0,55
+851,1133847439,R12-M0-N0,R12,M0,N0,J12-U01,computation,reserved.................................0,55
+852,1133847439,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (software)...0,55
+853,1133847440,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (sqrt).......0,55
+854,1133847440,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (int cnvt)...0,55
+855,1133847440,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable invalid operation exceptions......0,55
+856,1133847440,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable overflow exceptions...............0,55
+857,1133847440,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable underflow exceptions..............0,55
+858,1133847440,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable divide-by-zero exceptions.........0,55
+859,1133847440,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable inexact exceptions................0,55
+860,1133847440,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable non-IEEE mode.....................0,55
+861,1133847441,R12-M0-N0,R12,M0,N0,J12-U01,computation,round nearest............................0,55
+862,1133847441,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward zero........................0,55
+863,1133847441,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward +infinity...................0,55
+864,1133847441,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward -infinity...................0,55
+865,1133847441,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Registers:,55
+866,1133847441,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr0=0xffffffff ffffffff ffffffff ffffffff,55
+867,1133847441,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr1=0xffffffff ffffffff ffffffff ffffffff,55
+868,1133847442,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr2=0xffffffff ffffffff ffffffff ffffffff,55
+869,1133847442,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr3=0xffffffff ffffffff ffffffff ffffffff,55
+870,1133847442,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr4=0xffffffff ffffffff ffffffff ffffffff,55
+871,1133847442,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr5=0xffffffff ffffffff ffffffff ffffffff,55
+872,1133847442,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr6=0xffffffff ffffffff ffffffff ffffffff,55
+873,1133847442,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr7=0xffffffff ffffffff ffffffff ffffffff,55
+874,1133847442,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr8=0xffffffff ffffffff ffffffff ffffffff,55
+875,1133847442,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr9=0xffffffff ffffffff ffffffff ffffffff,55
+876,1133847443,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr10=0xffffffff ffffffff ffffffff ffffffff,55
+877,1133847443,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr11=0xffffffff ffffffff ffffffff ffffffff,55
+878,1133847443,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr12=0xffffffff ffffffff ffffffff ffffffff,55
+879,1133847443,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr13=0xffffffff ffffffff ffffffff ffffffff,55
+880,1133847443,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr14=0xffffffff ffffffff ffffffff ffffffff,55
+881,1133847443,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr15=0xffffffff ffffffff ffffffff ffffffff,55
+882,1133847444,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr16=0xffffffff ffffffff ffffffff ffffffff,55
+883,1133847444,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr17=0xffffffff ffffffff ffffffff ffffffff,55
+884,1133847444,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr18=0xffffffff ffffffff ffffffff ffffffff,55
+885,1133847444,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr19=0xffffffff ffffffff ffffffff ffffffff,55
+886,1133847444,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr20=0xffffffff ffffffff ffffffff ffffffff,55
+887,1133847444,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr21=0xffffffff ffffffff ffffffff ffffffff,55
+888,1133847444,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr22=0xffffffff ffffffff ffffffff ffffffff,55
+889,1133847445,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr23=0xffffffff ffffffff ffffffff ffffffff,55
+890,1133847445,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr24=0xffffffff ffffffff ffffffff ffffffff,55
+891,1133847445,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr25=0xffffffff ffffffff ffffffff ffffffff,55
+892,1133847445,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr26=0xffffffff ffffffff ffffffff ffffffff,55
+893,1133847445,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr27=0xffffffff ffffffff ffffffff ffffffff,55
+894,1133847445,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr28=0xffffffff ffffffff ffffffff ffffffff,55
+895,1133847445,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr29=0xffffffff ffffffff ffffffff ffffffff,55
+896,1133847446,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr30=0xffffffff ffffffff ffffffff ffffffff,55
+897,1133847446,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr31=0xffffffff ffffffff ffffffff ffffffff,55
+898,1133847446,R12-M0-N0,R12,M0,N0,J12-U01,computation,rts panic! - stopping execution,55
+899,1133875981,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine Check Status Register: 0xa0800000,56
+900,1133875981,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check summary.............1,56
+901,1133875981,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction plb error.............0,56
+902,1133875981,R12-M0-N0,R12,M0,N0,J12-U01,computation,data read plb error...............1,56
+903,1133875982,R12-M0-N0,R12,M0,N0,J12-U01,computation,data write plb error..............0,56
+904,1133875982,R12-M0-N0,R12,M0,N0,J12-U01,computation,tlb error.........................0,56
+905,1133875982,R12-M0-N0,R12,M0,N0,J12-U01,computation,i-cache parity error..............0,56
+906,1133875982,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache search parity error.......0,56
+907,1133875982,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache flush parity error........0,56
+908,1133875982,R12-M0-N0,R12,M0,N0,J12-U01,computation,imprecise machine check...........1,56
+909,1133875982,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine State Register: 0x00003000,56
+910,1133875983,R12-M0-N0,R12,M0,N0,J12-U01,computation,wait state enable.................0,56
+911,1133875983,R12-M0-N0,R12,M0,N0,J12-U01,computation,critical input interrupt enable...0,56
+912,1133875983,R12-M0-N0,R12,M0,N0,J12-U01,computation,external input interrupt enable...0,56
+913,1133875983,R12-M0-N0,R12,M0,N0,J12-U01,computation,problem state (0=sup,56
+914,1133875983,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating point instr. enabled.....1,56
+915,1133875983,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check enable..............1,56
+916,1133875983,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 0 enable......0,56
+917,1133875983,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug wait enable.................0,56
+918,1133875984,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug interrupt enable............0,56
+919,1133875984,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 1 enable......0,56
+920,1133875984,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction address space.........0,56
+921,1133875984,R12-M0-N0,R12,M0,N0,J12-U01,computation,data address space................0,56
+922,1133875984,R12-M0-N0,R12,M0,N0,J12-U01,computation,Core Configuration Register 0: 0x00002000,56
+923,1133875984,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable store gathering..................0,56
+924,1133875984,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable apu instruction broadcast........0,56
+925,1133875985,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable trace broadcast..................0,56
+926,1133875985,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed instruction cache block touch.0,56
+927,1133875985,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed data cache block touch........1,56
+928,1133875985,R12-M0-N0,R12,M0,N0,J12-U01,computation,force load/store alignment...............0,56
+929,1133875985,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch depth....................0,56
+930,1133875985,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch threshold................0,56
+931,1133875985,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 global control register: 0x001249f0,56
+932,1133875986,R12-M0-N0,R12,M0,N0,J12-U01,computation,start initialization.....................0,56
+933,1133875986,R12-M0-N0,R12,M0,N0,J12-U01,computation,start retagging..........................0,56
+934,1133875986,R12-M0-N0,R12,M0,N0,J12-U01,computation,start flushing...........................0,56
+935,1133875986,R12-M0-N0,R12,M0,N0,J12-U01,computation,start prefetching........................0,56
+936,1133875986,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable speculative access...............0,56
+937,1133875986,R12-M0-N0,R12,M0,N0,J12-U01,computation,close EDRAM pages as soon as possible....0,56
+938,1133875987,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of scratchpad portion of L3.........0 (0M),56
+939,1133875987,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable all access to cache directory....0,56
+940,1133875987,R12-M0-N0,R12,M0,N0,J12-U01,computation,write buffer commit threshold............2,56
+941,1133875987,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of DDR we are caching...............1 (512M),56
+942,1133875987,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 0................1,56
+943,1133875987,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 1................1,56
+944,1133875987,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for PLB slave.............1,56
+945,1133875988,R12-M0-N0,R12,M0,N0,J12-U01,computation,max number of outstanding prefetches.....7,56
+946,1133875988,R12-M0-N0,R12,M0,N0,J12-U01,computation,turn on hidden refreshes.................1,56
+947,1133875988,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable write lines 2:4..................0,56
+948,1133875988,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc control register: 00000000,56
+949,1133875988,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory correctable error address..0,56
+950,1133875988,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory uncorrectable error address..0,56
+951,1133875988,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM correctable error address..0,56
+952,1133875988,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM uncorrectable error address..0,56
+953,1133875989,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM parity error address..0,56
+954,1133875989,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first DDR uncorrectable error address..0,56
+955,1133875989,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable flagging of DDR UE's as major internal error.0,56
+956,1133875989,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc status register: 00200000,56
+957,1133875989,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 0......0,56
+958,1133875989,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 1......0,56
+959,1133875989,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 0....0,56
+960,1133875990,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 1....0,56
+961,1133875990,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 0.....0,56
+962,1133875990,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 1.....0,56
+963,1133875990,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 0...0,56
+964,1133875990,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 1...0,56
+965,1133875991,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 0.........................0,56
+966,1133875991,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 1.........................0,56
+967,1133875991,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in external DDR...1,56
+968,1133875991,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 0...................0,56
+969,1133875991,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 1...................0,56
+970,1133875991,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue PLB.................0,56
+971,1133875992,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in write buffer...................0,56
+972,1133875992,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 directories...0,56
+973,1133875992,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,56
+974,1133875992,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 EDRAMs........0,56
+975,1133875992,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,56
+976,1133875992,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of lines with parity errors written to L3 EDRAMs...0,56
+977,1133875992,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR machine check register: 0x00000000 0x00010000,56
+978,1133875993,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory and bus summary...........................0,56
+979,1133875993,R12-M0-N0,R12,M0,N0,J12-U01,computation,command manager unit summary.....................0,56
+980,1133875993,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager uncorrectable error...............1,56
+981,1133875993,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager strobe gate.......................0,56
+982,1133875993,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address parity error..............0,56
+983,1133875993,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager miscompare........................0,56
+984,1133875993,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address error.....................0,56
+985,1133875994,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager store buffer parity...............0,56
+986,1133875994,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager RMW buffer parity.................0,56
+987,1133875994,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh...........................0,56
+988,1133875994,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh counter timeout...........0,56
+989,1133875994,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh contention................0,56
+990,1133875994,R12-M0-N0,R12,M0,N0,J12-U01,computation,state machine....................................0,56
+991,1133875994,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager / command manager address parity..0,56
+992,1133875994,R12-M0-N0,R12,M0,N0,J12-U01,computation,regctl scancom interface.........................0,56
+993,1133875995,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing info register: DDR Fail Info Register: 0x00000000,56
+994,1133875995,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture valid.........0,56
+995,1133875995,R12-M0-N0,R12,M0,N0,J12-U01,computation,symbol................0,56
+996,1133875995,R12-M0-N0,R12,M0,N0,J12-U01,computation,mask..................0x00,56
+997,1133875995,R12-M0-N0,R12,M0,N0,J12-U01,computation,miscompare............0,56
+998,1133875995,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error...0,56
+999,1133875995,R12-M0-N0,R12,M0,N0,J12-U01,computation,address parity error..0,56
+1000,1133875996,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error.....0,56
+1001,1133875996,R12-M0-N0,R12,M0,N0,J12-U01,computation,qw trapped............0,56
+1002,1133875996,R12-M0-N0,R12,M0,N0,J12-U01,computation,chip select...........0,56
+1003,1133875996,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing data registers: 0x00000000 0x00000000,56
+1004,1133875996,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,56
+1005,1133875996,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,56
+1006,1133875997,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,56
+1007,1133875997,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing address register: 0x00000000 0x00000000,56
+1008,1133875997,R12-M0-N0,R12,M0,N0,J12-U01,computation,General Purpose Registers:,56
+1009,1133875997,R12-M0-N0,R12,M0,N0,J12-U01,computation,r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef58,56
+1010,1133875997,R12-M0-N0,R12,M0,N0,J12-U01,computation,r04=0xffff3470 r05=0x33333300 r06=0x0002ea00 r07=0x00030000,56
+1011,1133875997,R12-M0-N0,R12,M0,N0,J12-U01,computation,r08=0x0000ef58 r09=0x00070000 r10=0x000000e0 r11=0x0008885c,56
+1012,1133875997,R12-M0-N0,R12,M0,N0,J12-U01,computation,r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff,56
+1013,1133875998,R12-M0-N0,R12,M0,N0,J12-U01,computation,r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000,56
+1014,1133875998,R12-M0-N0,R12,M0,N0,J12-U01,computation,r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000,56
+1015,1133875998,R12-M0-N0,R12,M0,N0,J12-U01,computation,r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000,56
+1016,1133875998,R12-M0-N0,R12,M0,N0,J12-U01,computation,r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74,56
+1017,1133875998,R12-M0-N0,R12,M0,N0,J12-U01,computation,Special Purpose Registers:,56
+1018,1133875998,R12-M0-N0,R12,M0,N0,J12-U01,computation,lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000,56
+1019,1133875998,R12-M0-N0,R12,M0,N0,J12-U01,computation,msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000,56
+1020,1133875999,R12-M0-N0,R12,M0,N0,J12-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,56
+1021,1133875999,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Status and Control Register: 0x00000000,56
+1022,1133875999,R12-M0-N0,R12,M0,N0,J12-U01,computation,exception summary........................0,56
+1023,1133875999,R12-M0-N0,R12,M0,N0,J12-U01,computation,enabled exception summary................0,56
+1024,1133875999,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception summary......0,56
+1025,1133875999,R12-M0-N0,R12,M0,N0,J12-U01,computation,overflow exception.......................0,56
+1026,1133875999,R12-M0-N0,R12,M0,N0,J12-U01,computation,underflow exception......................0,56
+1027,1133875999,R12-M0-N0,R12,M0,N0,J12-U01,computation,divide-by-zero exception.................0,56
+1028,1133876000,R12-M0-N0,R12,M0,N0,J12-U01,computation,inexact exception........................0,56
+1029,1133876000,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (SNAN)...........................0,56
+1030,1133876000,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf-Inf)........................0,56
+1031,1133876000,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Inf)........................0,56
+1032,1133876000,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Zero/Zero)......................0,56
+1033,1133876000,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Zero).......................0,56
+1034,1133876000,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (compare)........................0,56
+1035,1133876001,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction rounded.........................0,56
+1036,1133876001,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction inexact.........................0,56
+1037,1133876001,R12-M0-N0,R12,M0,N0,J12-U01,computation,quiet NaN................................0,56
+1038,1133876001,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus inf................................0,56
+1039,1133876001,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus normalized number..................0,56
+1040,1133876001,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus denormalized number................0,56
+1041,1133876002,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus zero...............................0,56
+1042,1133876002,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus zero................................0,56
+1043,1133876002,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus denormalized number.................0,56
+1044,1133876002,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus normalized number...................0,56
+1045,1133876002,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus infinity............................0,56
+1046,1133876002,R12-M0-N0,R12,M0,N0,J12-U01,computation,reserved.................................0,56
+1047,1133876002,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (software)...0,56
+1048,1133876003,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (sqrt).......0,56
+1049,1133876003,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (int cnvt)...0,56
+1050,1133876003,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable invalid operation exceptions......0,56
+1051,1133876003,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable overflow exceptions...............0,56
+1052,1133876003,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable underflow exceptions..............0,56
+1053,1133876003,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable divide-by-zero exceptions.........0,56
+1054,1133876003,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable inexact exceptions................0,56
+1055,1133876003,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable non-IEEE mode.....................0,56
+1056,1133876004,R12-M0-N0,R12,M0,N0,J12-U01,computation,round nearest............................0,56
+1057,1133876004,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward zero........................0,56
+1058,1133876004,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward +infinity...................0,56
+1059,1133876004,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward -infinity...................0,56
+1060,1133876004,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Registers:,56
+1061,1133876004,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr0=0xffffffff ffffffff ffffffff ffffffff,56
+1062,1133876004,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr1=0xffffffff ffffffff ffffffff ffffffff,56
+1063,1133876004,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr2=0xffffffff ffffffff ffffffff ffffffff,56
+1064,1133876005,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr3=0xffffffff ffffffff ffffffff ffffffff,56
+1065,1133876005,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr4=0xffffffff ffffffff ffffffff ffffffff,56
+1066,1133876005,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr5=0xffffffff ffffffff ffffffff ffffffff,56
+1067,1133876005,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr6=0xffffffff ffffffff ffffffff ffffffff,56
+1068,1133876005,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr7=0xffffffff ffffffff ffffffff ffffffff,56
+1069,1133876005,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr8=0xffffffff ffffffff ffffffff ffffffff,56
+1070,1133876006,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr9=0xffffffff ffffffff ffffffff ffffffff,56
+1071,1133876006,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr10=0xffffffff ffffffff ffffffff ffffffff,56
+1072,1133876006,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr11=0xffffffff ffffffff ffffffff ffffffff,56
+1073,1133876006,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr12=0xffffffff ffffffff ffffffff ffffffff,56
+1074,1133876006,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr13=0xffffffff ffffffff ffffffff ffffffff,56
+1075,1133876006,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr14=0xffffffff ffffffff ffffffff ffffffff,56
+1076,1133876007,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr15=0xffffffff ffffffff ffffffff ffffffff,56
+1077,1133876007,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr16=0xffffffff ffffffff ffffffff ffffffff,56
+1078,1133876007,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr17=0xffffffff ffffffff ffffffff ffffffff,56
+1079,1133876007,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr18=0xffffffff ffffffff ffffffff ffffffff,56
+1080,1133876007,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr19=0xffffffff ffffffff ffffffff ffffffff,56
+1081,1133876007,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr20=0xffffffff ffffffff ffffffff ffffffff,56
+1082,1133876007,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr21=0xffffffff ffffffff ffffffff ffffffff,56
+1083,1133876008,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr22=0xffffffff ffffffff ffffffff ffffffff,56
+1084,1133876008,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr23=0xffffffff ffffffff ffffffff ffffffff,56
+1085,1133876008,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr24=0xffffffff ffffffff ffffffff ffffffff,56
+1086,1133876008,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr25=0xffffffff ffffffff ffffffff ffffffff,56
+1087,1133876008,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr26=0xffffffff ffffffff ffffffff ffffffff,56
+1088,1133876008,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr27=0xffffffff ffffffff ffffffff ffffffff,56
+1089,1133876008,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr28=0xffffffff ffffffff ffffffff ffffffff,56
+1090,1133876009,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr29=0xffffffff ffffffff ffffffff ffffffff,56
+1091,1133876009,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr30=0xffffffff ffffffff ffffffff ffffffff,56
+1092,1133876009,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr31=0xffffffff ffffffff ffffffff ffffffff,56
+1093,1133876009,R12-M0-N0,R12,M0,N0,J12-U01,computation,rts panic! - stopping execution,56
+1094,1133876206,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine Check Status Register: 0xa0800000,57
+1095,1133876206,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check summary.............1,57
+1096,1133876206,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction plb error.............0,57
+1097,1133876206,R12-M0-N0,R12,M0,N0,J12-U01,computation,data read plb error...............1,57
+1098,1133876206,R12-M0-N0,R12,M0,N0,J12-U01,computation,data write plb error..............0,57
+1099,1133876207,R12-M0-N0,R12,M0,N0,J12-U01,computation,tlb error.........................0,57
+1100,1133876207,R12-M0-N0,R12,M0,N0,J12-U01,computation,i-cache parity error..............0,57
+1101,1133876207,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache search parity error.......0,57
+1102,1133876207,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache flush parity error........0,57
+1103,1133876207,R12-M0-N0,R12,M0,N0,J12-U01,computation,imprecise machine check...........1,57
+1104,1133876207,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine State Register: 0x00003000,57
+1105,1133876207,R12-M0-N0,R12,M0,N0,J12-U01,computation,wait state enable.................0,57
+1106,1133876208,R12-M0-N0,R12,M0,N0,J12-U01,computation,critical input interrupt enable...0,57
+1107,1133876208,R12-M0-N0,R12,M0,N0,J12-U01,computation,external input interrupt enable...0,57
+1108,1133876208,R12-M0-N0,R12,M0,N0,J12-U01,computation,problem state (0=sup,57
+1109,1133876208,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating point instr. enabled.....1,57
+1110,1133876208,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check enable..............1,57
+1111,1133876208,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 0 enable......0,57
+1112,1133876208,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug wait enable.................0,57
+1113,1133876208,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug interrupt enable............0,57
+1114,1133876209,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 1 enable......0,57
+1115,1133876209,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction address space.........0,57
+1116,1133876209,R12-M0-N0,R12,M0,N0,J12-U01,computation,data address space................0,57
+1117,1133876209,R12-M0-N0,R12,M0,N0,J12-U01,computation,Core Configuration Register 0: 0x00002000,57
+1118,1133876209,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable store gathering..................0,57
+1119,1133876209,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable apu instruction broadcast........0,57
+1120,1133876209,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable trace broadcast..................0,57
+1121,1133876210,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed instruction cache block touch.0,57
+1122,1133876210,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed data cache block touch........1,57
+1123,1133876210,R12-M0-N0,R12,M0,N0,J12-U01,computation,force load/store alignment...............0,57
+1124,1133876210,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch depth....................0,57
+1125,1133876210,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch threshold................0,57
+1126,1133876210,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 global control register: 0x001249f0,57
+1127,1133876210,R12-M0-N0,R12,M0,N0,J12-U01,computation,start initialization.....................0,57
+1128,1133876211,R12-M0-N0,R12,M0,N0,J12-U01,computation,start retagging..........................0,57
+1129,1133876211,R12-M0-N0,R12,M0,N0,J12-U01,computation,start flushing...........................0,57
+1130,1133876211,R12-M0-N0,R12,M0,N0,J12-U01,computation,start prefetching........................0,57
+1131,1133876211,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable speculative access...............0,57
+1132,1133876211,R12-M0-N0,R12,M0,N0,J12-U01,computation,close EDRAM pages as soon as possible....0,57
+1133,1133876211,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of scratchpad portion of L3.........0 (0M),57
+1134,1133876212,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable all access to cache directory....0,57
+1135,1133876212,R12-M0-N0,R12,M0,N0,J12-U01,computation,write buffer commit threshold............2,57
+1136,1133876212,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of DDR we are caching...............1 (512M),57
+1137,1133876212,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 0................1,57
+1138,1133876212,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 1................1,57
+1139,1133876212,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for PLB slave.............1,57
+1140,1133876212,R12-M0-N0,R12,M0,N0,J12-U01,computation,max number of outstanding prefetches.....7,57
+1141,1133876212,R12-M0-N0,R12,M0,N0,J12-U01,computation,turn on hidden refreshes.................1,57
+1142,1133876213,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable write lines 2:4..................0,57
+1143,1133876213,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc control register: 00000000,57
+1144,1133876213,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory correctable error address..0,57
+1145,1133876213,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory uncorrectable error address..0,57
+1146,1133876213,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM correctable error address..0,57
+1147,1133876213,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM uncorrectable error address..0,57
+1148,1133876213,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM parity error address..0,57
+1149,1133876213,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first DDR uncorrectable error address..0,57
+1150,1133876214,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable flagging of DDR UE's as major internal error.0,57
+1151,1133876214,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc status register: 00200000,57
+1152,1133876214,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 0......0,57
+1153,1133876214,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 1......0,57
+1154,1133876214,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 0....0,57
+1155,1133876214,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 1....0,57
+1156,1133876214,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 0.....0,57
+1157,1133876214,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 1.....0,57
+1158,1133876215,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 0...0,57
+1159,1133876215,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 1...0,57
+1160,1133876215,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 0.........................0,57
+1161,1133876215,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 1.........................0,57
+1162,1133876215,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in external DDR...1,57
+1163,1133876215,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 0...................0,57
+1164,1133876215,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 1...................0,57
+1165,1133876215,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue PLB.................0,57
+1166,1133876216,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in write buffer...................0,57
+1167,1133876216,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 directories...0,57
+1168,1133876216,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,57
+1169,1133876216,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 EDRAMs........0,57
+1170,1133876216,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,57
+1171,1133876216,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of lines with parity errors written to L3 EDRAMs...0,57
+1172,1133876217,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR machine check register: 0x00000000 0x00010000,57
+1173,1133876217,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory and bus summary...........................0,57
+1174,1133876217,R12-M0-N0,R12,M0,N0,J12-U01,computation,command manager unit summary.....................0,57
+1175,1133876217,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager uncorrectable error...............1,57
+1176,1133876217,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager strobe gate.......................0,57
+1177,1133876217,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address parity error..............0,57
+1178,1133876217,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager miscompare........................0,57
+1179,1133876218,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address error.....................0,57
+1180,1133876218,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager store buffer parity...............0,57
+1181,1133876218,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager RMW buffer parity.................0,57
+1182,1133876218,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh...........................0,57
+1183,1133876218,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh counter timeout...........0,57
+1184,1133876218,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh contention................0,57
+1185,1133876218,R12-M0-N0,R12,M0,N0,J12-U01,computation,state machine....................................0,57
+1186,1133876218,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager / command manager address parity..0,57
+1187,1133876219,R12-M0-N0,R12,M0,N0,J12-U01,computation,regctl scancom interface.........................0,57
+1188,1133876219,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing info register: DDR Fail Info Register: 0x00000000,57
+1189,1133876219,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture valid.........0,57
+1190,1133876219,R12-M0-N0,R12,M0,N0,J12-U01,computation,symbol................0,57
+1191,1133876219,R12-M0-N0,R12,M0,N0,J12-U01,computation,mask..................0x00,57
+1192,1133876219,R12-M0-N0,R12,M0,N0,J12-U01,computation,miscompare............0,57
+1193,1133876219,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error...0,57
+1194,1133876219,R12-M0-N0,R12,M0,N0,J12-U01,computation,address parity error..0,57
+1195,1133876219,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error.....0,57
+1196,1133876220,R12-M0-N0,R12,M0,N0,J12-U01,computation,qw trapped............0,57
+1197,1133876220,R12-M0-N0,R12,M0,N0,J12-U01,computation,chip select...........0,57
+1198,1133876220,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing data registers: 0x00000000 0x00000000,57
+1199,1133876220,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,57
+1200,1133876220,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,57
+1201,1133876220,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,57
+1202,1133876220,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing address register: 0x00000000 0x00000000,57
+1203,1133876220,R12-M0-N0,R12,M0,N0,J12-U01,computation,General Purpose Registers:,57
+1204,1133876221,R12-M0-N0,R12,M0,N0,J12-U01,computation,r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef58,57
+1205,1133876221,R12-M0-N0,R12,M0,N0,J12-U01,computation,r04=0xffff3470 r05=0x33333300 r06=0x0002ea00 r07=0x00030000,57
+1206,1133876221,R12-M0-N0,R12,M0,N0,J12-U01,computation,r08=0x0000ef58 r09=0x00070000 r10=0x000000e0 r11=0x0008885c,57
+1207,1133876221,R12-M0-N0,R12,M0,N0,J12-U01,computation,r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff,57
+1208,1133876221,R12-M0-N0,R12,M0,N0,J12-U01,computation,r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000,57
+1209,1133876221,R12-M0-N0,R12,M0,N0,J12-U01,computation,r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000,57
+1210,1133876221,R12-M0-N0,R12,M0,N0,J12-U01,computation,r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000,57
+1211,1133876222,R12-M0-N0,R12,M0,N0,J12-U01,computation,r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74,57
+1212,1133876222,R12-M0-N0,R12,M0,N0,J12-U01,computation,Special Purpose Registers:,57
+1213,1133876222,R12-M0-N0,R12,M0,N0,J12-U01,computation,lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000,57
+1214,1133876222,R12-M0-N0,R12,M0,N0,J12-U01,computation,msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000,57
+1215,1133876222,R12-M0-N0,R12,M0,N0,J12-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,57
+1216,1133876222,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Status and Control Register: 0x00000000,57
+1217,1133876222,R12-M0-N0,R12,M0,N0,J12-U01,computation,exception summary........................0,57
+1218,1133876222,R12-M0-N0,R12,M0,N0,J12-U01,computation,enabled exception summary................0,57
+1219,1133876223,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception summary......0,57
+1220,1133876223,R12-M0-N0,R12,M0,N0,J12-U01,computation,overflow exception.......................0,57
+1221,1133876223,R12-M0-N0,R12,M0,N0,J12-U01,computation,underflow exception......................0,57
+1222,1133876223,R12-M0-N0,R12,M0,N0,J12-U01,computation,divide-by-zero exception.................0,57
+1223,1133876223,R12-M0-N0,R12,M0,N0,J12-U01,computation,inexact exception........................0,57
+1224,1133876223,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (SNAN)...........................0,57
+1225,1133876223,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf-Inf)........................0,57
+1226,1133876223,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Inf)........................0,57
+1227,1133876224,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Zero/Zero)......................0,57
+1228,1133876224,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Zero).......................0,57
+1229,1133876224,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (compare)........................0,57
+1230,1133876224,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction rounded.........................0,57
+1231,1133876224,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction inexact.........................0,57
+1232,1133876224,R12-M0-N0,R12,M0,N0,J12-U01,computation,quiet NaN................................0,57
+1233,1133876224,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus inf................................0,57
+1234,1133876224,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus normalized number..................0,57
+1235,1133876224,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus denormalized number................0,57
+1236,1133876225,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus zero...............................0,57
+1237,1133876225,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus zero................................0,57
+1238,1133876225,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus denormalized number.................0,57
+1239,1133876225,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus normalized number...................0,57
+1240,1133876225,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus infinity............................0,57
+1241,1133876225,R12-M0-N0,R12,M0,N0,J12-U01,computation,reserved.................................0,57
+1242,1133876225,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (software)...0,57
+1243,1133876225,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (sqrt).......0,57
+1244,1133876226,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (int cnvt)...0,57
+1245,1133876226,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable invalid operation exceptions......0,57
+1246,1133876226,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable overflow exceptions...............0,57
+1247,1133876226,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable underflow exceptions..............0,57
+1248,1133876226,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable divide-by-zero exceptions.........0,57
+1249,1133876226,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable inexact exceptions................0,57
+1250,1133876227,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable non-IEEE mode.....................0,57
+1251,1133876227,R12-M0-N0,R12,M0,N0,J12-U01,computation,round nearest............................0,57
+1252,1133876227,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward zero........................0,57
+1253,1133876227,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward +infinity...................0,57
+1254,1133876227,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward -infinity...................0,57
+1255,1133876227,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Registers:,57
+1256,1133876227,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr0=0xffffffff ffffffff ffffffff ffffffff,57
+1257,1133876228,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr1=0xffffffff ffffffff ffffffff ffffffff,57
+1258,1133876228,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr2=0xffffffff ffffffff ffffffff ffffffff,57
+1259,1133876228,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr3=0xffffffff ffffffff ffffffff ffffffff,57
+1260,1133876228,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr4=0xffffffff ffffffff ffffffff ffffffff,57
+1261,1133876228,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr5=0xffffffff ffffffff ffffffff ffffffff,57
+1262,1133876228,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr6=0xffffffff ffffffff ffffffff ffffffff,57
+1263,1133876228,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr7=0xffffffff ffffffff ffffffff ffffffff,57
+1264,1133876228,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr8=0xffffffff ffffffff ffffffff ffffffff,57
+1265,1133876228,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr9=0xffffffff ffffffff ffffffff ffffffff,57
+1266,1133876229,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr10=0xffffffff ffffffff ffffffff ffffffff,57
+1267,1133876229,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr11=0xffffffff ffffffff ffffffff ffffffff,57
+1268,1133876229,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr12=0xffffffff ffffffff ffffffff ffffffff,57
+1269,1133876229,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr13=0xffffffff ffffffff ffffffff ffffffff,57
+1270,1133876229,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr14=0xffffffff ffffffff ffffffff ffffffff,57
+1271,1133876229,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr15=0xffffffff ffffffff ffffffff ffffffff,57
+1272,1133876229,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr16=0xffffffff ffffffff ffffffff ffffffff,57
+1273,1133876229,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr17=0xffffffff ffffffff ffffffff ffffffff,57
+1274,1133876230,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr18=0xffffffff ffffffff ffffffff ffffffff,57
+1275,1133876230,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr19=0xffffffff ffffffff ffffffff ffffffff,57
+1276,1133876230,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr20=0xffffffff ffffffff ffffffff ffffffff,57
+1277,1133876230,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr21=0xffffffff ffffffff ffffffff ffffffff,57
+1278,1133876230,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr22=0xffffffff ffffffff ffffffff ffffffff,57
+1279,1133876230,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr23=0xffffffff ffffffff ffffffff ffffffff,57
+1280,1133876230,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr24=0xffffffff ffffffff ffffffff ffffffff,57
+1281,1133876230,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr25=0xffffffff ffffffff ffffffff ffffffff,57
+1282,1133876231,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr26=0xffffffff ffffffff ffffffff ffffffff,57
+1283,1133876231,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr27=0xffffffff ffffffff ffffffff ffffffff,57
+1284,1133876231,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr28=0xffffffff ffffffff ffffffff ffffffff,57
+1285,1133876231,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr29=0xffffffff ffffffff ffffffff ffffffff,57
+1286,1133876231,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr30=0xffffffff ffffffff ffffffff ffffffff,57
+1287,1133876231,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr31=0xffffffff ffffffff ffffffff ffffffff,57
+1288,1133876231,R12-M0-N0,R12,M0,N0,J12-U01,computation,rts panic! - stopping execution,57
+1289,1133876323,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine Check Status Register: 0xa0800000,57
+1290,1133876323,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check summary.............1,57
+1291,1133876323,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction plb error.............0,57
+1292,1133876323,R12-M0-N0,R12,M0,N0,J12-U01,computation,data read plb error...............1,57
+1293,1133876324,R12-M0-N0,R12,M0,N0,J12-U01,computation,data write plb error..............0,57
+1294,1133876324,R12-M0-N0,R12,M0,N0,J12-U01,computation,tlb error.........................0,57
+1295,1133876324,R12-M0-N0,R12,M0,N0,J12-U01,computation,i-cache parity error..............0,57
+1296,1133876324,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache search parity error.......0,57
+1297,1133876324,R12-M0-N0,R12,M0,N0,J12-U01,computation,d-cache flush parity error........0,57
+1298,1133876324,R12-M0-N0,R12,M0,N0,J12-U01,computation,imprecise machine check...........1,57
+1299,1133876324,R12-M0-N0,R12,M0,N0,J12-U01,computation,Machine State Register: 0x00003000,57
+1300,1133876325,R12-M0-N0,R12,M0,N0,J12-U01,computation,wait state enable.................0,57
+1301,1133876325,R12-M0-N0,R12,M0,N0,J12-U01,computation,critical input interrupt enable...0,57
+1302,1133876325,R12-M0-N0,R12,M0,N0,J12-U01,computation,external input interrupt enable...0,57
+1303,1133876325,R12-M0-N0,R12,M0,N0,J12-U01,computation,problem state (0=sup,57
+1304,1133876325,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating point instr. enabled.....1,57
+1305,1133876325,R12-M0-N0,R12,M0,N0,J12-U01,computation,machine check enable..............1,57
+1306,1133876325,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 0 enable......0,57
+1307,1133876326,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug wait enable.................0,57
+1308,1133876326,R12-M0-N0,R12,M0,N0,J12-U01,computation,debug interrupt enable............0,57
+1309,1133876326,R12-M0-N0,R12,M0,N0,J12-U01,computation,floating pt ex mode 1 enable......0,57
+1310,1133876326,R12-M0-N0,R12,M0,N0,J12-U01,computation,instruction address space.........0,57
+1311,1133876326,R12-M0-N0,R12,M0,N0,J12-U01,computation,data address space................0,57
+1312,1133876326,R12-M0-N0,R12,M0,N0,J12-U01,computation,Core Configuration Register 0: 0x00002000,57
+1313,1133876326,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable store gathering..................0,57
+1314,1133876327,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable apu instruction broadcast........0,57
+1315,1133876327,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable trace broadcast..................0,57
+1316,1133876327,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed instruction cache block touch.0,57
+1317,1133876327,R12-M0-N0,R12,M0,N0,J12-U01,computation,guaranteed data cache block touch........1,57
+1318,1133876327,R12-M0-N0,R12,M0,N0,J12-U01,computation,force load/store alignment...............0,57
+1319,1133876327,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch depth....................0,57
+1320,1133876327,R12-M0-N0,R12,M0,N0,J12-U01,computation,icache prefetch threshold................0,57
+1321,1133876327,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 global control register: 0x001249f0,57
+1322,1133876328,R12-M0-N0,R12,M0,N0,J12-U01,computation,start initialization.....................0,57
+1323,1133876328,R12-M0-N0,R12,M0,N0,J12-U01,computation,start retagging..........................0,57
+1324,1133876328,R12-M0-N0,R12,M0,N0,J12-U01,computation,start flushing...........................0,57
+1325,1133876328,R12-M0-N0,R12,M0,N0,J12-U01,computation,start prefetching........................0,57
+1326,1133876328,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable speculative access...............0,57
+1327,1133876328,R12-M0-N0,R12,M0,N0,J12-U01,computation,close EDRAM pages as soon as possible....0,57
+1328,1133876328,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of scratchpad portion of L3.........0 (0M),57
+1329,1133876329,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable all access to cache directory....0,57
+1330,1133876329,R12-M0-N0,R12,M0,N0,J12-U01,computation,write buffer commit threshold............2,57
+1331,1133876329,R12-M0-N0,R12,M0,N0,J12-U01,computation,size of DDR we are caching...............1 (512M),57
+1332,1133876329,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 0................1,57
+1333,1133876329,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for core 1................1,57
+1334,1133876329,R12-M0-N0,R12,M0,N0,J12-U01,computation,prefetch depth for PLB slave.............1,57
+1335,1133876329,R12-M0-N0,R12,M0,N0,J12-U01,computation,max number of outstanding prefetches.....7,57
+1336,1133876329,R12-M0-N0,R12,M0,N0,J12-U01,computation,turn on hidden refreshes.................1,57
+1337,1133876330,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable write lines 2:4..................0,57
+1338,1133876330,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc control register: 00000000,57
+1339,1133876330,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory correctable error address..0,57
+1340,1133876330,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first directory uncorrectable error address..0,57
+1341,1133876330,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM correctable error address..0,57
+1342,1133876331,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM uncorrectable error address..0,57
+1343,1133876331,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first EDRAM parity error address..0,57
+1344,1133876331,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture first DDR uncorrectable error address..0,57
+1345,1133876331,R12-M0-N0,R12,M0,N0,J12-U01,computation,disable flagging of DDR UE's as major internal error.0,57
+1346,1133876331,R12-M0-N0,R12,M0,N0,J12-U01,computation,L3 ecc status register: 00200000,57
+1347,1133876331,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 0......0,57
+1348,1133876331,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in directory 1......0,57
+1349,1133876331,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 0....0,57
+1350,1133876332,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in directory 1....0,57
+1351,1133876332,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 0.....0,57
+1352,1133876332,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error detected in EDRAM bank 1.....0,57
+1353,1133876332,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 0...0,57
+1354,1133876332,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in EDRAM bank 1...0,57
+1355,1133876332,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 0.........................0,57
+1356,1133876332,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in bank 1.........................0,57
+1357,1133876332,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error detected in external DDR...1,57
+1358,1133876333,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 0...................0,57
+1359,1133876333,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue 1...................0,57
+1360,1133876333,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in read queue PLB.................0,57
+1361,1133876333,R12-M0-N0,R12,M0,N0,J12-U01,computation,parity error in write buffer...................0,57
+1362,1133876333,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 directories...0,57
+1363,1133876333,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,57
+1364,1133876333,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of correctable errors detected in L3 EDRAMs........0,57
+1365,1133876334,R12-M0-N0,R12,M0,N0,J12-U01,computation,interrupt threshold...0,57
+1366,1133876334,R12-M0-N0,R12,M0,N0,J12-U01,computation,number of lines with parity errors written to L3 EDRAMs...0,57
+1367,1133876334,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR machine check register: 0x00000000 0x00010000,57
+1368,1133876334,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory and bus summary...........................0,57
+1369,1133876334,R12-M0-N0,R12,M0,N0,J12-U01,computation,command manager unit summary.....................0,57
+1370,1133876334,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager uncorrectable error...............1,57
+1371,1133876334,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager strobe gate.......................0,57
+1372,1133876335,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address parity error..............0,57
+1373,1133876335,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager miscompare........................0,57
+1374,1133876335,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager address error.....................0,57
+1375,1133876335,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager store buffer parity...............0,57
+1376,1133876335,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager RMW buffer parity.................0,57
+1377,1133876335,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh...........................0,57
+1378,1133876336,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh counter timeout...........0,57
+1379,1133876336,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager refresh contention................0,57
+1380,1133876336,R12-M0-N0,R12,M0,N0,J12-U01,computation,state machine....................................0,57
+1381,1133876336,R12-M0-N0,R12,M0,N0,J12-U01,computation,memory manager / command manager address parity..0,57
+1382,1133876336,R12-M0-N0,R12,M0,N0,J12-U01,computation,regctl scancom interface.........................0,57
+1383,1133876336,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing info register: DDR Fail Info Register: 0x00000000,57
+1384,1133876336,R12-M0-N0,R12,M0,N0,J12-U01,computation,capture valid.........0,57
+1385,1133876336,R12-M0-N0,R12,M0,N0,J12-U01,computation,symbol................0,57
+1386,1133876337,R12-M0-N0,R12,M0,N0,J12-U01,computation,mask..................0x00,57
+1387,1133876337,R12-M0-N0,R12,M0,N0,J12-U01,computation,miscompare............0,57
+1388,1133876337,R12-M0-N0,R12,M0,N0,J12-U01,computation,uncorrectable error...0,57
+1389,1133876337,R12-M0-N0,R12,M0,N0,J12-U01,computation,address parity error..0,57
+1390,1133876337,R12-M0-N0,R12,M0,N0,J12-U01,computation,correctable error.....0,57
+1391,1133876337,R12-M0-N0,R12,M0,N0,J12-U01,computation,qw trapped............0,57
+1392,1133876337,R12-M0-N0,R12,M0,N0,J12-U01,computation,chip select...........0,57
+1393,1133876338,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing data registers: 0x00000000 0x00000000,57
+1394,1133876338,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,57
+1395,1133876338,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,57
+1396,1133876338,R12-M0-N0,R12,M0,N0,J12-U01,computation,0x00000000 0x00000000,57
+1397,1133876338,R12-M0-N0,R12,M0,N0,J12-U01,computation,DDR failing address register: 0x00000000 0x00000000,57
+1398,1133876338,R12-M0-N0,R12,M0,N0,J12-U01,computation,General Purpose Registers:,57
+1399,1133876338,R12-M0-N0,R12,M0,N0,J12-U01,computation,r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef58,57
+1400,1133876338,R12-M0-N0,R12,M0,N0,J12-U01,computation,r04=0xffff3470 r05=0x33333300 r06=0x0002ea00 r07=0x00030000,57
+1401,1133876339,R12-M0-N0,R12,M0,N0,J12-U01,computation,r08=0x0000ef58 r09=0x00070000 r10=0x000000e0 r11=0x0008885c,57
+1402,1133876339,R12-M0-N0,R12,M0,N0,J12-U01,computation,r12=0x44000044 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff,57
+1403,1133876339,R12-M0-N0,R12,M0,N0,J12-U01,computation,r16=0x00000000 r17=0x00000000 r18=0x00000000 r19=0x00000000,57
+1404,1133876339,R12-M0-N0,R12,M0,N0,J12-U01,computation,r20=0x00000000 r21=0x00000000 r22=0x00000000 r23=0x00000000,57
+1405,1133876339,R12-M0-N0,R12,M0,N0,J12-U01,computation,r24=0x00000000 r25=0xffffc000 r26=0x00000000 r27=0x00000000,57
+1406,1133876339,R12-M0-N0,R12,M0,N0,J12-U01,computation,r28=0xffffc0c8 r29=0x000001ff r30=0x000001ff r31=0x0008db74,57
+1407,1133876339,R12-M0-N0,R12,M0,N0,J12-U01,computation,Special Purpose Registers:,57
+1408,1133876339,R12-M0-N0,R12,M0,N0,J12-U01,computation,lr=0x00000474 cr=0x44000044 xer=0x20000002 ctr=0x00000000,57
+1409,1133876340,R12-M0-N0,R12,M0,N0,J12-U01,computation,msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000,57
+1410,1133876340,R12-M0-N0,R12,M0,N0,J12-U01,computation,dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000,57
+1411,1133876340,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Status and Control Register: 0x00000000,57
+1412,1133876340,R12-M0-N0,R12,M0,N0,J12-U01,computation,exception summary........................0,57
+1413,1133876340,R12-M0-N0,R12,M0,N0,J12-U01,computation,enabled exception summary................0,57
+1414,1133876340,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception summary......0,57
+1415,1133876341,R12-M0-N0,R12,M0,N0,J12-U01,computation,overflow exception.......................0,57
+1416,1133876341,R12-M0-N0,R12,M0,N0,J12-U01,computation,underflow exception......................0,57
+1417,1133876341,R12-M0-N0,R12,M0,N0,J12-U01,computation,divide-by-zero exception.................0,57
+1418,1133876341,R12-M0-N0,R12,M0,N0,J12-U01,computation,inexact exception........................0,57
+1419,1133876341,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (SNAN)...........................0,57
+1420,1133876341,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf-Inf)........................0,57
+1421,1133876341,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Inf)........................0,57
+1422,1133876341,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Zero/Zero)......................0,57
+1423,1133876342,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (Inf/Zero).......................0,57
+1424,1133876342,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid (compare)........................0,57
+1425,1133876342,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction rounded.........................0,57
+1426,1133876342,R12-M0-N0,R12,M0,N0,J12-U01,computation,fraction inexact.........................0,57
+1427,1133876342,R12-M0-N0,R12,M0,N0,J12-U01,computation,quiet NaN................................0,57
+1428,1133876342,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus inf................................0,57
+1429,1133876342,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus normalized number..................0,57
+1430,1133876343,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus denormalized number................0,57
+1431,1133876343,R12-M0-N0,R12,M0,N0,J12-U01,computation,minus zero...............................0,57
+1432,1133876343,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus zero................................0,57
+1433,1133876343,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus denormalized number.................0,57
+1434,1133876343,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus normalized number...................0,57
+1435,1133876343,R12-M0-N0,R12,M0,N0,J12-U01,computation,plus infinity............................0,57
+1436,1133876343,R12-M0-N0,R12,M0,N0,J12-U01,computation,reserved.................................0,57
+1437,1133876343,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (software)...0,57
+1438,1133876344,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (sqrt).......0,57
+1439,1133876344,R12-M0-N0,R12,M0,N0,J12-U01,computation,invalid operation exception (int cnvt)...0,57
+1440,1133876344,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable invalid operation exceptions......0,57
+1441,1133876344,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable overflow exceptions...............0,57
+1442,1133876344,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable underflow exceptions..............0,57
+1443,1133876344,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable divide-by-zero exceptions.........0,57
+1444,1133876344,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable inexact exceptions................0,57
+1445,1133876345,R12-M0-N0,R12,M0,N0,J12-U01,computation,enable non-IEEE mode.....................0,57
+1446,1133876345,R12-M0-N0,R12,M0,N0,J12-U01,computation,round nearest............................0,57
+1447,1133876345,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward zero........................0,57
+1448,1133876345,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward +infinity...................0,57
+1449,1133876345,R12-M0-N0,R12,M0,N0,J12-U01,computation,round toward -infinity...................0,57
+1450,1133876346,R12-M0-N0,R12,M0,N0,J12-U01,computation,Floating Point Registers:,57
+1451,1133876346,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr0=0xffffffff ffffffff ffffffff ffffffff,57
+1452,1133876346,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr1=0xffffffff ffffffff ffffffff ffffffff,57
+1453,1133876346,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr2=0xffffffff ffffffff ffffffff ffffffff,57
+1454,1133876346,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr3=0xffffffff ffffffff ffffffff ffffffff,57
+1455,1133876346,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr4=0xffffffff ffffffff ffffffff ffffffff,57
+1456,1133876346,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr5=0xffffffff ffffffff ffffffff ffffffff,57
+1457,1133876346,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr6=0xffffffff ffffffff ffffffff ffffffff,57
+1458,1133876347,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr7=0xffffffff ffffffff ffffffff ffffffff,57
+1459,1133876347,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr8=0xffffffff ffffffff ffffffff ffffffff,57
+1460,1133876347,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr9=0xffffffff ffffffff ffffffff ffffffff,57
+1461,1133876347,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr10=0xffffffff ffffffff ffffffff ffffffff,57
+1462,1133876347,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr11=0xffffffff ffffffff ffffffff ffffffff,57
+1463,1133876347,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr12=0xffffffff ffffffff ffffffff ffffffff,57
+1464,1133876347,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr13=0xffffffff ffffffff ffffffff ffffffff,57
+1465,1133876348,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr14=0xffffffff ffffffff ffffffff ffffffff,57
+1466,1133876348,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr15=0xffffffff ffffffff ffffffff ffffffff,57
+1467,1133876348,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr16=0xffffffff ffffffff ffffffff ffffffff,57
+1468,1133876348,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr17=0xffffffff ffffffff ffffffff ffffffff,57
+1469,1133876348,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr18=0xffffffff ffffffff ffffffff ffffffff,57
+1470,1133876348,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr19=0xffffffff ffffffff ffffffff ffffffff,57
+1471,1133876348,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr20=0xffffffff ffffffff ffffffff ffffffff,57
+1472,1133876348,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr21=0xffffffff ffffffff ffffffff ffffffff,57
+1473,1133876349,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr22=0xffffffff ffffffff ffffffff ffffffff,57
+1474,1133876349,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr23=0xffffffff ffffffff ffffffff ffffffff,57
+1475,1133876349,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr24=0xffffffff ffffffff ffffffff ffffffff,57
+1476,1133876349,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr25=0xffffffff ffffffff ffffffff ffffffff,57
+1477,1133876349,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr26=0xffffffff ffffffff ffffffff ffffffff,57
+1478,1133876349,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr27=0xffffffff ffffffff ffffffff ffffffff,57
+1479,1133876349,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr28=0xffffffff ffffffff ffffffff ffffffff,57
+1480,1133876349,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr29=0xffffffff ffffffff ffffffff ffffffff,57
+1481,1133876350,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr30=0xffffffff ffffffff ffffffff ffffffff,57
+1482,1133876350,R12-M0-N0,R12,M0,N0,J12-U01,computation,fpr31=0xffffffff ffffffff ffffffff ffffffff,57
+1483,1133876350,R12-M0-N0,R12,M0,N0,J12-U01,computation,rts panic! - stopping execution,57
+1484,1133922192,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image,58
+1485,1133922192,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image,58
+1486,1133971894,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image,59
+1487,1133971894,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/light3/sppm_chkpt/sppm: not a CNK program image,59
+1488,1134060641,R12-M0-N0,R12,M0,N0,J18-U11,I-O,Lustre mount FAILED : bglio161 : block_id : location,60
+1489,1134109095,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image,61
+1490,1134109095,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image,61
+1491,1134116541,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17tuned/bin/ddcMDbglV: invalid or missing program image,62
+1492,1134116541,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17tuned/bin/ddcMDbglV: invalid or missing program image,62
+1493,1134159099,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1288/inferno: invalid or missing program image,63
+1494,1134159180,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/SPPM/1268/sppm_DD: invalid or missing program image,63
+1495,1134159180,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image,63
+1496,1134159180,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1288/inferno: invalid or missing program image,63
+1497,1134159181,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image,63
+1498,1134159181,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1295/inferno: invalid or missing program image,63
+1499,1134159289,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1295/inferno: invalid or missing program image,63
+1500,1134159289,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/UMT2K/1328/umt2k_DD: invalid or missing program image,63
+1501,1134159411,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/SPPM/1322/sppm_DD: invalid or missing program image,63
+1502,1134159411,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/SPPM/1356/sppm_DD: invalid or missing program image,63
+1503,1134159412,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/UMT2K/1328/umt2k_DD: invalid or missing program image,63
+1504,1134159551,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/SPASM/1352/spasm_DD: invalid or missing program image,63
+1505,1134159551,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1415/inferno: invalid or missing program image,63
+1506,1134159551,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/SPPM/1356/sppm_DD: invalid or missing program image,63
+1507,1134159681,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1405./hpl_DD: invalid or missing program image,63
+1508,1134159681,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1415/inferno: invalid or missing program image,63
+1509,1134159681,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1405./hpl_DD: invalid or missing program image,63
+1510,1134159681,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1398./hpl_DD: invalid or missing program image,63
+1511,1134159811,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1398./hpl_DD: invalid or missing program image,63
+1512,1134159811,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno: invalid or missing program image,63
+1513,1134159811,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1378/inferno: invalid or missing program image,63
+1514,1134159940,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno: invalid or missing program image,63
+1515,1134159940,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/UMT2K/1372/umt2k_DD: invalid or missing program image,63
+1516,1134159940,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/SPPM/1366/sppm_DD: invalid or missing program image,63
+1517,1134160069,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1378/inferno: invalid or missing program image,63
+1518,1134160069,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/UMT2K/1372/umt2k_DD: invalid or missing program image,63
+1519,1134160069,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/SPASM/1352/spasm_DD: invalid or missing program image,63
+1520,1134160195,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/SPPM/1366/sppm_DD: invalid or missing program image,63
+1521,1134160196,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image,63
+1522,1134160196,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image,63
+1523,1134160310,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1339/inferno: invalid or missing program image,63
+1524,1134160310,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1332/inferno: invalid or missing program image,63
+1525,1134160310,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1339/inferno: invalid or missing program image,63
+1526,1134160398,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/SPPM/1312/sppm_DD: invalid or missing program image,63
+1527,1134160398,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /p/gb1/stella/SPASM/1308/spasm_DD: invalid or missing program image,63
+1528,1134160398,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1332/inferno: invalid or missing program image,63
+1529,1134160528,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/SPPM/1322/sppm_DD: invalid or missing program image,63
+1530,1134160528,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/SPPM/1312/sppm_DD: invalid or missing program image,63
+1531,1134160529,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/SPASM/1308/spasm_DD: invalid or missing program image,63
+1532,1134160565,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /p/gb1/stella/SPPM/1268/sppm_DD: invalid or missing program image,63
+1533,1134161378,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image,64
+1534,1134161378,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image,64
+1535,1134357683,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,65
+1536,1134357723,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix after LOGIN_MESSAGE on CioStream socket to 172.16.96.116:49331: Link has been severed,65
+1537,1134403781,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57628,66
+1538,1134403781,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:57627,66
+1539,1134451187,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:48219,67
+1540,1134451187,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:48218,67
+1541,1134496367,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:55496,68
+1542,1134496499,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:55497,68
+1543,1134573483,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45734,69
+1544,1134573483,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45733,69
+1545,1134599468,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image,70
+1546,1134599468,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image,70
+1547,1134599612,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image,70
+1548,1134599612,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image,70
+1549,1134631043,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50044,71
+1550,1134631146,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50045,71
+1551,1134724873,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:38746,72
+1552,1134724960,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:38747,72
+1553,1134773776,R12-M0-N0,R12,M0,N0,J18-U11,I-O,Lustre mount FAILED : bglio161 : block_id : location,73
+1554,1134773906,R12-M0-N0,R12,M0,N0,J18-U01,I-O,Lustre mount FAILED : bglio162 : block_id : location,73
+1555,1134937934,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45229,74
+1556,1134938030,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:45230,74
+1557,1135577332,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46190,75
+1558,1135577332,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:46189,75
+1559,1135624565,R12-M0-N0,R12,M0,N0,J18-U01,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50764,76
+1560,1135624595,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50765,76
+1561,1135782799,R12-M0-N0,R12,M0,N0,J18-U11,I-O,ciod: Error reading message prefix on CioStream socket to 172.16.96.116:49848,77
+1562,1136322600,R12-M0-N0,R12,M0,N0,J18-U11,I-O,Lustre mount FAILED : bglio161 : block_id : location,78

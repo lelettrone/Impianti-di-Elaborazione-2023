@@ -1,0 +1,24 @@
+,Timestamp,Node,Subsystem,Message,Type,Tuple
+76655,1174011576,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,428
+76656,1174011576,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,428
+76657,1174011576,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,428
+76658,1174011576,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,428
+76659,1174011709,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,428
+76660,1174011709,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,428
+76661,1174011709,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,428
+76662,1174011736,tg-c106,NET,connection down,computation,428
+76663,1174011843,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,428
+76664,1174011843,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,428
+76665,1174011843,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,428
+76666,1174011979,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,428
+76667,1174011979,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,428
+76668,1174011979,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,428
+76669,1174012117,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,428
+76670,1174012118,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,428
+76671,1174012118,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,428
+76672,1174012261,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,428
+76673,1174012261,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,428
+76674,1174012261,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,428
+76675,1174012416,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,428
+76676,1174012416,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,428
+76677,1174012416,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,428

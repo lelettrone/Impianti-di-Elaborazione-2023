@@ -1,0 +1,68 @@
+,Timestamp,Node,Subsystem,Message,Type,Tuple
+3754,1168103773,tg-master,NET,setting node state to down,master,76
+3755,1168103773,tg-master,NET,setting node state to down,master,76
+3756,1168103773,tg-master,NET,setting node state to down,master,76
+3757,1168103774,tg-master,NET,setting node state to down,master,76
+3758,1168103774,tg-master,NET,setting node state to down,master,76
+3759,1168103779,tg-master,NET,setting node state to down,master,76
+3760,1168103779,tg-master,NET,setting node state to down,master,76
+3761,1168103780,tg-master,NET,setting node state to down,master,76
+3762,1168103780,tg-master,NET,setting node state to down,master,76
+3763,1168103781,tg-master,NET,setting node state to down,master,76
+3764,1168103783,tg-master,NET,setting node state to down,master,76
+3765,1168103786,tg-master,NET,setting node state to down,master,76
+3766,1168103786,tg-master,NET,setting node state to down,master,76
+3767,1168103786,tg-master,NET,setting node state to down,master,76
+3768,1168103788,tg-master,NET,setting node state to down,master,76
+3769,1168103788,tg-master,NET,setting node state to down,master,76
+3770,1168103789,tg-master,NET,setting node state to down,master,76
+3771,1168103790,tg-master,NET,setting node state to down,master,76
+3772,1168103790,tg-master,NET,setting node state to down,master,76
+3773,1168103791,tg-master,NET,setting node state to down,master,76
+3774,1168103791,tg-master,NET,setting node state to down,master,76
+3775,1168103791,tg-master,NET,setting node state to down,master,76
+3776,1168103792,tg-master,NET,setting node state to down,master,76
+3777,1168103792,tg-master,NET,setting node state to down,master,76
+3778,1168103792,tg-master,NET,setting node state to down,master,76
+3779,1168103794,tg-master,NET,setting node state to down,master,76
+3780,1168103794,tg-master,NET,setting node state to down,master,76
+3781,1168103794,tg-master,NET,setting node state to down,master,76
+3782,1168103794,tg-master,NET,setting node state to down,master,76
+3783,1168103794,tg-master,NET,setting node state to down,master,76
+3784,1168103794,tg-master,NET,setting node state to down,master,76
+3785,1168103794,tg-master,NET,setting node state to down,master,76
+3786,1168103795,tg-master,NET,setting node state to down,master,76
+3787,1168103797,tg-master,NET,setting node state to down,master,76
+3788,1168103822,tg-c735,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,76
+3789,1168103822,tg-c735,DEV,+Platform PCI Component Error Info Section,computation,76
+3790,1168103822,tg-c735,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,76
+3791,1168103822,tg-c735,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,76
+3792,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3793,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3794,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3795,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3796,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3797,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3798,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3799,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3800,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3801,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3802,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3803,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3804,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3805,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3806,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3807,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3808,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3809,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3810,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3811,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3812,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3813,1168103914,tg-c696,I-O,"error, dev x:x (hda), sector x",computation,76
+3814,1168103985,tg-master,NET,setting node state to down,master,76
+3815,1168104044,tg-master,NET,setting node state to down,master,76
+3816,1168104044,tg-master,NET,setting node state to down,master,76
+3817,1168104044,tg-master,NET,setting node state to down,master,76
+3818,1168104044,tg-master,NET,setting node state to down,master,76
+3819,1168104044,tg-master,NET,setting node state to down,master,76
+3820,1168104044,tg-master,NET,setting node state to down,master,76

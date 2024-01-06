@@ -1,0 +1,60 @@
+,Timestamp,Node,Subsystem,Message,Type,Tuple
+74286,1172357078,tg-master,NET,setting node state to down,master,376
+74287,1172357078,tg-master,NET,setting node state to down,master,376
+74288,1172357081,tg-master,NET,setting node state to down,master,376
+74289,1172357083,tg-master,NET,setting node state to down,master,376
+74290,1172357084,tg-master,NET,setting node state to down,master,376
+74291,1172357084,tg-master,NET,setting node state to down,master,376
+74292,1172357085,tg-master,NET,setting node state to down,master,376
+74293,1172357085,tg-master,NET,setting node state to down,master,376
+74294,1172357087,tg-master,NET,setting node state to down,master,376
+74295,1172357087,tg-master,NET,setting node state to down,master,376
+74296,1172357088,tg-master,NET,setting node state to down,master,376
+74297,1172357091,tg-master,NET,setting node state to down,master,376
+74298,1172357091,tg-master,NET,setting node state to down,master,376
+74299,1172357092,tg-master,NET,setting node state to down,master,376
+74300,1172357093,tg-master,NET,setting node state to down,master,376
+74301,1172357106,tg-master,NET,setting node state to down,master,376
+74302,1172357106,tg-master,NET,setting node state to down,master,376
+74303,1172357106,tg-master,NET,setting node state to down,master,376
+74304,1172357108,tg-master,NET,setting node state to down,master,376
+74305,1172357108,tg-master,NET,setting node state to down,master,376
+74306,1172357118,tg-master,NET,setting node state to down,master,376
+74307,1172357119,tg-master,NET,setting node state to down,master,376
+74308,1172357119,tg-master,NET,setting node state to down,master,376
+74309,1172357119,tg-master,NET,setting node state to down,master,376
+74310,1172357119,tg-master,NET,setting node state to down,master,376
+74311,1172357124,tg-master,NET,setting node state to down,master,376
+74312,1172357125,tg-master,NET,setting node state to down,master,376
+74313,1172357125,tg-master,NET,setting node state to down,master,376
+74314,1172357126,tg-master,NET,setting node state to down,master,376
+74315,1172357131,tg-master,NET,setting node state to down,master,376
+74316,1172357136,tg-master,NET,setting node state to down,master,376
+74317,1172357137,tg-master,NET,setting node state to down,master,376
+74318,1172357140,tg-master,NET,setting node state to down,master,376
+74319,1172357140,tg-master,NET,setting node state to down,master,376
+74320,1172357140,tg-master,NET,setting node state to down,master,376
+74321,1172357142,tg-master,NET,setting node state to down,master,376
+74322,1172357143,tg-master,NET,setting node state to down,master,376
+74323,1172357143,tg-master,NET,setting node state to down,master,376
+74324,1172357143,tg-master,NET,setting node state to down,master,376
+74325,1172357148,tg-master,NET,setting node state to down,master,376
+74326,1172357148,tg-master,NET,setting node state to down,master,376
+74327,1172357152,tg-master,NET,setting node state to down,master,376
+74328,1172357156,tg-master,NET,setting node state to down,master,376
+74329,1172357157,tg-master,NET,setting node state to down,master,376
+74330,1172357158,tg-master,NET,setting node state to down,master,376
+74331,1172357158,tg-master,NET,setting node state to down,master,376
+74332,1172357162,tg-master,NET,setting node state to down,master,376
+74333,1172357162,tg-master,NET,setting node state to down,master,376
+74334,1172357163,tg-master,NET,setting node state to down,master,376
+74335,1172357164,tg-master,NET,setting node state to down,master,376
+74336,1172357170,tg-master,NET,setting node state to down,master,376
+74337,1172357222,tg-master,NET,setting node state to down,master,376
+74338,1172357222,tg-master,NET,setting node state to down,master,376
+74339,1172357222,tg-master,NET,setting node state to down,master,376
+74340,1172357228,tg-master,NET,setting node state to down,master,376
+74341,1172357344,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,376
+74342,1172357344,tg-c415,PRO,+END HARDWARE ERROR STATE AT CMC,computation,376
+74343,1172357344,tg-c415,PRO,Device Error Info Section,computation,376
+74344,1172357344,tg-c415,PRO,Error Map: x,computation,376

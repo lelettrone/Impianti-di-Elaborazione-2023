@@ -1,0 +1,32 @@
+,Timestamp,Node,Subsystem,Message,Type,Tuple
+2315,1167971057,tg-c733,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,49
+2316,1167971057,tg-c733,PRO,Device Error Info Section,computation,49
+2317,1167971057,tg-c733,PRO,Error Map: x,computation,49
+2318,1167971058,tg-c733,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,49
+2319,1167971058,tg-c733,PRO,+END HARDWARE ERROR STATE AT CMC,computation,49
+2320,1167971058,tg-c733,PRO,Device Error Info Section,computation,49
+2321,1167971058,tg-c733,PRO,Error Map: x,computation,49
+2322,1167971073,tg-c733,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,49
+2323,1167971073,tg-c733,PRO,Device Error Info Section,computation,49
+2324,1167971073,tg-c733,PRO,Error Map: x,computation,49
+2325,1167971092,tg-c733,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,49
+2326,1167971093,tg-c733,PRO,+END HARDWARE ERROR STATE AT CMC,computation,49
+2327,1167971093,tg-c733,PRO,Device Error Info Section,computation,49
+2328,1167971093,tg-c733,PRO,Error Map: x,computation,49
+2329,1167971104,tg-c733,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,49
+2330,1167971104,tg-c733,PRO,+END HARDWARE ERROR STATE AT CMC,computation,49
+2331,1167971104,tg-c733,PRO,Device Error Info Section,computation,49
+2332,1167971104,tg-c733,PRO,Error Map: x,computation,49
+2333,1167971155,tg-c733,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,49
+2334,1167971155,tg-c733,PRO,Device Error Info Section,computation,49
+2335,1167971155,tg-c733,PRO,Error Map: x,computation,49
+2336,1167971231,tg-c733,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,49
+2337,1167971231,tg-c733,PRO,Device Error Info Section,computation,49
+2338,1167971231,tg-c733,PRO,Error Map: x,computation,49
+2339,1167971337,tg-c733,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,49
+2340,1167971337,tg-c733,PRO,Device Error Info Section,computation,49
+2341,1167971338,tg-c733,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,49
+2342,1167971338,tg-c733,PRO,Error Map: x,computation,49
+2343,1167971522,tg-c735,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,49
+2344,1167971522,tg-c735,DEV,+Platform PCI Component Error Info Section,computation,49
+2345,1167971522,tg-c735,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,49

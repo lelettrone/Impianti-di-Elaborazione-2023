@@ -1,0 +1,66 @@
+,Timestamp,Node,Subsystem,Message,Type,Tuple
+2191,1167898699,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2192,1167898699,tg-c415,PRO,Device Error Info Section,computation,36
+2193,1167898699,tg-c415,PRO,Error Map: x,computation,36
+2194,1167898759,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2195,1167898759,tg-c415,PRO,Device Error Info Section,computation,36
+2196,1167898759,tg-c415,PRO,Error Map: x,computation,36
+2197,1167898760,tg-c415,PRO,+END HARDWARE ERROR STATE AT CMC,computation,36
+2198,1167898819,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2199,1167898820,tg-c415,PRO,+END HARDWARE ERROR STATE AT CMC,computation,36
+2200,1167898820,tg-c415,PRO,Device Error Info Section,computation,36
+2201,1167898820,tg-c415,PRO,Error Map: x,computation,36
+2202,1167898880,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2203,1167898880,tg-c415,PRO,Device Error Info Section,computation,36
+2204,1167898880,tg-c415,PRO,Error Map: x,computation,36
+2205,1167898940,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2206,1167898940,tg-c415,PRO,Device Error Info Section,computation,36
+2207,1167898940,tg-c415,PRO,Error Map: x,computation,36
+2208,1167899000,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2209,1167899000,tg-c415,PRO,+END HARDWARE ERROR STATE AT CMC,computation,36
+2210,1167899000,tg-c415,PRO,Device Error Info Section,computation,36
+2211,1167899000,tg-c415,PRO,Error Map: x,computation,36
+2212,1167899060,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2213,1167899060,tg-c415,PRO,Device Error Info Section,computation,36
+2214,1167899060,tg-c415,PRO,Error Map: x,computation,36
+2215,1167899120,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2216,1167899120,tg-c415,PRO,+END HARDWARE ERROR STATE AT CMC,computation,36
+2217,1167899120,tg-c415,PRO,Device Error Info Section,computation,36
+2218,1167899120,tg-c415,PRO,Error Map: x,computation,36
+2219,1167899180,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2220,1167899180,tg-c415,PRO,Device Error Info Section,computation,36
+2221,1167899180,tg-c415,PRO,Error Map: x,computation,36
+2222,1167899240,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2223,1167899240,tg-c415,PRO,Device Error Info Section,computation,36
+2224,1167899240,tg-c415,PRO,Error Map: x,computation,36
+2225,1167899300,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2226,1167899300,tg-c415,PRO,Device Error Info Section,computation,36
+2227,1167899300,tg-c415,PRO,Error Map: x,computation,36
+2228,1167899360,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2229,1167899360,tg-c415,PRO,Device Error Info Section,computation,36
+2230,1167899360,tg-c415,PRO,Error Map: x,computation,36
+2231,1167899420,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2232,1167899420,tg-c415,PRO,Device Error Info Section,computation,36
+2233,1167899420,tg-c415,PRO,Error Map: x,computation,36
+2234,1167899480,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2235,1167899480,tg-c415,PRO,Device Error Info Section,computation,36
+2236,1167899480,tg-c415,PRO,Error Map: x,computation,36
+2237,1167899540,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2238,1167899540,tg-c415,PRO,Device Error Info Section,computation,36
+2239,1167899540,tg-c415,PRO,Error Map: x,computation,36
+2240,1167899600,tg-c415,PRO,+BEGIN HARDWARE ERROR STATE AT CMC,computation,36
+2241,1167899600,tg-c415,PRO,+END HARDWARE ERROR STATE AT CMC,computation,36
+2242,1167899600,tg-c415,PRO,Device Error Info Section,computation,36
+2243,1167899600,tg-c415,PRO,Error Map: x,computation,36
+2244,1167899679,tg-c781,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,36
+2245,1167899679,tg-c781,DEV,+Platform PCI Component Error Info Section,computation,36
+2246,1167899679,tg-c781,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,36
+2247,1167899878,tg-c781,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,36
+2248,1167899878,tg-c781,DEV,+Platform PCI Component Error Info Section,computation,36
+2249,1167899878,tg-c781,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,36
+2250,1167900077,tg-c781,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,36
+2251,1167900077,tg-c781,DEV,+Platform PCI Component Error Info Section,computation,36
+2252,1167900077,tg-c781,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,36
+2253,1167900204,tg-c781,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,36
+2254,1167900204,tg-c781,DEV,+Platform PCI Component Error Info Section,computation,36
+2255,1167900204,tg-c781,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,36

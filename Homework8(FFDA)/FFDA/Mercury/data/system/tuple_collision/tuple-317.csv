@@ -1,0 +1,928 @@
+,Timestamp,Node,Subsystem,Message,Type,Tuple
+49815,1171417328,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49816,1171417328,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49817,1171417328,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49818,1171417329,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+49819,1171417329,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49820,1171417329,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49821,1171417329,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49822,1171417329,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49823,1171417329,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49824,1171417329,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49825,1171417469,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49826,1171417469,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49827,1171417469,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49828,1171417469,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49829,1171417469,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49830,1171417469,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49831,1171417469,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49832,1171417469,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49833,1171417469,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49834,1171417469,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49835,1171417521,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49836,1171417521,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49837,1171417521,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49838,1171417521,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49839,1171417522,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49840,1171417522,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49841,1171417522,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49842,1171417522,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49843,1171417522,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49844,1171417522,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49845,1171417522,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49846,1171417554,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49847,1171417554,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+49848,1171417554,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49849,1171417554,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49850,1171417554,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49851,1171417554,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49852,1171417554,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49853,1171417554,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49854,1171417554,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49855,1171417554,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49856,1171417554,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49857,1171417575,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49858,1171417575,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49859,1171417575,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49860,1171417575,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49861,1171417575,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49862,1171417575,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49863,1171417575,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49864,1171417575,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49865,1171417575,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49866,1171417580,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49867,1171417580,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+49868,1171417580,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49869,1171417580,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49870,1171417580,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49871,1171417580,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49872,1171417580,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49873,1171417580,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49874,1171417580,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49875,1171417580,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49876,1171417580,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49877,1171417584,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49878,1171417584,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49879,1171417584,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49880,1171417584,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49881,1171417584,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49882,1171417584,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49883,1171417584,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49884,1171417584,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49885,1171417584,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49886,1171417584,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49887,1171417592,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49888,1171417592,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49889,1171417592,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49890,1171417593,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49891,1171417593,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49892,1171417593,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49893,1171417593,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49894,1171417593,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49895,1171417593,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49896,1171417593,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49897,1171417603,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49898,1171417603,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49899,1171417603,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49900,1171417603,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49901,1171417603,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49902,1171417603,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49903,1171417603,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49904,1171417603,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49905,1171417603,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49906,1171417603,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49907,1171417604,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+49908,1171417701,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49909,1171417701,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49910,1171417701,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49911,1171417701,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49912,1171417701,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49913,1171417701,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49914,1171417701,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49915,1171417701,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49916,1171417712,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49917,1171417712,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+49918,1171417712,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49919,1171417712,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49920,1171417712,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49921,1171417712,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49922,1171417712,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49923,1171417712,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49924,1171417712,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49925,1171417712,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49926,1171417713,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49927,1171417713,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49928,1171417713,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49929,1171417713,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49930,1171417713,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49931,1171417713,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49932,1171417713,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49933,1171417713,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49934,1171417713,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49935,1171417713,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49936,1171417718,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49937,1171417718,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49938,1171417718,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49939,1171417719,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49940,1171417719,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49941,1171417719,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49942,1171417719,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49943,1171417719,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49944,1171417719,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49945,1171417719,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49946,1171417719,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49947,1171417743,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49948,1171417743,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49949,1171417743,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49950,1171417743,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49951,1171417744,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+49952,1171417744,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49953,1171417744,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49954,1171417744,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49955,1171417744,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49956,1171417744,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49957,1171417744,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49958,1171417745,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49959,1171417745,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49960,1171417745,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49961,1171417745,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49962,1171417745,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49963,1171417745,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49964,1171417745,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49965,1171417745,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49966,1171417745,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49967,1171417745,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49968,1171417823,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49969,1171417824,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49970,1171417824,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49971,1171417824,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49972,1171417824,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49973,1171417824,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49974,1171417824,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49975,1171417824,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49976,1171417871,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49977,1171417871,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49978,1171417871,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49979,1171417871,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49980,1171417871,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49981,1171417871,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49982,1171417872,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49983,1171417872,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49984,1171417872,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49985,1171417902,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49986,1171417902,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+49987,1171417902,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49988,1171417902,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+49989,1171417902,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49990,1171417902,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49991,1171417902,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49992,1171417902,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49993,1171417902,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+49994,1171417902,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49995,1171417902,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+49996,1171417914,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+49997,1171417914,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+49998,1171417914,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+49999,1171417915,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50000,1171417915,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50001,1171417915,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50002,1171417915,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50003,1171417915,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50004,1171417915,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50005,1171417915,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50006,1171417915,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50007,1171417915,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50008,1171417915,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50009,1171417916,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50010,1171417916,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50011,1171417916,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50012,1171417916,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50013,1171417931,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50014,1171417931,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50015,1171417931,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50016,1171417931,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50017,1171417931,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50018,1171417931,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50019,1171417931,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50020,1171417931,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50021,1171417931,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50022,1171417931,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50023,1171417931,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50024,1171417936,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50025,1171417936,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50026,1171417936,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50027,1171417936,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50028,1171417936,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50029,1171417936,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50030,1171417936,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50031,1171417936,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50032,1171417936,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50033,1171417936,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50034,1171417936,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50035,1171417937,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50036,1171417937,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50037,1171417937,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50038,1171417937,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50039,1171417937,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50040,1171417938,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50041,1171417938,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50042,1171417938,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50043,1171417938,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50044,1171417938,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50045,1171417978,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50046,1171417978,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50047,1171417978,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50048,1171417978,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50049,1171417978,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50050,1171417978,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50051,1171417979,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50052,1171417979,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50053,1171417979,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50054,1171417979,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50055,1171417979,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50056,1171418004,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50057,1171418005,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50058,1171418005,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50059,1171418005,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50060,1171418005,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50061,1171418005,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50062,1171418005,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50063,1171418005,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50064,1171418005,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50065,1171418005,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50066,1171418011,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50067,1171418011,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50068,1171418011,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50069,1171418011,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50070,1171418011,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50071,1171418011,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50072,1171418011,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50073,1171418011,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50074,1171418011,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50075,1171418011,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50076,1171418015,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50077,1171418015,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50078,1171418015,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50079,1171418015,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50080,1171418015,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50081,1171418016,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50082,1171418016,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50083,1171418016,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50084,1171418016,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50085,1171418016,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50086,1171418016,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50087,1171418017,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50088,1171418017,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50089,1171418017,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50090,1171418017,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50091,1171418017,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50092,1171418017,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50093,1171418017,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50094,1171418017,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50095,1171418017,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50096,1171418017,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50097,1171418017,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50098,1171418084,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50099,1171418084,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50100,1171418084,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50101,1171418084,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50102,1171418084,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50103,1171418084,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50104,1171418084,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50105,1171418084,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50106,1171418084,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50107,1171418084,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50108,1171418084,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50109,1171418089,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50110,1171418089,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50111,1171418089,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50112,1171418089,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50113,1171418089,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50114,1171418089,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50115,1171418089,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50116,1171418089,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50117,1171418089,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50118,1171418089,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50119,1171418089,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50120,1171418090,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50121,1171418090,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50122,1171418090,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50123,1171418090,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50124,1171418090,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50125,1171418090,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50126,1171418090,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50127,1171418090,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50128,1171418090,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50129,1171418090,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50130,1171418090,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50131,1171418105,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50132,1171418105,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50133,1171418105,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50134,1171418105,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50135,1171418105,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50136,1171418105,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50137,1171418106,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50138,1171418106,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50139,1171418106,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50140,1171418106,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50141,1171418111,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50142,1171418111,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50143,1171418111,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50144,1171418112,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50145,1171418112,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50146,1171418112,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50147,1171418112,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50148,1171418112,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50149,1171418112,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50150,1171418112,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50151,1171418116,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50152,1171418116,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50153,1171418116,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50154,1171418116,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50155,1171418116,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50156,1171418116,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50157,1171418116,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50158,1171418116,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50159,1171418116,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50160,1171418116,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50161,1171418116,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50162,1171418276,tg-s176,NET,connection down,storage,317
+50163,1171418277,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50164,1171418277,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50165,1171418277,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50166,1171418277,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50167,1171418277,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50168,1171418278,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50169,1171418278,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50170,1171418278,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50171,1171418278,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50172,1171418278,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50173,1171418278,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50174,1171418278,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50175,1171418278,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50176,1171418279,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50177,1171418279,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50178,1171418279,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50179,1171418279,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50180,1171418279,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50181,1171418279,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50182,1171418285,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50183,1171418285,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50184,1171418285,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50185,1171418285,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50186,1171418285,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50187,1171418285,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50188,1171418285,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50189,1171418285,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50190,1171418285,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50191,1171418372,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50192,1171418372,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50193,1171418372,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50194,1171418372,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50195,1171418372,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50196,1171418372,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50197,1171418372,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50198,1171418372,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50199,1171418372,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50200,1171418372,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50201,1171418372,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50202,1171418432,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50203,1171418432,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50204,1171418432,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50205,1171418432,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50206,1171418606,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50207,1171418606,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50208,1171418606,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50209,1171418606,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50210,1171418606,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50211,1171418606,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50212,1171418606,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50213,1171418606,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50214,1171418642,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50215,1171418642,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50216,1171418642,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50217,1171418642,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50218,1171418642,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50219,1171418642,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50220,1171418642,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50221,1171418642,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50222,1171418667,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50223,1171418667,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50224,1171418667,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50225,1171418667,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50226,1171418667,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50227,1171418667,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50228,1171418667,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50229,1171418667,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50230,1171418667,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50231,1171418667,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50232,1171418667,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50233,1171418688,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50234,1171418689,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50235,1171418689,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50236,1171418689,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50237,1171418689,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50238,1171418689,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50239,1171418689,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50240,1171418689,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50241,1171418689,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50242,1171418700,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50243,1171418700,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50244,1171418700,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50245,1171418700,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50246,1171418700,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50247,1171418700,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50248,1171418700,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50249,1171418700,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50250,1171418700,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50251,1171418737,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50252,1171418737,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50253,1171418737,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50254,1171418737,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50255,1171418738,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50256,1171418738,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50257,1171418738,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50258,1171418738,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50259,1171418738,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50260,1171418738,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50261,1171418738,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50262,1171418738,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50263,1171418758,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50264,1171418758,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50265,1171418758,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50266,1171418758,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50267,1171418758,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50268,1171418758,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50269,1171418758,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50270,1171418758,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50271,1171418758,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50272,1171418758,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50273,1171418811,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50274,1171418811,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50275,1171418811,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50276,1171418811,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50277,1171418811,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50278,1171418811,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50279,1171418811,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50280,1171418811,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50281,1171418811,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50282,1171418811,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50283,1171418811,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50284,1171418826,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50285,1171418826,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50286,1171418826,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50287,1171418826,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50288,1171418826,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50289,1171418826,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50290,1171418826,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50291,1171418826,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50292,1171418826,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50293,1171418826,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50294,1171418826,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50295,1171418852,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50296,1171418852,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50297,1171418852,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50298,1171418852,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50299,1171418852,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50300,1171418852,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50301,1171418853,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50302,1171418853,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50303,1171418853,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50304,1171418853,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50305,1171418853,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50306,1171418883,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50307,1171418883,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50308,1171418883,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50309,1171418883,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50310,1171418883,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50311,1171418883,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50312,1171418883,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50313,1171418883,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50314,1171418883,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50315,1171418883,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50316,1171418883,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50317,1171418884,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50318,1171418884,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50319,1171418884,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50320,1171418884,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50321,1171418884,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50322,1171418884,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50323,1171418884,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50324,1171418884,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50325,1171418884,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50326,1171418884,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50327,1171418956,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50328,1171418956,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50329,1171418956,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50330,1171418956,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50331,1171418956,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50332,1171418957,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50333,1171418957,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50334,1171418957,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50335,1171418957,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50336,1171418957,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50337,1171418957,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50338,1171419119,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50339,1171419119,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50340,1171419119,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50341,1171419119,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50342,1171419119,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50343,1171419119,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50344,1171419119,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50345,1171419119,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50346,1171419119,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50347,1171419119,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50348,1171419119,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50349,1171419144,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50350,1171419144,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50351,1171419144,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50352,1171419144,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50353,1171419144,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50354,1171419144,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50355,1171419144,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50356,1171419144,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50357,1171419144,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50358,1171419144,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50359,1171419159,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50360,1171419159,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50361,1171419159,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50362,1171419159,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50363,1171419159,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50364,1171419160,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50365,1171419160,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50366,1171419160,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50367,1171419160,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50368,1171419160,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50369,1171419160,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50370,1171419226,tg-master,NET,setting node state to down,master,317
+50371,1171419232,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50372,1171419232,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50373,1171419232,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50374,1171419232,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50375,1171419232,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50376,1171419232,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50377,1171419232,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50378,1171419232,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50379,1171419232,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50380,1171419232,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50381,1171419232,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50382,1171419259,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50383,1171419259,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50384,1171419259,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50385,1171419259,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50386,1171419259,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50387,1171419259,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50388,1171419259,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50389,1171419259,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50390,1171419259,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50391,1171419259,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50392,1171419259,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50393,1171419385,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50394,1171419385,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50395,1171419385,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50396,1171419386,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50397,1171419386,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50398,1171419386,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50399,1171419386,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50400,1171419386,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50401,1171419386,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50402,1171419386,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50403,1171419390,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50404,1171419390,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50405,1171419390,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50406,1171419390,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50407,1171419391,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50408,1171419391,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50409,1171419391,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50410,1171419391,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50411,1171419391,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50412,1171419391,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50413,1171419417,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50414,1171419417,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50415,1171419417,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50416,1171419417,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50417,1171419417,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50418,1171419417,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50419,1171419417,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50420,1171419417,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50421,1171419417,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50422,1171419494,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50423,1171419494,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50424,1171419494,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50425,1171419494,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50426,1171419494,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50427,1171419494,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50428,1171419494,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50429,1171419494,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50430,1171419494,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50431,1171419494,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50432,1171419494,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50433,1171419544,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50434,1171419544,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50435,1171419544,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50436,1171419544,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50437,1171419544,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50438,1171419544,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50439,1171419544,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50440,1171419544,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50441,1171419544,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50442,1171419544,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50443,1171419544,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50444,1171419548,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50445,1171419548,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50446,1171419548,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50447,1171419548,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50448,1171419549,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50449,1171419549,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50450,1171419549,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50451,1171419549,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50452,1171419549,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50453,1171419549,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50454,1171419549,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50455,1171419549,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50456,1171419550,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50457,1171419550,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50458,1171419550,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50459,1171419550,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50460,1171419550,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50461,1171419550,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50462,1171419550,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50463,1171419550,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50464,1171419550,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50465,1171419550,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50466,1171419550,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50467,1171419584,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50468,1171419584,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50469,1171419584,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50470,1171419584,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50471,1171419584,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50472,1171419584,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50473,1171419585,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50474,1171419585,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50475,1171419585,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50476,1171419585,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50477,1171419585,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50478,1171419587,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50479,1171419587,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50480,1171419587,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50481,1171419587,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50482,1171419588,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50483,1171419588,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50484,1171419588,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50485,1171419588,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50486,1171419588,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50487,1171419588,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50488,1171419588,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50489,1171419684,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50490,1171419684,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50491,1171419684,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50492,1171419684,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50493,1171419684,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50494,1171419684,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50495,1171419684,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50496,1171419684,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50497,1171419684,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50498,1171419684,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50499,1171419684,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50500,1171419693,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50501,1171419693,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50502,1171419693,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50503,1171419693,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50504,1171419693,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50505,1171419693,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50506,1171419693,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50507,1171419693,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50508,1171419693,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50509,1171419693,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50510,1171419724,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50511,1171419724,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50512,1171419724,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50513,1171419724,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50514,1171419724,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50515,1171419724,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50516,1171419724,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50517,1171419724,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50518,1171419724,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50519,1171419724,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50520,1171419793,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50521,1171419793,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50522,1171419793,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50523,1171419793,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50524,1171419793,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50525,1171419793,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50526,1171419793,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50527,1171419793,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50528,1171419793,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50529,1171419793,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50530,1171419793,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50531,1171419796,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50532,1171419796,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50533,1171419796,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50534,1171419796,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50535,1171419797,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50536,1171419797,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50537,1171419797,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50538,1171419797,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50539,1171419797,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50540,1171419797,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50541,1171419797,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50542,1171419797,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50543,1171419797,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50544,1171419797,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50545,1171419798,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50546,1171419798,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50547,1171419798,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50548,1171419798,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50549,1171419798,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50550,1171419798,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50551,1171419813,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50552,1171419813,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50553,1171419813,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50554,1171419813,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50555,1171419813,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50556,1171419813,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50557,1171419813,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50558,1171419813,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50559,1171419813,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50560,1171419813,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50561,1171419813,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50562,1171419845,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50563,1171419845,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50564,1171419845,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50565,1171419845,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50566,1171419846,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50567,1171419846,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50568,1171419846,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50569,1171419846,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50570,1171419846,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50571,1171419846,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50572,1171419846,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50573,1171419846,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50574,1171419862,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50575,1171419862,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50576,1171419862,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50577,1171419862,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50578,1171419862,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50579,1171419862,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50580,1171419862,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50581,1171419862,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50582,1171419862,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50583,1171419862,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50584,1171419862,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50585,1171419866,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50586,1171419866,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50587,1171419866,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50588,1171419866,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50589,1171419866,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50590,1171419866,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50591,1171419866,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50592,1171419866,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50593,1171419866,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50594,1171419866,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50595,1171419881,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50596,1171419881,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50597,1171419881,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50598,1171419881,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50599,1171419881,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50600,1171419881,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50601,1171419881,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50602,1171419881,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50603,1171419881,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50604,1171419881,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50605,1171419881,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50606,1171420024,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50607,1171420024,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50608,1171420024,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50609,1171420024,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50610,1171420024,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50611,1171420024,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50612,1171420024,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50613,1171420024,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50614,1171420024,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50615,1171420039,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50616,1171420039,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50617,1171420039,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50618,1171420039,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50619,1171420039,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50620,1171420040,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50621,1171420040,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50622,1171420040,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50623,1171420040,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50624,1171420040,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50625,1171420040,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50626,1171420047,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50627,1171420047,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50628,1171420047,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50629,1171420047,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50630,1171420047,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50631,1171420047,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50632,1171420047,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50633,1171420047,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50634,1171420047,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50635,1171420047,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50636,1171420047,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50637,1171420114,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50638,1171420114,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50639,1171420114,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50640,1171420114,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50641,1171420114,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50642,1171420114,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50643,1171420114,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50644,1171420114,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50645,1171420114,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50646,1171420114,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50647,1171420114,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50648,1171420126,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50649,1171420126,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50650,1171420126,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50651,1171420126,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50652,1171420126,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50653,1171420126,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50654,1171420126,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50655,1171420126,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50656,1171420126,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50657,1171420126,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50658,1171420126,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50659,1171420130,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50660,1171420130,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50661,1171420130,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50662,1171420130,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50663,1171420130,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50664,1171420130,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50665,1171420130,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50666,1171420130,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50667,1171420130,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50668,1171420130,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50669,1171420130,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50670,1171420193,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50671,1171420193,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50672,1171420193,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50673,1171420193,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50674,1171420193,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50675,1171420194,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50676,1171420194,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50677,1171420194,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50678,1171420194,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50679,1171420194,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50680,1171420194,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50681,1171420220,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50682,1171420220,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50683,1171420220,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50684,1171420220,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50685,1171420220,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50686,1171420220,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50687,1171420220,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50688,1171420220,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50689,1171420253,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50690,1171420253,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50691,1171420253,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50692,1171420253,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50693,1171420253,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50694,1171420253,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50695,1171420253,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50696,1171420253,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50697,1171420253,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50698,1171420253,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50699,1171420253,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50700,1171420257,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50701,1171420257,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50702,1171420257,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50703,1171420257,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50704,1171420257,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50705,1171420257,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50706,1171420257,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50707,1171420257,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50708,1171420257,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50709,1171420257,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50710,1171420257,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50711,1171420267,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50712,1171420267,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50713,1171420267,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50714,1171420267,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50715,1171420267,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50716,1171420267,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50717,1171420267,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50718,1171420267,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50719,1171420268,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50720,1171420268,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50721,1171420268,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50722,1171420279,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50723,1171420279,tg-c401,DEV,+END HARDWARE ERROR STATE AT CPE,computation,317
+50724,1171420279,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50725,1171420279,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50726,1171420279,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50727,1171420279,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50728,1171420279,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50729,1171420279,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50730,1171420279,tg-c401,DEV,+ Platform Specific Error Detail:,computation,317
+50731,1171420279,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50732,1171420279,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50733,1171420300,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,317
+50734,1171420300,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,317
+50735,1171420300,tg-c401,DEV,+Platform Specific Error Info Section,computation,317
+50736,1171420300,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50737,1171420300,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50738,1171420300,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50739,1171420300,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,317
+50740,1171420300,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317
+50741,1171420300,tg-c401,MEM,"Physical Address x, Address Mask: x, Node: x, Card: x, Module: x, Bank: x, Device: x, Row: x, Column: x,",computation,317

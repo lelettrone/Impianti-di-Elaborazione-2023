@@ -1,0 +1,20 @@
+,Timestamp,Node,Subsystem,Message,Type,Tuple
+2127,1167798435,tg-c781,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,25
+2128,1167798435,tg-c781,DEV,+Platform PCI Component Error Info Section,computation,25
+2129,1167798435,tg-c781,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,25
+2130,1167798587,tg-s176,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,storage,25
+2131,1167798587,tg-s176,DEV,+END HARDWARE ERROR STATE AT CPE,storage,25
+2132,1167798587,tg-s176,DEV,+Platform PCI Component Error Info Section,storage,25
+2133,1167798587,tg-s176,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",storage,25
+2134,1167798634,tg-c781,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,25
+2135,1167798634,tg-c781,DEV,+Platform PCI Component Error Info Section,computation,25
+2136,1167798634,tg-c781,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,25
+2137,1167798759,tg-c781,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,25
+2138,1167798759,tg-c781,DEV,+Platform PCI Component Error Info Section,computation,25
+2139,1167798759,tg-c781,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,25
+2140,1167798892,tg-s176,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,storage,25
+2141,1167798892,tg-s176,DEV,+END HARDWARE ERROR STATE AT CPE,storage,25
+2142,1167798892,tg-s176,DEV,+Platform PCI Component Error Info Section,storage,25
+2143,1167798892,tg-s176,DEV,+Platform Specific Error Info Section,storage,25
+2144,1167798892,tg-s176,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",storage,25
+2145,1167798892,tg-s176,DEV,+ Platform Specific Error Detail:,storage,25

@@ -1,0 +1,9 @@
+,Timestamp,Node,Subsystem,Message,Type,Tuple
+73009,1171501062,tg-c401,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,338
+73010,1171501062,tg-c401,DEV,+Platform PCI Component Error Info Section,computation,338
+73011,1171501062,tg-c401,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,338
+73012,1171501222,tg-c880,DEV,+BEGIN HARDWARE ERROR STATE AT CPE,computation,338
+73013,1171501222,tg-c880,DEV,+Platform PCI Component Error Info Section,computation,338
+73014,1171501222,tg-c880,DEV,+Platform PCI Component Error Info Section,computation,338
+73015,1171501222,tg-c880,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,338
+73016,1171501222,tg-c880,DEV,"Component Info: Vendor Id =x x, Device Id =x x, Class Code =x x, Seg Bus Dev Func =x x x x x",computation,338
